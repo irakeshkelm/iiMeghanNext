@@ -5,8 +5,9 @@ https://meghantrump.usa.ii
 
 Check out, peckingOrderGenetics.txt (Actively updated)
 
-Operationalize USA. Train and maintain Independent Interest.
-
-Continue building USA. Expand and Update Independent Interest.
+Operationalize USA. 
+Train Independent interest 
+and 
+Maintain Independent interest
 
 Check out, other files in this folder (Actively updated).
