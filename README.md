@@ -3,12 +3,10 @@ Meghan Trump - USA, Independent interest (Suc-king)
 
 https://meghantrump.usa.ii
 
-Check out, rakeshKukatla.txt in this folder
+Check out, peckingOrderGenetics.txt (Actively updated)
 
-Check out, irakeshkelm/iiforward folder (multiple files)
+Operationalize USA. Train and maintain Independent Interest.
 
-Check out, rakeshkelm/iipresentGuard folder (multiple files)
+Continue building USA. Expand and Update Independent Interest.
 
-Check out, irakeshkelm/iirearGuard folder (multiple files)
-
-Check out, irakeshkelm/meghantrump2024 folder (multiple files)
+Check out, other files in this folder (Actively updated).
