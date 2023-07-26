@@ -1,7 +1,7 @@
 # megahan2024
 Meghan Trump - USA, Independent interest (Suc-king)
 
-https://meghantrump.usa.ii
+https://meghan2024.usa.ii
 
 Check out, peckingOrderGenetics.txt (Actively updated)
 
