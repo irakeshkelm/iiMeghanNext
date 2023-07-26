@@ -1,4 +1,4 @@
-# megahan2024
+# meghan2024
 Meghan Trump - USA, Independent interest (Suc-king)
 
 https://meghan2024.usa.ii
