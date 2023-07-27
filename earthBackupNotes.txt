@@ -457,6 +457,75 @@ web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
 
 
+Pecking order - American english and World english
+
+
+American
+[
+lemon-aid english
+{
+Portland english
+Silicon valley english
+Peninsula english
+}
+lemon english
+{
+Hawaii english
+Marin english
+San Francisco english
+New York english
+Texan english
+Southern english
+new england english
+}
+]
+
+
+World
+[
+lemon-aid english
+{
+Canada english
+Hongkong english
+Uganda english
+Tanzania english
+Swiss english
+India english
+England english
+Saudi english
+Kenya english
+}
+lemon english
+{
+American english
+Israeli english
+South african english
+Mexican english
+Norway english
+Sweden english
+Spain english
+German english
+Ireland english
+Dutch english
+French english
+Italian english
+}
+]
+
+
+
+
+
+
+
+
+Independent interest and Militia
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
+
+
 Currencies
 
 
