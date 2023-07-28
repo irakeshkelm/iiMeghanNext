@@ -521,20 +521,22 @@ American
 lemon-aid english
 {
 Portland english
-Silicon valley english
-Peninsula english
+Silicon valley english (aka private aviation)
+Peninsula english (real e wedge)
 others(s)
+e = estate
 }
 lemon english
 {
-Hawaii english
-Marin english
-San Francisco english
-New York english
-Texan english
-Southern english
-new england english
+Hawaii english (aka private island)
+Marin english (aka real e wedge)
+San Francisco english (aka real e wedge)
+New York english (aka private aviation)
+Texan english (aka real p wedge)
+Southern english (aka real p wedge)
+new england english (aka real p wedge)
 other(s)
+p = pole
 }
 ]
 
