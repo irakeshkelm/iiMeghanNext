@@ -523,6 +523,7 @@ lemon-aid english
 Portland english
 Silicon valley english
 Peninsula english
+others(s)
 }
 lemon english
 {
@@ -533,6 +534,7 @@ New York english
 Texan english
 Southern english
 new england english
+other(s)
 }
 ]
 
@@ -550,6 +552,7 @@ India english
 England english
 Saudi english
 Kenya english
+other(s)
 }
 lemon english
 {
@@ -566,6 +569,7 @@ Ireland english
 Dutch english
 French english
 Italian english
+other(s)
 }
 ]
 
