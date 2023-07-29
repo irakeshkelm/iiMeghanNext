@@ -1217,11 +1217,26 @@ Hawaiian
 Guam
 other
 ]
+White in color aka mainlanders
+[
+Dutch
+French
+Spanish
+other(s)
+]
+other White in color - newlanders
+[
+Portuguese
+Spanish
+other(s)
+]
+
+
 
 
 Short position on
 [
-Cities with americanco-lo-red (aka slave) museums
+Cities with american co-lo-red (aka slave) museums
 African american - Washington, DC
 Asian american - San francisco, CA
 ]
