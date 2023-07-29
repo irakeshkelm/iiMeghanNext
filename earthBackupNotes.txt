@@ -522,7 +522,7 @@ lemon-aid english
 {
 Portland english
 Silicon valley english (aka private aviation)
-Peninsula english (real e wedge)
+Peninsula english (aka real e wedge)
 others(s)
 e = estate
 }
