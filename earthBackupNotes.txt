@@ -601,6 +601,8 @@ New New eye (aka RIC)
 
 American Irish back in the bag
 [
+Guess, whose bag? (aka sg)
+"Senior guard"
 Nancy O'Dell to Michael Dell to Ireland belle
 o-le o-le to o-la o-la
 Guess, whose ola?
@@ -810,17 +812,30 @@ affiliated with Lourdes - Ascension
 First District
 
 
-Mindy
-Shelley
-Chapman
-
-
+d-i-strict, rakesh kukatla
+[
 
 
 Matt
+Shane
 George
 John
 Chris
+
+
+c
+Skyler
+Gwen
+Fir family
+
+
+e
+Jevon
+Adrin
+Mindy
+Shelley
+Chapman
+]
 
 
 
@@ -2691,11 +2706,19 @@ Tertiary Worklist - Communists, Socialists
 
 
 072723
-- Add insert note, in google notes app at a position you want to or show list view and drag drop off note to required position
+- Add insert note, in google notes app at a position you want to or show list view and drag drop off note to required position (aka positional)
 
 
 071523
 - Rename https to httpe; it's not secure, it's encrypted
+
+
+070823
+Expand all notes - in notes app
+
+
+070423
+Auto generate subject from email message header
 
 
 061623
