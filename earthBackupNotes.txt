@@ -832,6 +832,7 @@ Chris
 
 
 c
+Christine
 Skyler
 Gwen
 Fir family
@@ -839,11 +840,19 @@ Fir family
 
 e
 Rakesh
+Teddy
+Marisa
 Jevon
 Adrin
 Mindy
 Shelley
 Chapman
+
+
+o
+Shady
+
+
 ]
 
 
@@ -1340,7 +1349,7 @@ web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
 
 
-manifesto - Meghan2024
+manifesto - Meghan2024 (aka man-i-fest-o)
 
 
 halleleujah!
