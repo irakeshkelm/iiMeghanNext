@@ -972,6 +972,7 @@ Brandy
 Skyler
 Gwen
 Fir family
+Matt
 
 
 e
@@ -4886,6 +4887,126 @@ location : USA - Banana republicans (aka United slaves, aka Romani)
 USA = United slave america
 
 
+Great cars and houses - 08052023, BroomeNY
+
+
+pe
+[
+e
+hzw 3703
+o
+gus 1436
+hsn 5148
+g
+kcb 5431
+lde 5142
+lbw 5673
+hpg 2015
+637215 d
+jrj 8760
+duj 7165
+hzw 3692
+ngn 1129 fl
+cab7675
+v
+ktm 3603
+lbw 5511
+lby 5132
+dmg 3786
+f
+29518 mw
+grl 6021
+las 2292
+khw 8393
+]
+
+
+cc
+[
+o
+glk 5213
+hyy 9236
+frm 3067
+lbw 5485
+kwz 8446
+kww 9239
+l
+kyu 6933
+hxj 3436
+hxj 5419
+]
+
+
+gs
+[
+e
+gpt 2949
+kyy 7156
+jrx 8890
+kbk 4986
+kch 9111
+722ams v
+hms 2879
+doz 7364
+bck 3354 37
+58936nc 41
+gvv 7246 43
+gbs 8860
+hnv 4035
+jlb 5483
+gbs 8406
+s
+gxf 1583
+1ry 9753
+gje 7059
+khh 1526
+knf 7268
+kta 8413
+fej 5670
+hwa 4342
+sfe 4323
+plu 9061
+hhw 1712
+gbs 8122
+133vtn v
+lilrags9
+kpl 7983
+jgr 5600
+bpx 4381
+hla 9019
+gms 9725
+d
+kpc 8098
+t
+lbw 5743
+h2d 1069
+lbe 4950
+lnr 8122
+kab 6116
+frz 1230
+25180 hl
+krd 7706
+avz 6682
+e
+hvf 6444
+kax 6358
+c
+klf 8977
+gks 2077
+iyt 523 fl
+hnj 4008
+p
+jpn 9605
+jcg 6715
+kkb 5474
+jlb 5054
+
+
+]
+
+
+
+
 Lourdes Hospital - Emergency department, 08042023
 
 
@@ -4979,17 +5100,22 @@ MD is unavailable
 ]
 Tim - Nurse - inside ED
 [
-give consent to place IV for fluids
+gave information
+consent to place IV for fluids
+gives information
 punctures blood vessels, tissue, etcetra (goes too deep with needle).
 leads to, too bloody draw - stains sheets with two - one huge and one large blood stains.
+gave information
 never gave consent to push fluids through a syringe
+gives information
 goes ahead and pushes fluids through syringe
+gave information
 withdraw consent to use IV needle for any fluids
 request removal of IV needle
 ]
 Aaron, Sherry, Shyanne - patient care tech, EKG - inside ED -
 [
-given information
+gives information
 place leads on chest
 will keep you here until 3 PM
 gave information
@@ -4999,23 +5125,23 @@ to test mouth and tongue for dryness
 ]
 Haley and Jason - X-ray tech - inside ED
 [
-given information
+gives information
 to define pain intensity and precise location on knee
 gave information
 of pain at scale of 10
 to use pain meter (aka device) to guage precise location and intensity of pain around knee joint
-given and taken
+gives and taken
 mobile x-rays
 gave information
 request water, juice
 ]
 Mikayla - Phlebotomist - inside ED -
 [
-given information
+gives information
 would like to perform a blood draw for infection check
 gave information
 consent for blood draw on left hand with one needle prick
-given information
+gives information
 wanted blood draw on left hand again, with a second needle prick
 gave information
 request the second blood draw, performed on right hand. request granted
@@ -5030,13 +5156,13 @@ Left knee injury, unable to bike, run, hike and intermittent pain
 ]
 David - Patient transport tech - outside ED -
 [
-given information - vitals, and transport to triage room
+gives information - vitals, and transport to triage room
 gave information - request water, juice
 ]
 Aimee - Receptionist - outside ED -
 [
 Check in - outside ED with Aimee.
-given information
+gives information
 asks for name, last name and phone number
 gave information
 Provided name, last name and given rights booklet. Request to remove all phone numbers from EMR system.
@@ -5052,7 +5178,7 @@ Check in - at adjacent building with Receptionist on first floor of Primary care
 gave information
 Requested transport to ED. Request granted and wheel chaired to ED.
 gave information
-Request valet parking - at adjacent building with valet, outside at street level. given information, service unavailable
+Request valet parking - at adjacent building with valet, outside at street level. gives information, service unavailable
 ]
 
 
