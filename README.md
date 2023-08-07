@@ -3,13 +3,25 @@ Meghan Trump - USA, Independent interest (Suc-king)
 
 https://meghan2024.usa.ii
 
-Check out, peckingOrderGenetics.txt (Actively updated)
+Check out, 
 
-then,
+peckingOrderGenetics.txt (Actively updated)
 
-continue - to check out, manifestoMeghan2024.txt
+then, continue to 
+
+Check out, 
+
+manifestoMeghan2024.txt
+
+if, still interested,
+
+Check out,
+
+peckingOrderSystems.txt
+
 
 Operationalize USA. 
+
 Train Independent interest 
 and 
 Maintain Independent interest
