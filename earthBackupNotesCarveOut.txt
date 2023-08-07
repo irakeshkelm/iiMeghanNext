@@ -886,12 +886,13 @@ World
 [
 lemon-aid english
 {
+India english
+Srilankan english
 Canada english
 Hongkong english
 Uganda english
 Tanzania english
 Swiss english
-India english
 England english
 Saudi english
 Kenya english
@@ -2390,6 +2391,33 @@ p2p
 identity, open identity (nada centralized id)
 elections, open voting (nada secret ballot)
 p2p = peer to peer
+]
+
+
+s-port-ies
+[
+third world (aka developing world aka militia)
+{
+world english, for individual and independent interest
+militia
+Indian sirdarji male (aka nada i-nd-i-ra)
+Sri lankan dark brown female (aka nada raj-i-v)
+Canadian sirdarji male (aka lock-her-bi-e)
+}
+colored world (aka banana world aka slaves)
+{
+american colored english, against individual and independent interest
+nada banana republicans
+aka colored - yellow english
+aka colored - black english
+aka colored - brown english
+try
+manifesto meghan2024
+at
+github.com/irakeshkelm/iimeghan2024/manifestomeghan2024.txt
+
+
+}
 ]
 
 
