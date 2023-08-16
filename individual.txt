@@ -48,16 +48,54 @@ explained in detail,
 at
 github.com/irakeshkelm/iirakeshkukatla/peckingOrderMales.txt
 github.com/irakeshkelm/iirakeshkukatla/peckingOrderSystems.txt
+github.com/irakeshkelm/iiforward/individual.txt
 github.com/irakeshkelm/iirakeshkukatla/peckingOrderGenetics.txt
-github.com/irakeshkelm/iimeghan2024/manifestomeghan2024.txt
+github.com/irakeshkelm/iimeghan2024/manifestoMeghan2024.txt
 }
 ]
 
 
-Sizes
+Size's
 [
 Family, couple, adult, teenager and kid sizes and prices in ice creams and everything in big box stores
 Family = Breast Feeding
+]
+
+
+Teen's
+[
+try
+nada kid's (aka with culture)
+and/or
+give up kid's (aka with culture)
+else
+have kid's (aka without culture)
+and/or
+keep kid's (aka without culture)
+]
+
+
+MoM's
+[
+try
+raising kid's
+by your-sel-f (aka with culture)
+else
+give up kid's
+to day care (aka without culture)
+and/or
+give up kid's
+to foster care (aka without culture)
+]
+
+
+G-rand parents
+[
+try
+DNI (do not interfere - aka with culture)
+else
+give up g-rand kid's
+to foster care (aka with culture)
 ]
 
 
