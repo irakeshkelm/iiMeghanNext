@@ -1072,8 +1072,8 @@ Keep re-recording in
 [
 original
 Operatic
+Swiss
 English
-Swedish
 Finnish
 ]
 
