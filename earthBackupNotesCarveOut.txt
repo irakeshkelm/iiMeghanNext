@@ -169,7 +169,7 @@ X = Axed
 J = Juiced (aka Geneticised and/or Slaved)
 I = Irish
 ADD = Attention deficit disorder
-Xi = Axed Irish
+Xi = old Axed
 ]
 
 
