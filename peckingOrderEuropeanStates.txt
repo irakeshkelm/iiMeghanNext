@@ -1,7 +1,7 @@
 ﻿Pecking order - European states
 
 
-Europe, Geo-graphic Mar-king and Education
+ Europe, Geo-graphic Mar-king and Education
 [
 Northern
 Scandinavia
@@ -9,6 +9,10 @@ Scandinavia
 
 Western
 Englia
+if requested, Scottish referendum (aka any referendum)
+[
+every 50 years (aka new population, 18 to 65-68)
+]
 
 
 Eastern
