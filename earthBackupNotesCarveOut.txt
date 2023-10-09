@@ -1752,11 +1752,21 @@ Music List
 
 Independent interest and Militia
 [
-Proper White - ?
-XJ White - Princesses don't cry, boys are running high (aka pepe texho)
-XJ Trailer White - Baby, I can turn you on (aka Bebe Rexha)
-XJ Special Note - G-e-n-e-t-i-c-s - hey hey (aka yay yay)
+Planetarian White - ?
 Extra - XJ Special Note - Where have all the cowboys gone (aka Rakesh Kukatla)
+XJ Trailer White - Baby, I can turn you on (aka Bebe Rexha)
+XJ White - Princesses don't cry, boys are running high (aka pepe texho)
+XJ Special Note - G-e-n-e-t-i-c-s - hey hey (aka yay yay)
+]
+
+
+Keep re-recording in
+[
+American Planetarian
+American Scandinavian
+American English
+American Swiss
+American French
 ]
 
 
@@ -1767,16 +1777,6 @@ Keep re-recording in
 ?
 ?
 ?
-]
-
-
-Keep re-recording in
-[
-original
-English
-Finnish
-Swiss
-Operatic
 ]
 
 
@@ -1784,9 +1784,19 @@ Keep re-recording in
 [
 Argentinian Spanish
 Chilean Spanish
-Paraguayan Spanish Portuguese
+Paraguayan Spanish and Portuguese
 Uruguayan Spanish and Portuguese
 Brazilian Portuguese
+]
+
+
+Keep re-recording in
+[
+?
+?
+?
+?
+?
 ]
 
 
@@ -1796,7 +1806,7 @@ Brazilian Portuguese
 
 
 
-Independent interest and Militia (aka Independently joint)
+Independent interest and Militia (aka Independently joint aka Independent and Professional)
 Smart communication
 Internet (aka Trailer net)
 git : aka fool
