@@ -2215,7 +2215,7 @@ micro-soft
 ]
 
 
-Short short position on extra (X) new (N) and juiced (J) prime
+ Mega short position on extra (X) new (N) and juiced (J) prime
 [
 Palantir
 Special Note:
@@ -2223,7 +2223,7 @@ Paypal
 ]
 
 
-Short position on New (N) and juiced (J) prime
+Big short position on New (N) and juiced (J) prime
 [
 Facebook
 Special Note:
@@ -2231,7 +2231,7 @@ Ebay
 ]
 
 
-Short position on old (O) and juiced (J) prime
+Medium short position on old (O) and juiced (J) prime
 [
 Oracle
 Cisco
@@ -2239,7 +2239,7 @@ Microsoft
 ]
 
 
-Short position on New (N) subjuiced (SJ) sub-prime
+Small short position on New (N) subjuiced (SJ) sub-prime
 [
 Amazon
 Google
