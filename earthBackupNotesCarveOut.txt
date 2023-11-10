@@ -1,4 +1,79 @@
-﻿Open copyright
+﻿Architecture firmware (aka ArmFirmware, RiscvFirmware, x86Firmware)
+
+
+Architecture firmware
+[
+from hardware firm's
+simple, modern
+and
+open source, open copyright
+and
+capable of running
+Architecture OsContainerware
+Architecture OsDistributorware
+Architecture VirtualMachineware
+]
+
+
+Architecture OsContainerware (aka ArmOsContainerware, RiscvOsContainerware, x86OsContainerware aka private hardware)
+[
+simple, modern
+and
+open source, open copyright
+and
+capable of running
+container's - server, app's, client-browser and other
+]
+
+
+Architecture OsDistributorware (aka ArmOsDistributorware, RiscvOsDistributorware, x86OsDistributorware aka ArchOsKubernetesware aka shared hardware aka redundancy)
+[
+simple, modern
+and
+open source, open copyright
+and
+capable of running
+OsContainerware, container's - os, server, client-browser, other)
+]
+
+
+Architecture VirtualMachineware (aka ArmVirtualMachineware, RiscvVirtualMachineware x86VirtualMachineware aka FwVirtualMachineware aka shared hardware aka redundancy)
+[
+simple, modern
+and
+open source, open copyright
+and
+capable of running
+Architecture OsContainerware
+Architecture OsDistributorware
+]
+
+
+
+
+
+
+
+
+-----Open copyright-----
+Independent interest and Militia (aka Independently joint aka Independent and Professional)
+-----Smart status
+Unlucky (aka bastard)
+Single and Available
+-----Smart communication
+Internet (aka Trailer net)
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm/iirakeshkukatla
+web : github.usa.saudiroyalist/rakeshkelm/ideasonthemove
+-----Smart location
+America (aka Trailer park)
+Address : 7 Elm Street, Exurban New York-Binghamton, Kingdom of NY 13905
+location : USA - Banana republican's (aka United whore's, aka Romani)
+USA = United slave america
+
+
+Open copyright
 
 
 outlined
@@ -6,7 +81,7 @@ outlined
 Independent interest
 and
 Militia
-Independently joint
+-----Independently joint
 Independent
 and
 Professional
@@ -79,10 +154,12 @@ map's content - localized image's, audio, video's
 git content
 market's content
 other
-reference content
+reference content (IRS tax, State incorporation, Owners)
 -----automatic app's and content update's
 like tplink appliance
 ]
+
+
 
 
 
@@ -105,316 +182,6 @@ America (aka Trailer park)
 Address : 7 Elm Street, Exurban New York-Binghamton, Kingdom of NY 13905
 location : USA - Banana republican's (aka United whore's, aka Romani)
 USA = United slave america
-
-
-email - President's at University of Houston, Emory university, Georgia Institute of Technology, Georgia State University and Clark Atlanta University (aka Post marketing follow up aka Accredit-ing)
-
-
-
-
-Rakesh Kukatla - Available for ARM-ing! (aka live) Speak-ing! (aka Independent interest and Militia) and Tour-ing! (aka Post marketing follow up aka Accredit-ing)
-
-
-Inbox
-Add star Rakesh Kukatla<rakeshkelm@gmail.com> Thu, Oct 19, 2023 at 2:32 PM
-To: RenuKhator@uh.edu, 7137438820@uh.edu, GregoryLFenves@emory.edu, 4047276013@emory.edu, ÁngelCabrera@gatech.edu, 4048945051@gatech.edu, MBrianBlake@gsu.edu, 4044131300@gsu.edu, GeorgeTFrenchJunior@cau.edu, 4048808500@cau.edu
-Cc: LeonardMBaynes@uh.edu, 7137432100@uh.edu, MaryAnneBobinski@emory.edu, 4047276816@emory.edu, jonathan.clarke@scheller.gatech.edu, 4044515124@scheller.gatech.edu, LaVondaNReed@gsu.edu, 4044139000@gsu.edu, SUdoka@cau.edu, 4048808470@cau.edu
-Bcc: memartinez@uh.edu, carmen@uh.edu, AngieDaniels@emory.edu, KimberWilliams@emory.edu, claudete.richardson@gatech.edu, tracey.huddleston@gatech.edu, ShanaBrewton@gsu.edu, SonnyPerdue@usg.edu, rhardy@cau.edu, StephanieRussell@cau.edu
-Reply | Reply to all | Forward | Print | Delete | Show original
-
-
-Dated:
-October 19, 2023.
-
-
-Sent via email to:
-RenuKhator@uh.edu, Renu Khator, President, University of Houston.
-7137438820@uh.edu, Renu Khator, President, University of Houston.
-GregoryLFenves@emory.edu, Gregory L. Fenves, President, Emory University.
-4047276013@emory.edu, Gregory L. Fenves, President, Emory University.
-ÁngelCabrera@gatech.edu, Ángel Cabrera, President, Georgia Institute
-of Technology.
-4048945051@gatech.edu, Ángel Cabrera, President, Georgia Institute of
-Technology.
-MBrianBlake@gsu.edu, M. Brian Blake, President, Georgia State University.
-4044131300@gsu.edu, M. Brian Blake, President, Georgia State University.
-GeorgeTFrenchJunior@cau.edu, George T. French, Jr., President, Clark
-Atlanta University.
-4048808500@cau.edu, George T. French, Jr., President, Clark Atlanta University.
-
-
-Sent via email cc:
-LeonardMBaynes@uh.edu, Leonard M. Baynes, Dean, School of Law,
-University of Houston.
-7137432100@uh.edu, Leonard M. Baynes, Dean, School of Law, University
-of Houston.
-MaryAnneBobinski@emory.edu, Mary Anne Bobinski, Dean, School of Law,
-Emory University.
-4047276816@emory.edu, Mary Anne Bobinski, Dean, School of Law, Emory University.
-jonathan.clarke@scheller.gatech.edu, Jonathan Clarke, Dean, School of
-Management, Georgia Institute of Technology.
-4044515124@scheller.gatech.edu, Jonathan Clarke, Dean, School of
-Management, Georgia Institute of Technology.
-LaVondaNReed@gsu.edu, LaVonda N. Reed, Dean, School of Law, Georgia
-State University.
-4044139000@gsu.edu, LaVonda N. Reed, Dean, School of Law, Georgia
-State University.
-SUdoka@cau.edu, Silvanus J. Udoka, Dean, School of Management, Clark
-Atlanta University.
-4048808470@cau.edu, Silvanus J. Udoka, Dean, School of Management,
-Clark Atlanta University.
-
-
-Sent via email bcc:
-memartinez@uh.edu, Marie Martinez, Executive Administrative Assistant,
-University of Houston.
-carmen@uh.edu, Carmen Hernandez, Executive Assistant, University of Houston.
-AngieDaniels@emory.edu, Angie Daniels, Executive Administrative
-Assistant, Emory University.
-KimberWilliams@emory.edu, Kimber Williams, Writer, Emory University.
-claudete.richardson@gatech.edu, Claudete Richardson, Administrative
-Professional, Georgia Institute of Technology.
-tracey.huddleston@gatech.edu, Tracey Huddleston, Executive Assistant,
-Georgia Institute of Technology.
-ShanaBrewton@gsu.edu, Shana Brewton, Assistant to the President,
-Georgia State University.
-SonnyPerdue@usg.edu, Sonny Perdue, Chancellor, University System of Georgia.
-rhardy@cau.edu, Rita Hardy, Staff to the President, Clark Atlanta University.
-StephanieRussell@cau.edu, Stephanie Russell, Secretary to the Board,
-Clark Atlanta University.
-
-
-Subject:
-Rakesh Kukatla - Available for ARM-ing! (aka live) Speak-ing! (aka
-Independent interest and Militia) and Tour-ing! (aka Post marketing
-follow up aka Accredit-ing)
-
-
-Hi Renu Khator, Gregory L. Fenves, Ángel Cabrera, M. Brian Blake and
-George T. French,
-
-
-If you would like to connect with me, I am available (at your convenience).
-
-
-I have heard from public sources of information that you have an
-interest in ARM-ing! (aka live) Speak-ing! (aka Independent interest
-and Militia) and Tour-ing! (aka Post marketing follow up aka Accredit-ing).
-
-
-I have an interest in Expanding and updating the Independent interest,
-around earth, moon's, planet's, star's and galaxies.
-
-
-Jeez!
-github.com/irakeshkelm/iiforward/patentTrademarkInfringementsUsa.txt
-
-
-Omg!
-github.com/irakeshkelm/iiforward/politicsAndWarUsa.txt
-github.com/rakeshkelm/broomeCountyStateGovNyUsaSaudiRoyalists/BinghamtonPoliceTrespass.pdf
-github.com/rakeshkelm/broomeCountyStateGovNyUsaSaudiRoyalists/BinghamtonPoliceIllegalArrest.txt
-github.com/rakeshkelm/broomeCountyStateGovNyUsaSaudiRoyalists/BroomeCountySheriffConfinementFiveWeeks.txt
-github.com/rakeshkelm/broomeCountyStateGovNyUsaSaudiRoyalists/BroomeSheriffCruelAndUnusualPunishment.pdf
-
-
-Oops!
-github.com/rakeshkelm/broomeCountyStateGovNyUsaSaudiRoyalists/BroomeBoeChurchStateSeparation.jpg
-https://github.com/rakeshkelm/broomeCountyStateGovNyUsaSaudiRoyalists/BroomeDssJessieSullivan2.pdf
-https://github.com/rakeshkelm/broomeCountyStateGovNyUsaSaudiRoyalists/BroomeDssJessieSullivanCheck.pdf
-
-
-how about!
-github.com/irakeshkelm/iirakeshkukatla/ottawaEmbassies2023withCarToCarveOut.txt
-and/or
-github.com/irakeshkelm/iirakeshkukatla/nadaDoubleOccupancyInGovernment.txt
-
-
-check it out,
-github.com/irakeshkelm/iirakeshkukatla/fifthTimeInTwoHundredFiftyYears.txt
-github.com/irakeshkelm/iirakeshkukatla/needsAmericaRakeshKukatlaActivelyFillingUsaWorld.txt
-
-
-also check out,
-github.com/irakeshkelm/iirakeshkukatla/peckingOrderMales.txt (Note:
-check Weitsgirl section)
-github.com/irakeshkelm/iirakeshkukatla/peckingOrderSystems.txt
-github.com/irakeshkelm/iiforward/individual.txt
-github.com/irakeshkelm/iimeghan2024/peckingOrderGenetics.txt
-github.com/irakeshkelm/iimeghan2024/manifestoMeghan2024.txt
-
-
-further check out,
-github.com/irakeshkelm/iirakeshkukatla/juiceGirlNyNyGeneticistsSlavesExit.txt
-github.com/irakeshkelm/iirakeshkukatla/peckingOrderEstablishmentInterestStatesUsa.txt
-
-
-finally check out,
-github.com/irakeshkelm/iiforward/peckingOrderConservativeElephantLeEnfantVentureCapitalFirms.txt
-github.com/irakeshkelm/iiforward/peckingOrderConservativeElephantLeEnfantSoftwareCorp.txt
-
-
-I am very much interested in your live speak-ing!. It would be
-wonderful, if you are able to share your smart tour-ing! with me.
-
-
-Zoom me a response, or invite me to your place and University! or Institute!.
-
-
-I reside in a very humble private residence (7 Elm
-Street, Binghamton, Kingdom of NY 13905. USA (Banana republican's aka United
-whore's, aka Romani; USA = United slave america). However, you are
-alway's and most welcome to stop by (at your convenience).
-
-
-PS: Also, forward to family (aka all President's and Dean's) - both up
-and down (aka time).
-PS: Also, forward to Neighbor's (Harris county and other's) - both ex and
-current (aka time).
-PS: Please see.
-
-
-Special Note:
-In my travels around the USA and the World, I have been informed (public
-source's of information) and experienced (private source's of
-information) in many citie's and town's - Princesse's and Bar girl's are
-not hopping into boy's car's or having dinner at boy's house's. It is
-neither customary (aka protocol aka common sense aka common reasoning)
-nor judicious (aka process aka logical sense aka logical reasoning).
-
-
-Nada, Special English Note: from Government, Leader's:
-We have a special relationship with the House of University and
-Institute (aka most
-favored Educator's).
-
-
-Special American Note:
-Have fun! Degree-ing and Accredit-ing!
-
-
-Thank you and happy ARM-ing, speak-ing and tour-ing,
-Rakesh.
-Independent interest and Militia (Independently joint, Independent and
-Professional).
-USA - Banana republican's (aka United whore's, aka Romani).
-USA = United slave america.
-aka = also known as (in government language).
-
-
-
-
---
------
-Smart Communication
-Internet (aka Trailer net)
-git : aka fool
-p2p : git rakeshkelm
-web : github.usa.saudiroyalist/irakeshkelm
-smart apps : rakeshbingk@gmail.com
-Cloud apps : Skype, Zoom, Team's and other
-
-
-Smart location
-Cottage (aka Trailer park)
-7 Elm Street, Exurban New York-Binghamton, Kingdom of NY 13905.
-USA - Banana republican's (aka United whore's, aka Romani)
-USA = United slave america
-
-
-email - Fightin Irish to Fuckin Irish - Irish University and Leadership
-
-
-From Rakesh Kukatla - Request tag line (aka motto) change from Fightin Irish (aka nada English Law) to Fuckin Irish (aka yada Irish Catholic Law)
-
-
-Add star Rakesh Kukatla<rakeshkelm@gmail.com> AttachmentWed, Oct 18, 2023 at 4:37 PM
-To: admission@usfca.edu
-Cc: lawadmissions@usfca.edu
-Bcc: management@usfca.edu
-Reply | Reply to all | Forward | Print | Delete | Show original
-Dated:
-Tuesday - October 18, 2023 (from google Calendar aka engineer's)
-
-
-Sent via email to:
-admission@usfca.edu, Admission Irish Catholic, University of San Francisco
-
-
-Sent via email cc:
-lawadmissions@usfca.edu, Lawadmission's Irish Catholic, University of
-San Francisco
-
-
-Sent via email bcc:
-management@usfca.edu, Management Irish Catholic, University of San Francisco
-
-
-Sent via email from:
-rakeshkelm@gmail.com, Rakesh Kukatla, Independent Interest and Militia
-
-
-Subject:
-From Rakesh Kukatla - Request tag line (aka motto) change from Fightin
-Irish (aka nada English Law) to Fuckin Irish (aka yada Irish Catholic
-Law)
-
-
-Hi admission@usfca.edu,
-
-
-I am requesting all Irish and Irish affiliated school's, college's and
-University's to change their
-tag line (aka motto) from Fightin Irish (aka nada English law) to
-Fuckin Irish (aka yada Irish law).
-
-
-Please, refer to my email to SpaceX and Elon musk (as attached) and
-available for download at:
-github.com/irakeshkelm
-github.com/rakeshkelm
-github.com/rakeshkelmmedia
-
-
-Please, share my email to all Irish and Irish affiliated Company's
-(aka Construction and other's). Also, it would be great if you can
-share this email with all Irish and Irish affiliated Leadership
-(Executive's and Board's).
-
-
-Thank you,
-Rakesh.
-Independent interest and Militia (Independently Joint, Independent and
-Professional)
-USA - Banana republican's (aka United whore's, aka Romani)
-USA = United slave america
-
-
-
-
---
------
-Smart Communication
-Internet (aka Trailer net)
-git : aka fool
-p2p : git rakeshkelm
-web : github.usa.saudiroyalist/irakeshkelm
-smart apps : rakeshbingk@gmail.com
-Cloud apps : Skype, Zoom, Team's and other
-
-
-Smart location
-Cottage (aka Trailer park)
-7 Elm Street, Exurban New York-Binghamton, Kingdom of NY 13905.
-USA - Banana republican's (aka United whore's, aka Romani)
-USA = United slave america
-
-
-2 attachments — Scan and download all attachments
-  emailHomesteadingPlanetGalaxySpaceXElonMusk.txt
-2K View Scan and download
-  emailHomesteadingPlanetGalaxySpaceXElonMusk.pdf
-51K View as HTML Scan and download
 
 
 Endorsement 2024 Presidential election Usa (aka write-in)
@@ -1539,7 +1306,7 @@ USA = United slave america
 Pecking order - European states
 
 
- Europe, Geo-graphic Mar-king and Education
+Europe, Geo-graphic Mar-king and Education
 [
 Northern
 Scandinavia
@@ -1560,9 +1327,10 @@ nada management (aka nada XJ-ing)
 XJ - Axing and Juicing - weitsgirl'ed, coloredgirl'ed and/or female'd, slave'd
 
 
-Southern (aka southernia)
-Germania
-Romancia
+Southern (aka Southernia)
+Germania and Romania
+Germania (aka Sir mania aka manic)
+Romancia (aka Ro mania aka romantic)
 
 
 Olden
@@ -2766,6 +2534,9 @@ yada United whore's, Romani
 yada United slave america
 yada Kingdom of New York
 yada Kingdom of New England
+yada Kingdom of Georgia
+
+
 yada logical reasoning formula
 ]
 
@@ -7034,6 +6805,1313 @@ November
 General Election/Stupids Day
 December
 Christ/Christmas Day
+
+
+
+
+
+
+
+
+-----Open copyright-----
+Independent interest and Militia (aka Independently joint aka Independent and Professional)
+-----Smart status
+Unlucky (aka bastard)
+Single and Available
+-----Smart communication
+Internet (aka Trailer net)
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm/iirakeshkukatla
+web : github.usa.saudiroyalist/rakeshkelm/ideasonthemove
+-----Smart location
+America (aka Trailer park)
+Address : 7 Elm Street, Exurban New York-Binghamton, Kingdom of NY 13905
+location : USA - Banana republican's (aka United whore's, aka Romani)
+USA = United slave america
+
+
+email - Georgia State University Law Review and The Signal, Georgia State University, Atlanta, GA, USA
+
+
+From Rakesh Kukatla - University news for Georgia State University Law Review and The Signal - Legal (Attorney's and Judge's) and School of Law.
+
+
+Rakesh Kukatla <rakeshkelm@gmail.com> Fri, Nov 3, 2023 at 7:11 AM
+To: AaronLBrown@gsu.edu, AbigailAttaway@gsu.edu, RebeccaLSohnlein@gsu.edu, AnnaliseRay@gsusignal.com, MalikaiCollins@gsusignal.com, RoseDegefa@gsusignal.com
+Cc: KellyannMMalone@gsu.edu, JessiBBartholomew@gsu.edu, MaryKatherineKennedy@gsu.edu, AdamDuffy@gsusignal.com, CaitlinWhisby@gsusignal.com, DesmondLeake@gsusignal.com
+Bcc: NoamKleinman@gsu.edu, CodyAChoi@gsu.edu, JohnEvanLaughter@gsu.edu, IraLivnat@gsusignal.com, GraceBraswell@gsusignal.com, news@gsusignal.com
+
+
+Sent via email Dated:
+November 3, 2023.
+
+
+Sent via email To:
+AaronLBrown@gsu.edu, Aaron L. Brown, Editor, Georgia State University
+Law Review, 39, 2023.
+AbigailAttaway@gsu.edu, Abigail Attaway, Editor, Georgia State
+University Law Review, 39, 2023.
+RebeccaLSohnlein@gsu.edu, Rebecca L. Sohnlein, Editor, Georgia State
+University Law Review, 39, 2023.
+Sent via email To:
+AnnaliseRay@gsusignal.com, Annalise Ray, Editor - Copy, The Signal, 2023.
+MalikaiCollins@gsusignal.com, Malikai Collins, Editor - Sport, The Signal, 2023.
+RoseDegefa@gsusignal.com, Rose Degefa, Editor - Production, The Signal, 2023.
+
+
+Sent via email Cc:
+KellyannMMalone@gsu.edu, Kellyann M. Malone, Editor - Chief, Georgia
+State University Law Review, 39, 2023.
+JessiBBartholomew@gsu.edu, Jessi B. Bartholomew, Editor - Executive,
+Georgia State University Law Review, 39, 2023.
+MaryKatherineKennedy@gsu.edu, Mary Katherine Kennedy, Editor -
+Managing, Georgia State University Law Review, 39, 2023.
+Sent via email Cc:
+AdamDuffy@gsusignal.com, Adam Duffy, Editor - Chief, The Signal, 2023.
+CaitlinWhisby@gsusignal.com, Caitlin Whisby, Editor - Digital, The Signal, 2023.
+DesmondLeake@gsusignal.com, Desmond Leake, Editor, The Signal, 2023.
+
+
+Sent via email Bcc:
+NoamKleinman@gsu.edu, Noam Kleinman, Editor - Digital, Georgia State
+University Law Review, 39, 2023.
+CodyAChoi@gsu.edu, Cody A. Choi, Editor - Digital, Georgia State
+University Law Review, 39, 2023.
+JohnEvanLaughter@gsu.edu, John Evan Laughter, Editor - Conference,
+Georgia State University Law Review, 39, 2023.
+Sent via email Bcc:
+IraLivnat@gsusignal.com, Ira Livnat, Editor - Operation, The Signal, 2023.
+GraceBraswell@gsusignal.com, Grace Braswell, Editor - Life, The Signal, 2023.
+news@gsusignal.com, Editor, News, The Signal, 2023.
+
+
+Sent via email From:
+rakeshkelm@gmail.com, Rakesh Kukatla, Independent interest and Militia.
+
+
+Sent via email Subject:
+From Rakesh Kukatla - University news for Georgia State University Law Review
+and The Signal - Legal (Attorney's and Judge's) and School of Law.
+
+
+Sent via email Attachment:
+emailPresidentsUniversityHoustonEmoryGeorgiaInstituteTechnologyGeorgiaStateClarkAtlantaPostMarketingFollowupAccrediting.txt
+emailPresidentsUniversityHoustonEmoryGeorgiaInstituteTechnologyGeorgiaStateClarkAtlantaPostMarketingFollowupAccrediting.pdf
+
+
+Hi Aaron, Abigail, Rebecca and Annalise, Malikai, Rose,
+
+
+If you would like to connect with me, I am available (at your convenience).
+
+
+I am attaching an email I sent to Brian Blake, President,
+Georgia State University and other President's and Dean's.
+
+
+The above email and other content is also available for download at:
+githhub.com/irakeshkelm
+githhub.com/rakeshkelm
+githhub.com/rakeshkelmmedia
+
+
+If you are having any technology issue's, Phil Ventimiglia, Chief
+Information Officer, Georgia State University is a great contact
+(technology.gsu.edu). Also, Rebecca and Rose are equally competent.
+I am also available to Phil, Rebecca, Rose and other's.
+
+
+If you are having any content issue's Aaron and Abigail (both at the
+Georgia State University Law Review - readingroom.law.gsu.edu/gsulr)
+and Analise and Malikai (both at The Signal - georgiastatesignal.com)
+are great contact's.
+I am also available to Aaron, Abigail, Analise, Malikai and other's.
+
+
+Zoom me a response, or invite me to your place and University or School!.
+
+
+I reside in a very humble private residence (7 Elm
+Street, Binghamton, Kingdom of NY 13905. USA (Banana republican's aka
+United whore's, aka Romani; USA = United slave america). However, you
+are alway's and most welcome to stop by (at your convenience).
+
+
+Thank you,
+Rakesh.
+Independent interest and Militia (Independently joint, Independent and
+Professional).
+Status: Unlucky bastard
+USA - Banana republican's (aka United whore's, aka Romani).
+USA = United slave america.
+aka = also known as (in government language).
+
+
+
+
+--
+-----
+Smart Status
+Unlucky (aka Bastard)
+Single and Available
+
+
+Smart Communication
+Internet (aka Trailer net)
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+smart apps : rakeshbingk@gmail.com
+Cloud apps : Skype, Zoom, Team's and other
+
+
+Smart Location
+Cottage (aka Trailer park)
+7 Elm Street, Exurban New York-Binghamton, Kingdom of NY 13905.
+USA - Banana republican's (aka United whore's, aka Romani)
+USA = United slave america
+
+
+2 attachments
+  emailPresidentsUniversityHoustonEmoryGeorgiaInstituteTechnologyGeorgiaStateClarkAtlantaPostMarketingFollowupAccrediting.txt
+9K
+  emailPresidentsUniversityHoustonEmoryGeorgiaInstituteTechnologyGeorgiaStateClarkAtlantaPostMarketingFollowupAccrediting.pdf
+89K
+
+
+email - Emory Law Review and The Emory Wheel, Emory University, Atlanta, GA, USA
+
+
+From Rakesh Kukatla - University news for Emory University Law Review and The Emory Wheel - Legal (Attorney's and Judge's) and School of Law.
+
+
+Rakesh Kukatla <rakeshkelm@gmail.com> Thu, Nov 2, 2023 at 4:20 PM
+To: shawn.ren@emory.edu, eric.hu.wang@emory.edu, everett.stanley@emory.edu, spencer.friedland@emory.edu, jenny.zha@emory.edu, max.ma@emory.edu
+Cc: Celia.Golod@emory.edu, Anne.Burley@emory.edu, Kelly.Palamar@emory.edu, matthew.chupack@emory.edu, sarah.davis@emory.edu, madi.olivier@emory.edu
+Bcc: case.editor@emory.edu, law.editor@emory.edu, review.editor@emory.edu, miranda.wilson@emory.edu, ayla.khan@emory.edu, yashonandan.kakrania@emory.edu
+
+
+Sent via email Dated:
+November 2, 2023.
+
+
+Sent via email To:
+shawn.ren@emory.edu, Shawn Ren, Editor, Emory Law Review, 73, 2023.
+eric.hu.wang@emory.edu, Eric Hu Wang, Editor, Emory Law Review, 73, 2023.
+everett.stanley@emory.edu, Everett Stanley, Editor - Chief, Emory Law
+Review, 73, 2023.
+Sent via email To:
+spencer.friedland@emory.edu, Spencer Friedland, Editor - News, The
+Emory Wheel, 2023.
+jenny.zha@emory.edu, Jenny Zha, Editor - Copy, The Emory Wheel, 2023.
+max.ma@emory.edu, Max Ma, Editor - Web, The Emory Wheel, 2023.
+
+
+Sent via email Cc:
+Celia.Golod@emory.edu, Celia Golod, Editor - Chief, Emory Law Review, 73, 2023.
+Anne.Burley@emory.edu, Anne Burley, Editor - Managing, Emory Law
+Review, 73, 2023.
+Kelly.Palamar@emory.edu, Kelly Palamar, Editor - Managing, Emory Law
+Review, 73, 2023.
+Sent via email Cc:
+matthew.chupack@emory.edu, Matthew Chupack, Editor - Chief, The Emory
+Wheel, 2023.
+sarah.davis@emory.edu, Sarah Davis, Editor - Chief, The Emory Wheel, 2023.
+madi.olivier@emory.edu, Madi Olivier, Editor - Managing, The Emory Wheel, 2023.
+
+
+Sent via email Bcc:
+case.editor@emory.edu, Case, Editor, Emory Law Review, 73, 2023.
+law.editor@emory.edu, Law, Editor, Emory Law Review, 73, 2023.
+review.editor@emory.edu, Review, Editor, Emory Law Review, 73, 2023.
+Sent via email Bcc:
+miranda.wilson@emory.edu, Miranda Wilson, Editor - Word, The Emory Wheel, 2023.
+ayla.khan@emory.edu, Ayla Khan, Editor - Social, The Emory Wheel, 2023.
+yashonandan.kakrania@emory.edu, Yashonandan Kakrania, Editor - Web,
+The Emory Wheel, 2023.
+
+
+Sent via email From:
+rakeshkelm@gmail.com, Rakesh Kukatla, Independent interest and Militia.
+
+
+Sent via email Subject:
+From Rakesh Kukatla - University news for Emory University Law Review
+and The Emory Wheel - Legal (Attorney's and Judge's) and School of
+Law.
+
+
+Sent via email Attachment:
+emailPresidentsUniversityHoustonEmoryGeorgiaInstituteTechnologyGeorgiaStateClarkAtlantaPostMarketingFollowupAccrediting.txt
+emailPresidentsUniversityHoustonEmoryGeorgiaInstituteTechnologyGeorgiaStateClarkAtlantaPostMarketingFollowupAccrediting.pdf
+
+
+Hi Shawn, Eric, Everett and Spencer, Jenny, Max,
+
+
+If you would like to connect with me, I am available (at your convenience).
+
+
+I am attaching an email I sent to Gregory Fenves, President,
+Emory University and other President's and Dean's.
+
+
+The above email and other content is also available for download at:
+githhub.com/irakeshkelm
+githhub.com/rakeshkelm
+githhub.com/rakeshkelmmedia
+
+
+If you are having any technology issue's, John Ellis, Chief
+Information Officer, Emory University is a great contact
+(joellis@emory.edu, it.emory.edu). Also, Everett and Max are equally competent.
+I am also available to John, Everett, Max and other's.
+
+
+If you are having any content issue's Shawn and Eric (both at the
+Emory Law Review - scholarlycommons.law.emory.edu/elj) and Spencer and
+Jenny (both at The Emory Wheel - emorywheel.com) are great contact's.
+I am also available to Shawn, Eric, Spencer, Jenny and other's.
+
+
+Zoom me a response, or invite me to your place and University or School!.
+
+
+I reside in a very humble private residence (7 Elm
+Street, Binghamton, Kingdom of NY 13905. USA (Banana republican's aka
+United whore's, aka Romani; USA = United slave america). However, you
+are
+alway's and most welcome to stop by (at your convenience).
+
+
+Thank you,
+Rakesh.
+Independent interest and Militia (Independently joint, Independent and
+Professional).
+Status: Unlucky bastard
+USA - Banana republican's (aka United whore's, aka Romani).
+USA = United slave america.
+aka = also known as (in government language).
+
+
+
+
+
+
+--
+-----
+Smart Status
+Unlucky (aka Bastard)
+Single and Available
+
+
+Smart Communication
+Internet (aka Trailer net)
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+smart apps : rakeshbingk@gmail.com
+Cloud apps : Skype, Zoom, Team's and other
+
+
+Smart Location
+Cottage (aka Trailer park)
+7 Elm Street, Exurban New York-Binghamton, Kingdom of NY 13905.
+USA - Banana republican's (aka United whore's, aka Romani)
+USA = United slave america
+
+
+2 attachments
+  emailPresidentsUniversityHoustonEmoryGeorgiaInstituteTechnologyGeorgiaStateClarkAtlantaPostMarketingFollowupAccrediting.txt
+9K
+  emailPresidentsUniversityHoustonEmoryGeorgiaInstituteTechnologyGeorgiaStateClarkAtlantaPostMarketingFollowupAccrediting.pdf
+89K
+
+
+email - Technique, Georgia Institute of Technology, Atlanta, GA, USA
+
+
+From Rakesh Kukatla - Institute news for Georgia Institute of Technology Technique - Legal (Attorney's and Judge's).
+
+
+Rakesh Kukatla <rakeshkelm@gmail.com> Thu, Nov 2, 2023 at 5:46 PM
+To: AlecGrosswald@nique.net, SydneyGordon@nique.net, RishDesai@nique.net, news@nique.net, online@nique.net, technology@nique.net
+Cc: YashviniDeva@nique.net, TehreemHussain@nique.net, EmilyRussell@nique.net, chief@nique.net, managing@nique.net, copy@nique.net
+Bcc: ClaraTemplin@nique.net, AanyaSawhney@nique.net, JessamynLockett@nique.net, design@nique.net, entertainment@nique.net, life@nique.net
+Sent via email Dated:
+November 2, 2023.
+
+
+Sent via email To:
+AlecGrosswald@nique.net, Alec Grosswald, Editor - News, Technique, 2023.
+SydneyGordon@nique.net, Sydney Gordon, Editor - Online, Technique, 2023.
+RishDesai@nique.net, Rish Desai, Editor - Technology, Technique, 2023.
+Sent via email To:
+news@nique.net, Editor, News, Technique, 2023.
+online@nique.net, Editor, Online, Technique, 2023.
+technology@nique.net, Editor, Technology, Technique, 2023.
+
+
+Sent via email Cc:
+YashviniDeva@nique.net, Yashvini Deva, Editor - Chief, Technique, 2023.
+TehreemHussain@nique.net, Tehreem Hussain, Editor - Managing, Technique, 2023.
+EmilyRussell@nique.net, Emily Russell, Editor - Copy, Technique, 2023.
+Sent via email Cc:
+chief@nique.net, Editor, Chief, Technique, 2023.
+managing@nique.net, Editor, Managing, Technique, 2023.
+copy@nique.net, Editor, Copy, Technique, 2023.
+
+
+Sent via email Bcc:
+ClaraTemplin@nique.net, Clara Templin, Editor - Design, Technique, 2023.
+AanyaSawhney@nique.net, Aanya Sawhney, Editor - Entertainment, Technique, 2023.
+JessamynLockett@nique.net, Jessamyn Lockett, Editor - Life, Technique, 2023.
+Sent via email Bcc:
+design@nique.net, Editor, Design, Technique, 2023.
+entertainment@nique.net, Editor, Entertainment, Technique, 2023.
+life@nique.net, Editor, Life, Technique, 2023.
+
+
+Sent via email From:
+rakeshkelm@gmail.com, Rakesh Kukatla, Independent interest and Militia.
+
+
+Sent via email Subject:
+From Rakesh Kukatla - Institute news for Georgia Institute of
+Technology Technique - Legal (Attorney's and Judge's).
+
+
+Sent via email Attachment:
+emailPresidentsUniversityHoustonEmoryGeorgiaInstituteTechnologyGeorgiaStateClarkAtlantaPostMarketingFollowupAccrediting.txt
+emailPresidentsUniversityHoustonEmoryGeorgiaInstituteTechnologyGeorgiaStateClarkAtlantaPostMarketingFollowupAccrediting.pdf
+
+
+Hi Alec, Sidney and Rish,
+
+
+If you would like to connect with me, I am available (at your convenience).
+
+
+I am attaching an email I sent to Ángel Cabrera, President,
+Georgia Institute of Technology and other President's and Dean's.
+
+
+The above email and other content is also available for download at:
+githhub.com/irakeshkelm
+githhub.com/rakeshkelm
+githhub.com/rakeshkelmmedia
+
+
+If you are having any technology issue's, Daren Hubbard, Chief
+Information Officer, Georgia Institute of Technology is a great contact
+(oit.gatech.edu/services). Also, Rish and Clara are equally competent.
+I am also available to Daren, Rish, Clara and other's.
+
+
+If you are having any content issue's Alec and Sydney (both at the
+Technique - nique.net) are great contact's. I am also available to
+Alec, Sydney and other's.
+
+
+Zoom me a response, or invite me to your place and University or School!.
+
+
+I reside in a very humble private residence (7 Elm
+Street, Binghamton, Kingdom of NY 13905. USA (Banana republican's aka
+United whore's, aka Romani; USA = United slave america). However, you
+are
+alway's and most welcome to stop by (at your convenience).
+
+
+Thank you,
+Rakesh.
+Independent interest and Militia (Independently joint, Independent and
+Professional).
+Status: Unlucky bastard
+USA - Banana republican's (aka United whore's, aka Romani).
+USA = United slave america.
+aka = also known as (in government language).
+
+
+
+
+
+
+--
+-----
+Smart Status
+Unlucky (aka Bastard)
+Single and Available
+
+
+Smart Communication
+Internet (aka Trailer net)
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+smart apps : rakeshbingk@gmail.com
+Cloud apps : Skype, Zoom, Team's and other
+
+
+Smart Location
+Cottage (aka Trailer park)
+7 Elm Street, Exurban New York-Binghamton, Kingdom of NY 13905.
+USA - Banana republican's (aka United whore's, aka Romani)
+USA = United slave america
+
+
+2 attachments
+  emailPresidentsUniversityHoustonEmoryGeorgiaInstituteTechnologyGeorgiaStateClarkAtlantaPostMarketingFollowupAccrediting.txt
+9K
+  emailPresidentsUniversityHoustonEmoryGeorgiaInstituteTechnologyGeorgiaStateClarkAtlantaPostMarketingFollowupAccrediting.pdf
+89K
+
+
+email - Fightin Irish to Fuckin Irish - Irish University and Leadership
+
+
+From Rakesh Kukatla - Request tag line (aka motto) change from Fightin Irish (aka nada English Law) to Fuckin Irish (aka yada Irish Catholic Law)
+
+
+Add star Rakesh Kukatla<rakeshkelm@gmail.com> AttachmentWed, Oct 18, 2023 at 4:37 PM
+To: admission@usfca.edu
+Cc: lawadmissions@usfca.edu
+Bcc: management@usfca.edu
+Reply | Reply to all | Forward | Print | Delete | Show original
+Dated:
+Tuesday - October 18, 2023 (from google Calendar aka engineer's)
+
+
+Sent via email to:
+admission@usfca.edu, Admission Irish Catholic, University of San Francisco
+
+
+Sent via email cc:
+lawadmissions@usfca.edu, Lawadmission's Irish Catholic, University of
+San Francisco
+
+
+Sent via email bcc:
+management@usfca.edu, Management Irish Catholic, University of San Francisco
+
+
+Sent via email from:
+rakeshkelm@gmail.com, Rakesh Kukatla, Independent Interest and Militia
+
+
+Subject:
+From Rakesh Kukatla - Request tag line (aka motto) change from Fightin
+Irish (aka nada English Law) to Fuckin Irish (aka yada Irish Catholic
+Law)
+
+
+Hi admission@usfca.edu,
+
+
+I am requesting all Irish and Irish affiliated school's, college's and
+University's to change their
+tag line (aka motto) from Fightin Irish (aka nada English law) to
+Fuckin Irish (aka yada Irish law).
+
+
+Please, refer to my email to SpaceX and Elon musk (as attached) and
+available for download at:
+github.com/irakeshkelm
+github.com/rakeshkelm
+github.com/rakeshkelmmedia
+
+
+Please, share my email to all Irish and Irish affiliated Company's
+(aka Construction and other's). Also, it would be great if you can
+share this email with all Irish and Irish affiliated Leadership
+(Executive's and Board's).
+
+
+Thank you,
+Rakesh.
+Independent interest and Militia (Independently Joint, Independent and
+Professional)
+USA - Banana republican's (aka United whore's, aka Romani)
+USA = United slave america
+
+
+
+
+--
+-----
+Smart Communication
+Internet (aka Trailer net)
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+smart apps : rakeshbingk@gmail.com
+Cloud apps : Skype, Zoom, Team's and other
+
+
+Smart location
+Cottage (aka Trailer park)
+7 Elm Street, Exurban New York-Binghamton, Kingdom of NY 13905.
+USA - Banana republican's (aka United whore's, aka Romani)
+USA = United slave america
+
+
+2 attachments — Scan and download all attachments
+  emailHomesteadingPlanetGalaxySpaceXElonMusk.txt
+2K View Scan and download
+  emailHomesteadingPlanetGalaxySpaceXElonMusk.pdf
+51K View as HTML Scan and download
+
+
+email - President's at University of Houston, Emory university, Georgia Institute of Technology, Georgia State University and Clark Atlanta University (aka Post marketing follow up aka Accredit-ing)
+
+
+
+
+Rakesh Kukatla - Available for ARM-ing! (aka live) Speak-ing! (aka Independent interest and Militia) and Tour-ing! (aka Post marketing follow up aka Accredit-ing)
+
+
+Inbox
+Add star Rakesh Kukatla<rakeshkelm@gmail.com> Thu, Oct 19, 2023 at 2:32 PM
+To: RenuKhator@uh.edu, 7137438820@uh.edu, GregoryLFenves@emory.edu, 4047276013@emory.edu, ÁngelCabrera@gatech.edu, 4048945051@gatech.edu, MBrianBlake@gsu.edu, 4044131300@gsu.edu, GeorgeTFrenchJunior@cau.edu, 4048808500@cau.edu
+Cc: LeonardMBaynes@uh.edu, 7137432100@uh.edu, MaryAnneBobinski@emory.edu, 4047276816@emory.edu, jonathan.clarke@scheller.gatech.edu, 4044515124@scheller.gatech.edu, LaVondaNReed@gsu.edu, 4044139000@gsu.edu, SUdoka@cau.edu, 4048808470@cau.edu
+Bcc: memartinez@uh.edu, carmen@uh.edu, AngieDaniels@emory.edu, KimberWilliams@emory.edu, claudete.richardson@gatech.edu, tracey.huddleston@gatech.edu, ShanaBrewton@gsu.edu, SonnyPerdue@usg.edu, rhardy@cau.edu, StephanieRussell@cau.edu
+Reply | Reply to all | Forward | Print | Delete | Show original
+
+
+Dated:
+October 19, 2023.
+
+
+Sent via email to:
+RenuKhator@uh.edu, Renu Khator, President, University of Houston.
+7137438820@uh.edu, Renu Khator, President, University of Houston.
+GregoryLFenves@emory.edu, Gregory L. Fenves, President, Emory University.
+4047276013@emory.edu, Gregory L. Fenves, President, Emory University.
+ÁngelCabrera@gatech.edu, Ángel Cabrera, President, Georgia Institute
+of Technology.
+4048945051@gatech.edu, Ángel Cabrera, President, Georgia Institute of
+Technology.
+MBrianBlake@gsu.edu, M. Brian Blake, President, Georgia State University.
+4044131300@gsu.edu, M. Brian Blake, President, Georgia State University.
+GeorgeTFrenchJunior@cau.edu, George T. French, Jr., President, Clark
+Atlanta University.
+4048808500@cau.edu, George T. French, Jr., President, Clark Atlanta University.
+
+
+Sent via email cc:
+LeonardMBaynes@uh.edu, Leonard M. Baynes, Dean, School of Law,
+University of Houston.
+7137432100@uh.edu, Leonard M. Baynes, Dean, School of Law, University
+of Houston.
+MaryAnneBobinski@emory.edu, Mary Anne Bobinski, Dean, School of Law,
+Emory University.
+4047276816@emory.edu, Mary Anne Bobinski, Dean, School of Law, Emory University.
+jonathan.clarke@scheller.gatech.edu, Jonathan Clarke, Dean, School of
+Management, Georgia Institute of Technology.
+4044515124@scheller.gatech.edu, Jonathan Clarke, Dean, School of
+Management, Georgia Institute of Technology.
+LaVondaNReed@gsu.edu, LaVonda N. Reed, Dean, School of Law, Georgia
+State University.
+4044139000@gsu.edu, LaVonda N. Reed, Dean, School of Law, Georgia
+State University.
+SUdoka@cau.edu, Silvanus J. Udoka, Dean, School of Management, Clark
+Atlanta University.
+4048808470@cau.edu, Silvanus J. Udoka, Dean, School of Management,
+Clark Atlanta University.
+
+
+Sent via email bcc:
+memartinez@uh.edu, Marie Martinez, Executive Administrative Assistant,
+University of Houston.
+carmen@uh.edu, Carmen Hernandez, Executive Assistant, University of Houston.
+AngieDaniels@emory.edu, Angie Daniels, Executive Administrative
+Assistant, Emory University.
+KimberWilliams@emory.edu, Kimber Williams, Writer, Emory University.
+claudete.richardson@gatech.edu, Claudete Richardson, Administrative
+Professional, Georgia Institute of Technology.
+tracey.huddleston@gatech.edu, Tracey Huddleston, Executive Assistant,
+Georgia Institute of Technology.
+ShanaBrewton@gsu.edu, Shana Brewton, Assistant to the President,
+Georgia State University.
+SonnyPerdue@usg.edu, Sonny Perdue, Chancellor, University System of Georgia.
+rhardy@cau.edu, Rita Hardy, Staff to the President, Clark Atlanta University.
+StephanieRussell@cau.edu, Stephanie Russell, Secretary to the Board,
+Clark Atlanta University.
+
+
+Subject:
+Rakesh Kukatla - Available for ARM-ing! (aka live) Speak-ing! (aka
+Independent interest and Militia) and Tour-ing! (aka Post marketing
+follow up aka Accredit-ing)
+
+
+Hi Renu Khator, Gregory L. Fenves, Ángel Cabrera, M. Brian Blake and
+George T. French,
+
+
+If you would like to connect with me, I am available (at your convenience).
+
+
+I have heard from public sources of information that you have an
+interest in ARM-ing! (aka live) Speak-ing! (aka Independent interest
+and Militia) and Tour-ing! (aka Post marketing follow up aka Accredit-ing).
+
+
+I have an interest in Expanding and updating the Independent interest,
+around earth, moon's, planet's, star's and galaxies.
+
+
+Jeez!
+github.com/irakeshkelm/iiforward/patentTrademarkInfringementsUsa.txt
+
+
+Omg!
+github.com/irakeshkelm/iiforward/politicsAndWarUsa.txt
+github.com/rakeshkelm/broomeCountyStateGovNyUsaSaudiRoyalists/BinghamtonPoliceTrespass.pdf
+github.com/rakeshkelm/broomeCountyStateGovNyUsaSaudiRoyalists/BinghamtonPoliceIllegalArrest.txt
+github.com/rakeshkelm/broomeCountyStateGovNyUsaSaudiRoyalists/BroomeCountySheriffConfinementFiveWeeks.txt
+github.com/rakeshkelm/broomeCountyStateGovNyUsaSaudiRoyalists/BroomeSheriffCruelAndUnusualPunishment.pdf
+
+
+Oops!
+github.com/rakeshkelm/broomeCountyStateGovNyUsaSaudiRoyalists/BroomeBoeChurchStateSeparation.jpg
+https://github.com/rakeshkelm/broomeCountyStateGovNyUsaSaudiRoyalists/BroomeDssJessieSullivan2.pdf
+https://github.com/rakeshkelm/broomeCountyStateGovNyUsaSaudiRoyalists/BroomeDssJessieSullivanCheck.pdf
+
+
+how about!
+github.com/irakeshkelm/iirakeshkukatla/ottawaEmbassies2023withCarToCarveOut.txt
+and/or
+github.com/irakeshkelm/iirakeshkukatla/nadaDoubleOccupancyInGovernment.txt
+
+
+check it out,
+github.com/irakeshkelm/iirakeshkukatla/fifthTimeInTwoHundredFiftyYears.txt
+github.com/irakeshkelm/iirakeshkukatla/needsAmericaRakeshKukatlaActivelyFillingUsaWorld.txt
+
+
+also check out,
+github.com/irakeshkelm/iirakeshkukatla/peckingOrderMales.txt (Note:
+check Weitsgirl section)
+github.com/irakeshkelm/iirakeshkukatla/peckingOrderSystems.txt
+github.com/irakeshkelm/iiforward/individual.txt
+github.com/irakeshkelm/iimeghan2024/peckingOrderGenetics.txt
+github.com/irakeshkelm/iimeghan2024/manifestoMeghan2024.txt
+
+
+further check out,
+github.com/irakeshkelm/iirakeshkukatla/juiceGirlNyNyGeneticistsSlavesExit.txt
+github.com/irakeshkelm/iirakeshkukatla/peckingOrderEstablishmentInterestStatesUsa.txt
+
+
+finally check out,
+github.com/irakeshkelm/iiforward/peckingOrderConservativeElephantLeEnfantVentureCapitalFirms.txt
+github.com/irakeshkelm/iiforward/peckingOrderConservativeElephantLeEnfantSoftwareCorp.txt
+
+
+I am very much interested in your live speak-ing!. It would be
+wonderful, if you are able to share your smart tour-ing! with me.
+
+
+Zoom me a response, or invite me to your place and University! or Institute!.
+
+
+I reside in a very humble private residence (7 Elm
+Street, Binghamton, Kingdom of NY 13905. USA (Banana republican's aka United
+whore's, aka Romani; USA = United slave america). However, you are
+alway's and most welcome to stop by (at your convenience).
+
+
+PS: Also, forward to family (aka all President's and Dean's) - both up
+and down (aka time).
+PS: Also, forward to Neighbor's (Harris county and other's) - both ex and
+current (aka time).
+PS: Please see.
+
+
+Special Note:
+In my travels around the USA and the World, I have been informed (public
+source's of information) and experienced (private source's of
+information) in many citie's and town's - Princesse's and Bar girl's are
+not hopping into boy's car's or having dinner at boy's house's. It is
+neither customary (aka protocol aka common sense aka common reasoning)
+nor judicious (aka process aka logical sense aka logical reasoning).
+
+
+Nada, Special English Note: from Government, Leader's:
+We have a special relationship with the House of University and
+Institute (aka most
+favored Educator's).
+
+
+Special American Note:
+Have fun! Degree-ing and Accredit-ing!
+
+
+Thank you and happy ARM-ing, speak-ing and tour-ing,
+Rakesh.
+Independent interest and Militia (Independently joint, Independent and
+Professional).
+USA - Banana republican's (aka United whore's, aka Romani).
+USA = United slave america.
+aka = also known as (in government language).
+
+
+
+
+--
+-----
+Smart Communication
+Internet (aka Trailer net)
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+smart apps : rakeshbingk@gmail.com
+Cloud apps : Skype, Zoom, Team's and other
+
+
+Smart location
+Cottage (aka Trailer park)
+7 Elm Street, Exurban New York-Binghamton, Kingdom of NY 13905.
+USA - Banana republican's (aka United whore's, aka Romani)
+USA = United slave america
+
+
+email - University of Houston Law Review and The Daily Cougar, University of Houston, Houston, TX, USA
+
+
+From Rakesh Kukatla - University news for University of Houston Law Review and The Daily Cougar - Legal (Attorney's and Judge's) and School of Law.
+Rakesh Kukatla <rakeshkelm@gmail.com> Thu, Nov 2, 2023 at 1:37 PM
+To: BrianCohen60@houstonlawreview.org, JesusDavila60@houstonlawreview.org, HaekyongMin60@houstonlawreview.org, RobertDeLaGarza@thedailycougar.com, LisaElAmin@thedailycougar.com, JohnLomax@thedailycougar.com
+Cc: KaileighMallin60@houstonlawreview.org, NathanHalaney60@houstonlawreview.org, CarolineOakley60@houstonlawreview.org, EmmaChristensen@thedailycougar.com
+Bcc: eic@houstonlawreview.org, hlre@houstonlawreview.org, editor@houstonlawreview.org, news@thedailycougar.com, web@thedailycougar.com, editor@thedailycougar.com
+
+
+Sent via email Dated:
+November 2, 2023.
+
+
+Sent via email To:
+BrianCohen60@houstonlawreview.org, Brian Cohen, Editor, University of
+Houston Law Review, 60, 2023.
+JesusDavila60@houstonlawreview.org, Jesus Davila, Editor, University
+of Houston Law Review, 60, 2023.
+HaekyongMin60@houstonlawreview.org, Haekyong Min, Editor -
+Publication, University of Houston Law Review, 60, 2023.
+Sent via email To:
+RobertDeLaGarza@thedailycougar.com, Robert De La Garza, Editor -
+Assistant, The Daily Cougar, 2023.
+LisaElAmin@thedailycougar.com, Lisa El-Amin, Editor, The Daily Cougar, 2023.
+JohnLomax@thedailycougar.com, John Lomax, Editor - Chief, The Daily
+Cougar, 2023.
+
+
+Sent via email Cc:
+KaileighMallin60@houstonlawreview.org, Kaileigh Mallin, Editor -
+Chief, University of Houston Law Review, 60, 2023.
+NathanHalaney60@houstonlawreview.org, Nathan Halaney, Editor -
+Managing, University of Houston Law Review, 60, 2023.
+CarolineOakley60@houstonlawreview.org, Caroline Oakley, Editor - HLRe,
+University of Houston Law Review, 60, 2023.
+Sent via email Cc:
+EmmaChristensen@thedailycougar.com, Emma Christensen, Editor - Web,
+The Daily Cougar, 2023.
+JoseGonzalezCampelo@thedailycougar.com, Jose Gonzalez-Campelo, Editor
+- Creative, The Daily Cougar, 2023.
+RileyMoquin@thedailycougar.com, Riley Moquin, Editor - Sport's, The
+Daily Cougar, 2023.
+
+
+Sent via email Bcc:
+eic@houstonlawreview.org, Submission, Publication, University of
+Houston Law Review, 60, 2023.
+hlre@houstonlawreview.org, Online, Publication, University of Houston
+Law Review, 60, 2023.
+editor@houstonlawreview.org, Editing, Publication, University of
+Houston Law Review, 60, 2023.
+Sent via email Bcc:
+news@thedailycougar.com, Publication, News, The Daily Cougar, 2023.
+web@thedailycougar.com, Web, News, The Daily Cougar, 2023.
+editor@thedailycougar.com, Editing, News, The Daily Cougar, 2023.
+
+
+Sent via email From:
+rakeshkelm@gmail.com, Rakesh Kukatla, Independent interest and Militia.
+
+
+Sent via email Subject:
+From Rakesh Kukatla - University news for University of Houston Law
+Review and The Daily Cougar - Legal (Attorney's and Judge's) and
+School of Law.
+
+
+Sent via email Attachment:
+emailPresidentsUniversityHoustonEmoryGeorgiaInstituteTechnologyGeorgiaStateClarkAtlantaPostMarketingFollowupAccrediting.txt
+emailPresidentsUniversityHoustonEmoryGeorgiaInstituteTechnologyGeorgiaStateClarkAtlantaPostMarketingFollowupAccrediting.pdf
+
+
+Hi Brian, Jesus, Haekyong and Robert, Lisa, John,
+
+
+If you would like to connect with me, I am available (at your convenience).
+
+
+I am attaching an email I sent to Renu Khator, President,
+University of Houston and other President's and Dean's.
+.
+The above email and other content is also available for download at:
+githhub.com/irakeshkelm
+githhub.com/rakeshkelm
+githhub.com/rakeshkelmmedia
+
+
+If you are having any technology issue's, Dennis Fouty, Chief
+Information Officer, University of Houston is a great contact
+(uh.edu/infotech). Also, Haekyong and John are equally competent.
+I am also available to Dennis, Haekyong, John and other's.
+
+
+If you are having any content issue's Brian and Jesus (both at the
+University of Houston Law Review - houstonlawreview.org) and Robert
+and Lisa (both at the The Daily Cougar - thedailycougar.com) are great
+contact's. I am also available to Brian, Jesus, Robert, Lisa and
+other's.
+
+
+Zoom me a response, or invite me to your place and University or School!.
+
+
+I reside in a very humble private residence (7 Elm
+Street, Binghamton, Kingdom of NY 13905. USA (Banana republican's aka
+United whore's, aka Romani; USA = United slave america). However, you
+are
+alway's and most welcome to stop by (at your convenience).
+
+
+Thank you,
+Rakesh.
+Independent interest and Militia (Independently joint, Independent and
+Professional).
+Status: Unlucky bastard
+USA - Banana republican's (aka United whore's, aka Romani).
+USA = United slave america.
+aka = also known as (in government language).
+
+
+
+
+--
+-----
+Smart Status
+Unlucky (aka Bastard)
+Single and Available
+
+
+Smart Communication
+Internet (aka Trailer net)
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+smart apps : rakeshbingk@gmail.com
+Cloud apps : Skype, Zoom, Team's and other
+
+
+Smart Location
+Cottage (aka Trailer park)
+7 Elm Street, Exurban New York-Binghamton, Kingdom of NY 13905.
+USA - Banana republican's (aka United whore's, aka Romani)
+USA = United slave america
+
+
+2 attachments
+  emailPresidentsUniversityHoustonEmoryGeorgiaInstituteTechnologyGeorgiaStateClarkAtlantaPostMarketingFollowupAccrediting.txt
+9K
+  emailPresidentsUniversityHoustonEmoryGeorgiaInstituteTechnologyGeorgiaStateClarkAtlantaPostMarketingFollowupAccrediting.pdf
+89K
+
+
+email - University of San Francisco Law Review and San Francisco Fog Horn, University of San Francisco, San Francisco, CA, USA
+
+
+
+
+Rakesh Kukatla <rakeshkelm@gmail.com> Thu, Nov 2, 2023 at 11:31 AM
+To: NathanChristie51@usfcalawreview.org, CherieCorona51@usfcalawreview.org, VanessaAlvarez51@usfcalawreview.org, ipventura@dons.usfca.edu, jcmaralit@dons.usfca.edu, mfzaied@dons.usfca.edu
+Cc: KaliAlnasSmiley51@usfcalawreview.org, AlyssaCarbonelMatsuhara51@usfcalawreview.org, BreaAguas51@usfcalawreview.org, mrrobertson2@dons.usfca.edu, jgdelfiugo@dons.usfca.edu, ekdupuguntla@dons.usfca.edu
+Bcc: NicoGonzales51@usfcalawreview.org, StephanieMoser51@usfcalawreview.org, JoeNazzal51@usfcalawreview.org, arjordan@dons.usfca.edu, ajlord@dons.usfca.edu, omriversatalich@dons.usfca.edu
+
+
+Dated:
+November 2, 2023.
+
+
+Sent via email to:
+NathanChristie51@usfcalawreview.org, Nathan Christie, Editor,
+University of San Francisco Law Review, 51, 2023.
+CherieCorona51@usfcalawreview.org, Cherie Corona, Editor, University
+of San Francisco Law Review, 51, 2023.
+VanessaAlvarez51@usfcalawreview.org, Vanessa Alvarez, Editor -
+Technology, University of San Francisco Law Review, 51, 2023.
+Sent via email to:
+ipventura@dons.usfca.edu, Inés Ventura, Reporter - General, San
+Francisco Fog Horn, 2023.
+jcmaralit@dons.usfca.edu, Jordan Tyler Maralit, Reporter - General,
+San Francisco Fog Horn, 2023.
+mfzaied@dons.usfca.edu, Maria Zaied, Manager - Media, San Francisco
+Fog Horn, 2023.
+
+
+Sent via email cc:
+KaliAlnasSmiley51@usfcalawreview.org, Kali Alnas Smiley, Editor -
+Chief, University of San Francisco Law Review, 51, 2023.
+AlyssaCarbonelMatsuhara51@usfcalawreview.org, Alyssa Carbonel
+Matsuhara, Editor - Managing, University of San Francisco Law Review,
+51, 2023.
+BreaAguas51@usfcalawreview.org, Brea Aguas, Editor - Executive,
+University of San Francisco Law Review, 51, 2023.
+Sent via email cc:
+mrrobertson2@dons.usfca.edu, Megan Robertson, Editor - Chief, San
+Francisco Fog Horn, 2023.
+jgdelfiugo@dons.usfca.edu, Jordan DelFiugo, Editor - Managing, San
+Francisco Fog Horn, 2023.
+ekdupuguntla@dons.usfca.edu, Esha Dupuguntla, Editor - Online, San
+Francisco Fog Horn, 2023.
+
+
+Sent via email bcc:
+NicoGonzales51@usfcalawreview.org, Nico Gonzales, Editor - Comments,
+University of San Francisco Law Review, 51, 2023.
+StephanieMoser51@usfcalawreview.org, Stephanie Moser, Editor - Forum,
+University of San Francisco Law Review, 51, 2023.
+JoeNazzal51@usfcalawreview.org, Joe Nazzal, Editor - Conference,
+University of San Francisco Law Review, 51, 2023.
+Sent via email bcc:
+arjordan@dons.usfca.edu, Anya Jordan, Editor - Layout, San Francisco
+Fog Horn, 2023.
+ajlord@dons.usfca.edu, Ava Lord, Editor - Layout, San Francisco Fog Horn, 2023.
+omriversatalich@dons.usfca.edu, Oliver River Satalich, Editor - Copy,
+San Francisco Fog Horn, 2023.
+
+
+Sent from:
+rakeshkelm@gmail.com, Rakesh Kukatla, Independent interest and Militia.
+
+
+Subject:
+From Rakesh Kukatla - University news for University of San Francisco
+Law Review and San Francisco Fog Horn - Legal (Attorney's and Judge's)
+and School of Law.
+
+
+Attachment:
+emailFightinIrishFuckinIrishUniversityLeadership.txt
+emailFightinIrishFuckinIrishUniversityLeadership.pdf
+
+
+Hi Nathan, Cherie, Vanessa and Ines, Jordan, Maria,
+
+
+If you would like to connect with me, I am available (at your convenience).
+
+
+I am attaching an email I sent to the Administration and Management
+(aka Leadership) at University of San Francisco (aka Irish Catholic).
+The above email and other content is also available for download at:
+githhub.com/irakeshkelm
+githhub.com/rakeshkelm
+githhub.com/rakeshkelmmedia
+
+
+If you are having any technology issue's, Opinder Bawa, Chief
+Information Officer, University of San Francisco is a great contact
+(myusf.usfca.edu/its). Also, Vanessa and Maria are equally competent.
+I am also available to Opinder, Vanessa, Maria and other's.
+
+
+If you are having any content issue's Nathan and Cherie (both at the
+USF Law Review - repository.usfca.edu/usflawreview) and Ines and
+Jordan (both at the San Francisco Fog Horn - sfforghorn.com) are great
+contact's. I am also available to Nathan, Cherie, Ines, Jordan and
+other's.
+
+
+Zoom me a response, or invite me to your place and University or School!.
+
+
+I reside in a very humble private residence (7 Elm
+Street, Binghamton, Kingdom of NY 13905. USA (Banana republican's aka United
+whore's, aka Romani; USA = United slave america). However, you are
+alway's and most welcome to stop by (at your convenience).
+
+
+Thank you,
+Rakesh.
+Independent interest and Militia (Independently joint, Independent and
+Professional).
+Status: Unlucky bastard
+USA - Banana republican's (aka United whore's, aka Romani).
+USA = United slave america.
+aka = also known as (in government language).
+
+
+
+
+--
+-----
+Smart Status
+Unlucky (aka Bastard)
+Single and Available
+
+
+Smart Communication
+Internet (aka Trailer net)
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+smart apps : rakeshbingk@gmail.com
+Cloud apps : Skype, Zoom, Team's and other
+
+
+Smart Location
+Cottage (aka Trailer park)
+7 Elm Street, Exurban New York-Binghamton, Kingdom of NY 13905.
+USA - Banana republican's (aka United whore's, aka Romani)
+USA = United slave america
+
+
+2 attachments
+  emailFightinIrishFuckinIrishUniversityLeadership.txt
+3K
+  emailFightinIrishFuckinIrishUniversityLeadership.pdf
+55K
+
+
+Lourdes Hospital - Emergency department, 08282023 (aka nada treatment)
+
+
+web: healthcare.ascension.org
+Lourdes Hospital
+169 Riverside Dr,
+Binghamton, NY 13905
+(607) 798-5111
+
+
+090423
+Stephanie - Check in
+[
+Lourdes Psychiatry - Court Street
+gave information
+request emergency Psychiatry exam
+request transport to hospital
+gives information
+service unavailable
+]
+
+
+083023
+ Lourdes PT - Check in
+[
+Lourdes physical therapy - Pennsylvania Avenue
+gave information
+request emergency physical therapy exam
+gives information
+service unavailable
+]
+
+
+083023
+Christina Costley - Financial counselor
+[
+Lourdes main hospital - Riverside drive
+gave information
+Request via email, interpreter service
+Request via email, specialist service
+Request via email, disability transport
+]
+
+
+082923
+John Leistner, MD - Check in
+[
+Lourdes primary care - Robinson Street
+gave information
+Request via email, disability transportation
+]
+
+
+082823
+ED - Post atom injury - Finger, Jaw, face, Head and Whole body
+
+
+Nurse - inside Ed
+[
+gives information
+you are discharged and that medicab is around the corner
+]
+
+
+Social worker - inside ED
+[
+gave information,
+request - to communicate via email rakeshkelm@gmail.com
+request - medicab ride to home
+gives information
+delivers - juice, sandwich
+]
+
+
+Wimpheimer - Nurse - inside ED
+[
+gives information
+unable to provide surgery and/or treatment for broken finger
+unable to provide treatment for jaw
+Specialist MD is unavailable
+Unable to call/inform specialist Robert VanGorder, M.D
+]
+
+
+Ashley and Tara - imaging tech - inside ED
+[
+gives information
+to be wheeled out of ED for CAT scan of head
+wheeled out to CT scanner
+brought back to ED
+]
+
+
+X-ray tech - inside ED
+[
+gives information
+to define pain intensity and precise location on finger
+gave information
+of pain at scale of 10
+to use pain meter (aka device) to guage precise location and intensity of pain around finger joint
+gives and taken
+mobile x-rays
+gave information
+request water, juice
+]
+
+
+Julia - Triage Nurse - outside ED -
+[
+gave information:
+I was released from prison, yesterday.
+Blunt injury - on jaw, face, head and hand - broken finger. Intermittent numbness, dizziness and pain
+Left knee injury, unable to bike, run, hike and intermittent pain
+Specialist is Robert VanGorder, M.D.
+]
+Mark - Patient transport tech - outside ED -
+[
+gives information - vitals, and transport to triage room
+gave information - request water, juice
+]
+
+
+Sarah - Receptionist - outside ED -
+[
+Check in - outside ED with Sarah.
+gives information
+asks for name, last name and phone number
+gave information
+Provided name, last name and given rights booklet.
+provided email rakeshkelm@gmail.com
+request to communicate via email
+
+
+Dropped off - at ED entrance by Neighbor Michael
+]
+
+
+
+
+
+
+
+
+-----Open copyright-----
+Independent interest and Militia (aka Independently joint aka Independent and Professional)
+-----Smart status
+Unlucky (aka bastard)
+Single and Available
+-----Smart communication
+Internet (aka Trailer net)
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm/iirakeshkukatla
+web : github.usa.saudiroyalist/rakeshkelm/ideasonthemove
+-----Smart location
+America (aka Trailer park)
+Address : 7 Elm Street, Exurban New York-Binghamton, Kingdom of NY 13905
+location : USA - Banana republican's (aka United whore's, aka Romani)
+USA = United slave america
+
+
+Lourdes Hospital - Emergency department, around 101123 (aka nada treatment)
+
+
+web: healthcare.ascension.org
+Lourdes Hospital
+169 Riverside Dr,
+Binghamton, NY 13905
+(607) 798-5111
+
+
+around 101123
+Katie and Stephanie - Check in
+[
+Lourdes Psychiatry - Court Street
+gave information
+request emergency Psychiatry exam
+request transport to hospital
+gives information
+service unavailable
+]
+
+
+around 101123
+Lourdes PT - Check in
+[
+Lourdes physical therapy - Pennsylvania Avenue
+gave information
+request emergency physical therapy exam
+gives information
+service unavailable
+]
+
+
+around 101123
+Christina Costley - Financial counselor
+[
+Lourdes main hospital - Riverside drive
+gave information
+Request via email, disability transport
+]
+
+
+around 101123
+John Leistner, MD - Check in
+[
+Lourdes primary care - Robinson Street
+gave information
+Request via email, disability transportation
+]
+
+
+around 101123
+Post atom injury - Head and Whole body at Prison
+
+
+Lourde's Hospital ED
+[
+Unable to get there on own or via neighbor
+Unable to give information:
+I was released from prison, yesterday
+injury - on head and body, Intermittent numbness,
+dizziness and pain
+Confined to a room for many weeks without - shower, proper mattress, toilet supplies and other.
+]
 
 
 

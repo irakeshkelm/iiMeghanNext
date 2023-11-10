@@ -1,0 +1,73 @@
+﻿Architecture firmware (aka ArmFirmware, RiscvFirmware, x86Firmware)
+
+
+Architecture firmware
+[
+from hardware firm's
+simple, modern
+and
+open source, open copyright
+and
+capable of running
+Architecture OsContainerware
+Architecture OsDistributorware
+Architecture VirtualMachineware
+]
+
+
+Architecture OsContainerware (aka ArmOsContainerware, RiscvOsContainerware, x86OsContainerware aka private hardware)
+[
+simple, modern
+and
+open source, open copyright
+and
+capable of running
+container's - server, app's, client-browser and other
+]
+
+
+Architecture OsDistributorware (aka ArmOsDistributorware, RiscvOsDistributorware, x86OsDistributorware aka ArchOsKubernetesware aka shared hardware aka redundancy)
+[
+simple, modern
+and
+open source, open copyright
+and
+capable of running
+OsContainerware, container's - os, server, client-browser, other)
+]
+
+
+Architecture VirtualMachineware (aka ArmVirtualMachineware, RiscvVirtualMachineware x86VirtualMachineware aka FwVirtualMachineware aka shared hardware aka redundancy)
+[
+simple, modern
+and
+open source, open copyright
+and
+capable of running
+Architecture OsContainerware
+Architecture OsDistributorware
+]
+
+
+
+
+
+
+
+
+-----Open copyright-----
+Independent interest and Militia (aka Independently joint aka Independent and Professional)
+-----Smart status
+Unlucky (aka bastard)
+Single and Available
+-----Smart communication
+Internet (aka Trailer net)
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm/iirakeshkukatla
+web : github.usa.saudiroyalist/rakeshkelm/ideasonthemove
+-----Smart location
+America (aka Trailer park)
+Address : 7 Elm Street, Exurban New York-Binghamton, Kingdom of NY 13905
+location : USA - Banana republican's (aka United whore's, aka Romani)
+USA = United slave america
