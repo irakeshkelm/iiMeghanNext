@@ -1329,8 +1329,10 @@ XJ - Axing and Juicing - weitsgirl'ed, coloredgirl'ed and/or female'd, slave'd
 
 Southern (aka Southernia)
 Germania and Romania
-Germania (aka Sir mania aka manic)
-Romancia (aka Ro mania aka romantic)
+Germania (aka G mania aka Sir mania aka Sirmantic)
+Romancia (aka Ro mania aka Cry mania aka Romantic)
+
+
 
 
 Olden
@@ -3846,9 +3848,16 @@ Practice independence
 Forward
 [
 Actions - Look and Act
+and
 Movement - Look and Move
 =
 Improvement
+]
+
+
+join militia
+[
+become owners (aka recall product - america)
 ]
 
 
@@ -3860,16 +3869,17 @@ p2p = peer to peer
 ]
 
 
-join militia
+breaking Establishment interest (aka monopoly)
 [
-become owners (aka recall product - america)
+break
+leader, closed (aka national/foreign aka monopoly)
+use
+open source and open copyright (aka nada monopoly)
 ]
 
 
 s-port-ies
 [
-
-
 third world (aka developing world aka militia)
 {
 world english, for individual and independent interest
@@ -4022,7 +4032,7 @@ to, work like class less
 ]
 
 
-nada pumping (aka hiking high peaks aka suc-king's )
+nada pumping (aka hiking high peaks aka suc-king's)
 [
 construction (aka construction worker's)
 and
@@ -4070,8 +4080,8 @@ join military, give life to get land (aka high profile)
 sign up, after war is declared (aka two steps)
 move on, mexico (aka narrow the border)
 Benchmark's of military victory
-Gain and keep land and/or
-Gain and keep legal structure - Reserve bank model, Judicial model and militia model
+Gain and keep, land and/or
+Gain and keep, legal structure - Reserve bank model, Judicial model and militia model
 ]
 
 
@@ -16005,6 +16015,11 @@ USA = United slave america
 
 
 Secondary Worklist
+
+
+111323
+Integrate translation's into browser's.
+Allow to choose translation engine like search engine.
 
 
 101122
