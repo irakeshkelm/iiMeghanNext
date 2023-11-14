@@ -17,6 +17,7 @@ Improvement
 
 join militia
 [
+become owners (aka move product - Planet backup)
 become owners (aka recall product - america)
 ]
 
@@ -29,7 +30,7 @@ p2p = peer to peer
 ]
 
 
-breaking Establishment interest (aka monopoly)
+breaking Establishment interest (monopoly)
 [
 break
 leader, closed (aka national/foreign aka monopoly)
