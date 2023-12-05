@@ -24,6 +24,7 @@ DNS content
 other
 reference content (registration records, routing records, other)
 -----automatic app's and content update's
+like alibaba appliance
 like tplink appliance
 ]
 
