@@ -11,7 +11,7 @@ and
 capable of running
 Architecture OsContainerware
 Architecture OsDistributorware
-Architecture VirtualMachineware (aka euroware)
+Architecture VirtualMachineware (aka yada euroware, nada greenware)
 ]
 
 
