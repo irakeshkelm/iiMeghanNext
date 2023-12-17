@@ -25,18 +25,18 @@ search app
 map's app
 new's app
 wikipedia app
-transcriber app
-translator app
+transcriber app (aka ai model)
+translator app (aka ai model)
 other app's
 spreadsheet app
 presentation app
------open source and open copyright web content - text, localized image's, audio, video's with nosql db:
+-----open source and open copyright web content - text, localized images, audio, videos with nosql db:
 search content
 wikipedia content
-new's content
-map's content - localized image's, audio, video's
+news content
+maps content - localized images, audio, videos
 git content
-market's content
+markets content
 other
 reference content (IRS tax, State incorporation, Owners, ...)
 -----automatic app's and content update's

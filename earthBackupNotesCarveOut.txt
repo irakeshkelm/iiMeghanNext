@@ -336,18 +336,18 @@ search app
 map's app
 new's app
 wikipedia app
-transcriber app
-translator app
+transcriber app (aka ai model)
+translator app (aka ai model)
 other app's
 spreadsheet app
 presentation app
------open source and open copyright web content - text, localized image's, audio, video's with nosql db:
+-----open source and open copyright web content - text, localized images, audio, videos with nosql db:
 search content
 wikipedia content
-new's content
-map's content - localized image's, audio, video's
+news content
+maps content - localized images, audio, videos
 git content
-market's content
+markets content
 other
 reference content (IRS tax, State incorporation, Owners, ...)
 -----automatic app's and content update's
@@ -393,7 +393,7 @@ Inter planetary homestead area network (IPHAN)
 ]
 
 
-Homestead network app's (aka network framework/server and network database aka back)
+Homestead network app's (aka network framework/server/service/daemon and network database aka back)
 [
 -----open source and open copyright network app's, with nosql db:
 HAN app
@@ -441,12 +441,14 @@ open endorsement Usa 2024, Write-in, yada Independent side, nada coup side
 [
 President (aka naturalized whore)
 Linus Torvalds, Founder Linux
+yada white house, yada homestead
 Linux is incorporated into many device software distribution's
 Linux is used by individual's around the planet (aka Planetarian)
 
 
 Vice president (aka naturalized whore)
 Venkatesh Harinarayan, Founder Junglee
+yada condominium, yada flat
 Junglee is incorporated into Amazon web service's
 Amazon is used by individual's around the planet (aka Planetarian)
 ]
@@ -547,8 +549,12 @@ Gates foundation public health is used by individual's around the planet (aka Pl
 By
 [
 Rakesh Kukatla, Founder class Planet Backup and Founder class Usa
-Planet Backup - Planetarian's - yada carve out, nada reporting to King and Kingdom of Saudi Arabia
+
+
+Founder class Planet Backup - Planetarian's - yada carve out, nada reporting to King and Kingdom of Saudi Arabia
 Expand and update - Reserve bank model, Judicial model and Militia model
+
+
 Founder class - American's - nada reporting to King and United Kingdom (aka yada reporting to princess and united princesssdom)
 Train and Maintain - Usa Militia model, Judicial model and Reserve Bank Model
 Usa Reserve bank model, Legal model is used by individual's around the planet (aka Planetarian)
@@ -571,6 +577,7 @@ western males
 open, to endorsing
 Go big (aka carve out), Independent side
 aka go houses
+aka go homesteads
 ]
 
 
@@ -589,8 +596,8 @@ aka go flats
 
 information from
 [
-private source's (Rakesh Kukatla)
-public source's (aka internet)
+private sources (Rakesh Kukatla)
+public sources (aka internet)
 ]
 
 
@@ -679,7 +686,7 @@ aka Delivery, William Clinton, 42nd President and Commander in chief, 1996-2000,
 [
 Go small, Conceded to England english, immediately (aka yada flat)
 Go big, declared war (internal - usa)
-Run the Delivery from a House (aka yada Condominium)
+Run the Delivery from a House (aka yada colorless condominium, nada white house)
 ]
 
 
@@ -689,7 +696,7 @@ Go small, Conceded to England english (aka yada flat)
 Go big, continued war (internal - usa)
 Go big, declared war (external - Afghanistan, Iraq)
 Go small, Conceded to Afghan's and Iraqi's after 20 years (2001-2021)
-Run the Ei from a House (aka yada Condominium)
+Run the Ei from a House (aka yada colorless condominium, nada white house)
 ]
 
 
@@ -699,7 +706,7 @@ Go small, Conceded to England english (aka yada flat)
 Go big, continued war (internal usa)
 Go big, continued war (external - Afghanistan, Iraq)
 Go small, Conceded to Afghan's and Iraqi's after 20 years (2001-2021)
-Run the Autocrat from a Hotel (aka yada flat)
+Run the Autocrat from a Hotel - Suite (aka yada colorless flat, nada white house)
 ]
 
 
@@ -709,7 +716,7 @@ Go small, Conceded to England english (aka yada flat)
 Go big, continued war (internal - usa)
 Go big, continued war (external - Afghanistan, Iraq)
 Go small, Conceded to Afghan's and Iraqi's after 20 years (2001-2021)
-Run the Autocrat from a Condominium (aka yada flat)
+Run the Autocrat from a Skyscraper - Penthouse (aka yada colorless flat, nada white house)
 ]
 
 
@@ -720,14 +727,14 @@ Go big, continued war (internal usa)
 Go big, continued war (external - Afghanistan, Iraq)
 Go small, ended war (external - Afghanistan, Iraq)
 Go small, Conceded to Afghan's and Iraqi's after 20 years (2001-2021)
-Run the Autocrat from a Train (aka yada flat)
+Run the Autocrat from a Train - Suite (aka yada colorless flat, nada white house)
 ]
 
 
 aka Software, Linus Torvalds, Founder Linux, endorsement for 47th President and Commander in chief, 2025-?, carve out, Independent side
 [
-Go big, Expand and update USA - American's - Reserve Bank model, Legal model, Militia model
-Go big, Planet Backup - Planetarian's - yada, carve out and nada reporting to King and Kingdom of Saudi Arabia
+Go big, Expand and update USA - American's - Reserve Bank model, Legal model, Militia model (yada white house)
+Go big, Planet Backup - Planetarian's - yada, carve out and nada reporting to King and Kingdom of Saudi Arabia (yada white homestead)
 Rakesh Kukatla, Endorser, (Independently joint, Independent and Professional)
 
 
@@ -740,7 +747,8 @@ western males
 [
 open, to endorsing
 Go big (aka carve out), Independent side
-aka go houses
+aka go white houses
+aka go white homesteads
 ]
 
 
@@ -761,8 +769,11 @@ aka go flats
 
 information from
 [
-private source's (Rakesh Kukatla)
-public source's (aka internet)
+private sources (Rakesh Kukatla)
+public sources (aka internet)
+
+
+colorless = co-lo-red-less
 ]
 
 
@@ -7411,6 +7422,18 @@ Binghamton, NY 13905
 (607) 798-5111
 
 
+around 120723 (121423)
+Jay and Rhonda - Check in and Check out
+Prime care - 153 Court St, Binghamton, NY 13901
+[
+Prime Care - Court Street
+--gave information
+request Rebecca Blackburn, Care manager
+--gives information
+Rebecca Blackburn and/or Care manager unavailable
+]
+
+
 around 120723 (120823)
 Christina Costley - Financial counselor
 [
@@ -7689,6 +7712,8 @@ Binghamton, NY 13905
 
 
 around 112423 (113023)
+
+
 Stephanie and Deneen - Check in and Check out
 [
 Lourdes Psychiatry - Court Street
