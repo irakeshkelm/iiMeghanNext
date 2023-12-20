@@ -1,7 +1,7 @@
-# Linus Torvalds 2024
-Linus Torvalds - USA, Independent interest (Suc-king)
+# Meghan2024
+Meghan Trump - USA, Independent interest (Suc-king)
 
-https://linustorvals2024.usa.ii
+https://meghan2024.usa.ii
 
 Check out, 
 
@@ -11,7 +11,7 @@ then, continue to
 
 Check out, 
 
-manifestoLinusTorvalds2024.txt
+manifestoMeghan2024.txt
 
 if, still interested,
 
