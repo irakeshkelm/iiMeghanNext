@@ -44,7 +44,7 @@ Sweden.
 Finland.
 Denamark.
 Iceland.
-Greenand
+Greenland.
 ]
 
 
@@ -62,7 +62,7 @@ pre war, external negotiation, step 5, 2024 - 2026
 [
 show full plan, calendar year
 then
-show acclimatiation and staging plan, 2024 - 2025
+show acclimatization and staging plan, 2024 - 2025
 then
 show landing plan, 2026
 then
@@ -111,29 +111,41 @@ On land and on board living.
 
 landing plan, 2026
 [
------ ports and forts all along shore
+-----
+here to stay.
+
+
+----- start landing -----
+----- ports and forts all along shore.
 500 ports, 500 person ships, 500 cargo ships and 500 forts.
 ----- person ships
 500 forts, 2000 persons/fort = 1,000,000 million persons.
 500 person ships x 2000 persons = 1,000,000 million persons.
-10 ships/day, 300 ships/month, 600,000 persons/month
-Persons on land and on board
+10 ships/day, 300 ships/month, 600,000 persons/month.
+Persons on land and on board.
 ----- cargo ships
 1,000,000 persons x 4 containers/person = 4,000,000 containers.
 500 cargo ships x 8,000 containers/ship = 4,000,000 containers.
 10 ships/day, 300 ships/month, 2,4,000,000 containers/month.
-Cargo on land and on board
+Cargo on land and on board.
+----- end landing -----
 ]
 
 
 offense plan, 2026
 [
+-----
+ready to move interior
+
+
+----- start offense -----
 ----- persons and equipment
-5000 groups x 20 person = 100,000 persons.
-5000 groups x 20 trucks = 100,000 person trucks.
+10,000 groups x 10 person = 100,000 persons.
+10,000 groups x 10 trucks = 100,000 person trucks.
 ----- group size, persons and equipment
-20 persons.
-20 person trucks.
+10 persons.
+10 person trucks.
+----- end offense -----
 ]
 
 
