@@ -1,7 +1,7 @@
 ﻿Companies and war, Independent and Individual interest - Scandinavia
 
 
-pre war, internal negotiation, step 1, 1996 - 2022
+pre war, internal negotiation, step 1, 1996 - 2023
 [
 in power, internal companies and individuals
 willingly squandering lives
@@ -20,27 +20,27 @@ more than, 25 years.
 ]
 
 
-pre war, internal negotiation, step 2, 2023 - 2024
+pre war, open internal negotiation, step 2, 2023 - 2024
 [
-endorsement for write-in
-President 2024, Linus Torvalds, Founder Linux.
-Vice President 2024, Venky Harinarayan, Founder Junglee.
-Senate Leader 2024, Lawrence Page, Founder Google.
-House Leader 2024, William Gates, Founder Gates foundation, Founder Microsoft.
+open endorsement Usa - 2024, Write-in, yada Independent side, nada coup side.
+President, Linus Torvalds, Founder Linux.
+Vice President, Venky Harinarayan, Founder Junglee.
+Senate Leader, Lawrence Page, Founder Google.
+House Leader, William Gates, Founder Gates foundation, Founder Microsoft.
 ]
 
 
-pre war, external negotiation, step 3, 2024 - 2025
+pre war, open external negotiation, step 3, 2024 - 2025
 [
 ----- Initial - Ambassadors in Ottawa, Canada.
-via United Kingdom ambassador.
+via Ambassador, United Kingdom.
 Swiss (Germanic - Engineering - Technology).
 Spanish (Israeli - Engineering - Technology).
 French (Italian - Engineering - Technology).
 Argentinian (Irish - Engineering - Technology).
 Australia-NewZealand (Spain - Engineering - Technology).
 ----- Final - Ambassadors in London, United Kingdom.
-via Canadian ambassador.
+via Ambassador, Canada.
 Norway.
 Sweden.
 Finland.
@@ -50,7 +50,7 @@ Greenland.
 ]
 
 
-pre war, external negotiation, step 4, 2024 -2025
+pre war, open external negotiation, step 4, 2024 -2025
 [
 show numbers, 10 million persons demonstration.
 then
@@ -60,7 +60,7 @@ show new school, bomber/missile warning and bomber/missile destruction demonstra
 ]
 
 
-pre war, external negotiation, step 5, 2024 - 2026
+pre war, open external negotiation, step 5, 2024 - 2026
 [
 show full plan, calendar year
 then
@@ -74,12 +74,9 @@ show offense plan, 2026
 
 full plan, calendar year
 [
------ here to win and stay.
-
-
 2024 - usa preparations
 2025 - uk acclimatization and staging
-2026 - scandinavia spring landing and offense
+2026 - spring offense
 ]
 
 
@@ -95,7 +92,7 @@ able to survive all four seasons, full year.
 ----- persons
 10 million.
 ----- person trucks
-20 million = 10 million persons x 2.
+20 million
 ----- cargo containers, 20,000 pound.
 food = 2/person.
 living = 2/person.
@@ -105,14 +102,16 @@ total = 40 million containers (10 million persons x 4).
 400 ships = 400 x 100,000 = 40,000,000 million containers.
 2,000,000 containers/month, 20 ships/month, 200 ships/year, 2 years.
 On land and on ship storage.
------ person truck ships
-1 ship = 100,000 person trucks.
-200 ships = 200 x 100,000 = 20,000,000 million person trucks.
- ----- people ships
+----- person ships
 1 ship = 2000 persons.
 5,000 ships = 5,000 x 2,000 = 10,000,000 million persons.
 500,000 persons/month, 250 ships/month, 2500 ships/year, 2 years.
 On land and on board living.
+----- person truck ships
+1 ship = 50,000 person trucks.
+400 ships = 400 x 50,000 = 20,000,000 million person trucks.
+1,000,000 person trucks/month, 20 ships/month, 200 ships/year, 2 years.
+On land and on ship storage.
 ----- end staging -----
 ]
 
@@ -125,23 +124,22 @@ here to stay.
 
 ----- start landing -----
 ----- ports and forts all along shore.
-500 ports, 500 person ships, 500 cargo ships and 500 forts.
+500 ports, 500 person ships, 500 cargo ships, 500 person truck ships and 500 forts.
 ----- person ships
 500 forts, 2000 persons/fort = 1,000,000 million persons.
 500 person ships x 2000 persons = 1,000,000 million persons.
-10 ships/day, 300 ships/month, 600,000 persons/month.
-persons on land and on board.
------ person truck ships
-500,000 persons x 2 person trucks/person = 1,000,000 trucks.
-500 cargo ships x 2,000 trucks/ship = 1,000,000 trucks.
-10 ships/day, 50 ships/month, 1,000,000 trucks/month.
-Cargo on land and on board.
-person trucks on land on board.
+1 ship/day, 30 ships/month, 60,000 persons/month, 350 ships/year, 1 year
+Persons on land and on board.
 ----- cargo ships
 1,000,000 persons x 4 containers/person = 4,000,000 containers.
 500 cargo ships x 8,000 containers/ship = 4,000,000 containers.
-10 ships/day, 300 ships/month, 4,000,000 containers/month.
-cargo on land and on board.
+1 ship/day, 30 ships/month, 240,000 containers/month, 350 ships/year, 1 year
+Cargo on land and on board.
+----- person truck ships
+1,000,000 persons x 2 person trucks/person = 2,000,000 person trucks.
+500 cargo ships x 4,000 person trucks/ship = 2,000,000 person trucks.
+1 ships/day, 30 ships/month, 120,000 person trucks/month, 350 ships/year, 1 year
+Cargo on land and on board.
 ----- end landing -----
 ]
 
@@ -154,9 +152,10 @@ ready to move interior
 
 ----- start offense -----
 ----- persons and equipment
-10,000 groups x 10 person = 100,000 persons.
-10,000 groups x 10 trucks = 100,000 person trucks.
------ group size, persons and equipment
+100 ports x 1000 person/fort = 100,000 persons.
+100 groups/fort x 10 person = 1,000 persons.
+1,000 persons x 20 trucks = 20,000 person trucks/fort.
+----- interior move - group size, persons and equipment
 10 persons.
 10 person trucks.
 ----- end offense -----
@@ -181,9 +180,10 @@ p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm/iirakeshkukatla
 web : github.usa.saudiroyalist/rakeshkelm/ideasonthemove
 -----Smart information
+Internet appliance (aka Trailer content)
 web : github.usa.saudiroyalist/irakeshkelm/iiinformation
 -----Smart location
-America (aka Trailer park)
+Cottage (aka Trailer park)
 Address : 7 Elm Street, Exurban New York-Binghamton, Kingdom of NY 13905
-location : USA - Banana republican's (aka United whore's, aka Romani)
+location : USA - Banana republicans (aka United whore's, aka Romani)
 USA = United slave america
