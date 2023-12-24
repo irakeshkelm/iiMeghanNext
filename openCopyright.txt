@@ -19,23 +19,21 @@ It's, your's
 to, use
 as, you choose
 ]
-
-
-damages
+nada selling (aka free)
 [
 open copyright: consumer homestead
-nada
+damages: nada
 closed copyright: consumer commercial
-maximum, upto the contracted amount
+damages: maximum, upto the contracted amount
 ]
 
 
 selling
 [
 open copyright: consumer homestead
-maximum, upto the contracted amount
+damages: maximum, upto the contracted amount
 closed copyright: consumer commercial
-maximum, upto the damage amount
+damages: maximum, upto the damage amount
 ]
 
 
