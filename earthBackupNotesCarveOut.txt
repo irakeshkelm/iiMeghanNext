@@ -51,13 +51,13 @@ Independent interest and Militia (aka Independently joint aka Independent and Pr
 Unlucky (aka bastard)
 Single and Available
 ----- Smart communication
-Internet (aka Trailer net)
+Internet appliance (aka Trailer net)
 git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm/iirakeshkukatla
 web : github.usa.saudiroyalist/rakeshkelm/ideasonthemove
 ----- Smart information
-Internet appliance (aka Trailer content)
+Information appliance (aka Trailer content)
 web : github.usa.saudiroyalist/irakeshkelm/iiinformation
 ----- Smart location
 Cottage (aka Trailer park)
@@ -236,33 +236,61 @@ ready to move interior
 
 
 
------Open copyright-----
+----- Open copyright -----
 Independent interest and Militia (aka Independently joint aka Independent and Professional)
------Smart status
+----- Smart status
 Unlucky (aka bastard)
 Single and Available
------Smart communication
-Internet (aka Trailer net)
+----- Smart communication
+Internet appliance (aka Trailer net)
 git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm/iirakeshkukatla
 web : github.usa.saudiroyalist/rakeshkelm/ideasonthemove
------Smart information
-Internet appliance (aka Trailer content)
+----- Smart information
+Information appliance (aka Trailer content)
 web : github.usa.saudiroyalist/irakeshkelm/iiinformation
------Smart location
+----- Smart location
 Cottage (aka Trailer park)
 Address : 7 Elm Street, Exurban New York-Binghamton, Kingdom of NY 13905
 location : USA - Banana republicans (aka United whore's, aka Romani)
 USA = United slave america
 
 
-Web services (aka appliances) and web trades (aka companies) naming
+Sell your (aka capitalist) services (aka appliances), trades (aka appliances) from your companies (aka capitalism); Web services (aka appliances) and trades (aka appliances) naming
 
 
-Web services (aka appliances) and trades (aka companies) naming
+always sell
 [
------ start visit yelp (aka visit me): -----
+----- your services as an appliance (aka earthing or grounding)
+for
+example writing service
+example music service
+example image service
+example voice service
+example video service
+so on and so forth
+
+
+----- your trades as an appliance (aka earthing or grounding)
+for
+example writing trade
+example music trade
+example image trade
+example voice trade
+example video trade
+so on and so forth
+
+
+----- your (capitalist) services appliances and your trades appliances
+from
+your companies (aka capitalism aka earthing or grounding)
+]
+
+
+web services (aka appliances) and trades (aka appliances) naming
+[
+----- start visit yelp (aka visit me) -----
 -- services template (aka appliances)
 visit.appliance (visitor me)
 visit.service (visitor me)
@@ -274,7 +302,7 @@ so on and so forth
 visit.google (visitor me)
 
 
--- trades template (aka companies)
+-- trades template (aka appliances)
 visit.company.holding (visitor me)
 visit.holding.trading (visitor me)
 visit.trading.sovereign (visitor me)
@@ -284,7 +312,29 @@ visit.alphabet (visitor me)
 ----- end visit yelp (aka visit me): -----
 
 
------ start client yelp (aka client me): -----
+----- start customer yelp (aka customer me) -----
+-- services template (aka appliances)
+customer.appliance (customer me)
+customer.service (customer me)
+customer.applianceservice.company (customer me)
+customer.division.company (customer me)
+customer.company (customer me)
+so on and so forth
+-- example template
+customer.google (customer me)
+
+
+-- trades template (aka appliances)
+customer.company.holding (customer me)
+customer.holding.trading (customer me)
+customer.trading.sovereign (customer me)
+so on and so forth
+-- trades example (aka appliances)
+customer.alphabet (customer me)
+----- end customer yelp (aka customer me) -----
+
+
+----- start client yelp (aka client me) -----
 -- services template (aka appliances)
 client.appliance (clienter me)
 client.service (clienter me)
@@ -296,12 +346,12 @@ so on and so forth
 client.google (clienter me)
 
 
--- trades template (aka companies)
+-- trades template (aka appliances)
 client.company.holding (clienter me)
 client.holding.trading (clienter me)
 client.trading.sovereign (clienter me)
 so on and so forth
--- trades example (aka companies)
+-- trades example (aka appliances)
 client.alphabet (clienter me)
 ----- end client yelp (aka client me): -----
 
@@ -332,13 +382,13 @@ cacif = chief appliance company investments financier
 cacem = chief appliance company executives manager
 ----- Appliance company example
 google.com (the owning appliance company, own appliances and services)
-google.relation (investors, clients, visitors, government, media)
+google.relation (investors, clients, customers, visitors, government, media)
 google.finance (individual investors, financial institutions investors)
 google.leader (chief executive appliance company manager, board, executive team)
 ----- end visit services (aka appliancer me) -----
 
 
------ start client trades (aka servicer me) -----
+----- start client trades (aka appliancer me) -----
 ----- holding company template
 holding.company (thc, the holding company, hold the - companies)
 holding.relation (chrm, relate for holding company - to investors, government, media)
@@ -394,23 +444,24 @@ alphabetnumber.leader (chief company executive manager, board, executive team)
 
 
 
------Open copyright-----
+----- Open copyright -----
 Independent interest and Militia (aka Independently joint aka Independent and Professional)
------Smart status
+----- Smart status
 Unlucky (aka bastard)
 Single and Available
------Smart communication
-Internet (aka Trailer net)
+----- Smart communication
+Internet appliance (aka Trailer net)
 git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm/iirakeshkukatla
 web : github.usa.saudiroyalist/rakeshkelm/ideasonthemove
------Smart information
+----- Smart information
+Information appliance (aka Trailer content)
 web : github.usa.saudiroyalist/irakeshkelm/iiinformation
------Smart location
-America (aka Trailer park)
+----- Smart location
+Cottage (aka Trailer park)
 Address : 7 Elm Street, Exurban New York-Binghamton, Kingdom of NY 13905
-location : USA - Banana republican's (aka United whore's, aka Romani)
+location : USA - Banana republicans (aka United whore's, aka Romani)
 USA = United slave america
 
 
@@ -499,21 +550,21 @@ injury - on head and body, Intermittent numbness and pain
 
 
 
------Open copyright-----
+----- Open copyright -----
 Independent interest and Militia (aka Independently joint aka Independent and Professional)
------Smart status
+----- Smart status
 Unlucky (aka bastard)
 Single and Available
------Smart communication
-Internet (aka Trailer net)
+----- Smart communication
+Internet appliance (aka Trailer net)
 git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm/iirakeshkukatla
 web : github.usa.saudiroyalist/rakeshkelm/ideasonthemove
------Smart information
-Internet appliance (aka Trailer content)
+----- Smart information
+Information appliance (aka Trailer content)
 web : github.usa.saudiroyalist/irakeshkelm/iiinformation
------Smart location
+----- Smart location
 Cottage (aka Trailer park)
 Address : 7 Elm Street, Exurban New York-Binghamton, Kingdom of NY 13905
 location : USA - Banana republicans (aka United whore's, aka Romani)
@@ -624,24 +675,25 @@ Go big (in power; aka hard war; kill civil americans; kill civil planetarians, k
 
 
 
------Open copyright-----
+----- Open copyright -----
 Independent interest and Militia (aka Independently joint aka Independent and Professional)
------Smart status
-Unlucky (aka Bastard)
+----- Smart status
+Unlucky (aka bastard)
 Single and Available
------Smart communication
-Internet (aka Trailer net)
+----- Smart communication
+Internet appliance (aka Trailer net)
 git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm/iirakeshkukatla
 web : github.usa.saudiroyalist/rakeshkelm/ideasonthemove
------Smart information
+----- Smart information
+Information appliance (aka Trailer content)
 web : github.usa.saudiroyalist/irakeshkelm/iiinformation
------Smart location
-America (aka Trailer park)
+----- Smart location
+Cottage (aka Trailer park)
 Address : 7 Elm Street, Exurban New York-Binghamton, Kingdom of NY 13905
-location : Usa - Banana republican's (aka United whore's, aka Romani)
-Usa = United slave america
+location : USA - Banana republicans (aka United whore's, aka Romani)
+USA = United slave america
 
 
 
@@ -688,23 +740,24 @@ nada running model, nada releasing
 
 
 
------Open copyright-----
+----- Open copyright -----
 Independent interest and Militia (aka Independently joint aka Independent and Professional)
------Smart status
-Unlucky (aka Bastard)
+----- Smart status
+Unlucky (aka bastard)
 Single and Available
------Smart communication
-Internet (aka Trailer net)
+----- Smart communication
+Internet appliance (aka Trailer net)
 git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm/iirakeshkukatla
 web : github.usa.saudiroyalist/rakeshkelm/ideasonthemove
------Smart information
+----- Smart information
+Information appliance (aka Trailer content)
 web : github.usa.saudiroyalist/irakeshkelm/iiinformation
------Smart location
-America (aka Trailer park)
+----- Smart location
+Cottage (aka Trailer park)
 Address : 7 Elm Street, Exurban New York-Binghamton, Kingdom of NY 13905
-location : USA - Banana republican's (aka United whore's, aka Romani)
+location : USA - Banana republicans (aka United whore's, aka Romani)
 USA = United slave america
 
 
@@ -733,10 +786,19 @@ as, you choose
 
 damages
 [
-open copyright: Consumer homestead
+open copyright: consumer homestead
 nada
-closed copyright: Consumer commercial
+closed copyright: consumer commercial
 maximum, upto the contracted amount
+]
+
+
+selling
+[
+open copyright: consumer homestead
+maximum, upto the contracted amount
+closed copyright: consumer commercial
+maximum, upto the damage amount
 ]
 
 
@@ -744,23 +806,26 @@ maximum, upto the contracted amount
 
 
 
------Open copyright-----
+
+
+----- Open copyright -----
 Independent interest and Militia (aka Independently joint aka Independent and Professional)
------Smart status
+----- Smart status
 Unlucky (aka bastard)
 Single and Available
------Smart communication
-Internet (aka Trailer net)
+----- Smart communication
+Internet appliance (aka Trailer net)
 git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm/iirakeshkukatla
 web : github.usa.saudiroyalist/rakeshkelm/ideasonthemove
------Smart information
+----- Smart information
+Information appliance (aka Trailer content)
 web : github.usa.saudiroyalist/irakeshkelm/iiinformation
------Smart location
-America (aka Trailer park)
+----- Smart location
+Cottage (aka Trailer park)
 Address : 7 Elm Street, Exurban New York-Binghamton, Kingdom of NY 13905
-location : USA - Banana republican's (aka United whore's, aka Romani)
+location : USA - Banana republicans (aka United whore's, aka Romani)
 USA = United slave america
 
 
@@ -18189,6 +18254,10 @@ USA = United slave america
 
 
 Tertiary Worklist
+
+
+122323
+Google keep, create a separate label folder (Reserve bank, judicial, militia) for separate websites (Reserve bank, judicial, militia).
 
 
 102823
