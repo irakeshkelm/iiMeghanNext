@@ -1,59 +1,52 @@
-﻿Volunteer organization - service to individuals (aka capitalist)
+﻿Linux distribution - types
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
-Volunteer organization - service to individuals (aka capitalist)
+Linux distribution - types
 
 
-volunteer organization (aka capitalist)
+common types
 [
-high standard:
-owned by volunteer owner
-run by volunteers only
-service to individuals
-pass through organization
-self service (aka open, nada conditions)
-daily, multiple times a day
-registered with state
-tax exempt status
+Linux - Web editor workstation
+example : Linux - Web, xWeb, yWeb, zWeb
+
+
+Linux - Net editor workstation
+example : Linux - Chromium, operaChromium, googleChromium, microsoftChromium
+
+
+Linux - Developer workstation, Programmer workstation
+example : Linux - Debian
+
+
+Linux - Systems integrator workstation
+example : Linux - Gentoo
+
+
+Linux - Engineer workstation
+example : Linux - Torvalds
+
+
+Linux - Cloud runner
+example : Linux - cloudRunner
 ]
 
 
-nada volunteer organization (aka funds aka them hot girls)
+other types
 [
-other: nada high standard (any of the following)
-nada volunteer owner
-nada run by volunteers only
-nada pass through
-nada self service (aka closed, yada conditions)
-nada daily, nada multiple times a day
-nada registered with state
-nada tax exempt status
-yada registered with state
-yada tax exempt status
+Linux - Financial analyzer workstation
+example : Linux - analyzeFinance
 
 
-funds - best of worst to worst of worst (aka them hot girls)
+Linux - Game player
+example : Linux - playGames
 
 
-atom fund : banks currency (aka communist aka them hot girls)
-service to community
-example, foodbanks - community owned/affiliated
+Linux - Entertainment player
+example : Linux - playEntertainment
 
 
-atom fund : charity currency (aka socialist aka them beautiful hot girls)
-service to the lord
-eample, charities - religious organization owned/affiliated
-
-
-atom fund : social (aka kitten) currency (aka royalist them ugly kitten hot girls)
-service to the king
-example, social (aka kitten fund) - kittens owned/affiliated
-
-
-atom fund : foundation currency (aka royalist them ugly hot girls)
-service to the king
-example, foundation - corporation owned/affiliated
+so on and so forth
 ]
 
 
@@ -126,3 +119,8 @@ soveriegn state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
 sovereign people : banana republicans (united whores, romani).
+
+
+
+
+----- Open copyright, document, Rakesh Kukatla-Sittrue -----

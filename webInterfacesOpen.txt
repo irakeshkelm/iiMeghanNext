@@ -1,59 +1,45 @@
-﻿Volunteer organization - service to individuals (aka capitalist)
+﻿Web interfaces - Open
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
-Volunteer organization - service to individuals (aka capitalist)
+Web interfaces
 
 
-volunteer organization (aka capitalist)
+default - html, hypertext markup language
 [
-high standard:
-owned by volunteer owner
-run by volunteers only
-service to individuals
-pass through organization
-self service (aka open, nada conditions)
-daily, multiple times a day
-registered with state
-tax exempt status
+high standard
+open source
+open copyright
+simple
 ]
 
 
-nada volunteer organization (aka funds aka them hot girls)
+other
 [
-other: nada high standard (any of the following)
-nada volunteer owner
-nada run by volunteers only
-nada pass through
-nada self service (aka closed, yada conditions)
-nada daily, nada multiple times a day
-nada registered with state
-nada tax exempt status
-yada registered with state
-yada tax exempt status
+nada open source (yada closed style sheets, yada closed scripts, yada closed objects)
+nada open copyright
+nada simple
 
 
-funds - best of worst to worst of worst (aka them hot girls)
+web interfaces - best of worst to worst of worst (aka them hot girls)
 
 
-atom fund : banks currency (aka communist aka them hot girls)
-service to community
-example, foodbanks - community owned/affiliated
+interface : css currency (cascading style sheets)
+nada webcss layouter
+example, css - googlecss layouter, microsoftcss layouter, applecss layouter (aka them hot girls)
 
 
-atom fund : charity currency (aka socialist aka them beautiful hot girls)
-service to the lord
-eample, charities - religious organization owned/affiliated
+interface : scripts currency (interpreters)
+nada webscript interpreter
+example, script - javascript interpreter, actionscript interpreter, applescript interpreter (aka them ugly kitten hot girls)
 
 
-atom fund : social (aka kitten) currency (aka royalist them ugly kitten hot girls)
-service to the king
-example, social (aka kitten fund) - kittens owned/affiliated
+interface : objects currency (compilers)
+nada webobject compiler
+example, object - gnu c compiler, sun java compiler, google go compiler, microsoft c# compiler, apple objective-c compiler (aka them ugly hot girls)
 
 
-atom fund : foundation currency (aka royalist them ugly hot girls)
-service to the king
-example, foundation - corporation owned/affiliated
+gnu = gnu is not unix
 ]
 
 
@@ -126,3 +112,6 @@ soveriegn state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
 sovereign people : banana republicans (united whores, romani).
+
+
+----- Open copyright, document, Rakesh Kukatla-Sittrue -----

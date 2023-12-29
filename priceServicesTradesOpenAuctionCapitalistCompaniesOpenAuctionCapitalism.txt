@@ -9,20 +9,35 @@ always price, via open auction
 [
 allow auctioneers, step 1
 to
-bid for your capitalist services, trades, companies
+bid for your capitalist services
+bid for your capitalist trades
+bid for your companies
 to
-set a reserve price
+set a reserve price, from the winning auctioneer
 then
 allow persons, step 2
-to bid for your capitaist services, trades, companies
-from
-the winning auctioneer
 to
-set a clearing price
+bid for your capitalist services
+bid for your capitalist trades
+bid for your companies
+to
+set a clearing price, from the winning bidder
 then
 allow persons, step 3
-to pay for your capitalist services, trades, companies
-from the selling capitalist owner
+to
+pay for your (capitalist owner) capitalist services
+pay for your (capitalist owner) capitalist trades
+then
+allow persons, step 4
+unable to pay
+to
+pay the lowest bid price
+then
+repeat the above, step 5
+for
+each version of your capitalist services
+each version of your capitalist trades
+each version of your capitalist companies
 ]
 
 
@@ -37,14 +52,22 @@ set a reserve web price
 then
 allow persons, step 2
 to bid for your capitaist web services, web trades, web companies
-from
-the winning web auctioneer
 to
-set a clearing web price
+set a clearing web price, from the winning web auctioneer
 then
 allow persons, step 3
-to pay for your capitalist web services, web trades, web companies
-from the selling capitalist owner
+to pay for your (capitalist owner) capitalist web services, web trades, web companies
+then
+allow persons, step 4
+unable to pay
+to
+pay the lowest bid price
+then
+repeat the above, step 5
+for
+each version of your capitalist services
+each version of your capitalist trades
+each version of your capitalist companies
 ]
 
 
