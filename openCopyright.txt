@@ -111,9 +111,10 @@ earth : homestead - seven elm street, exurban new york-binghamton, one three nin
 soveriegn state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
-sovereign persons : banana republicans (united whores, romani).
-
-
+sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign people : banana republicans (united whores, romani).
+person = per-son
+people = pe-op-le
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
