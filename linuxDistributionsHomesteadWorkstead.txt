@@ -1,11 +1,11 @@
-﻿Linux distributions - Homestead, Workstead
+﻿Linux distributions - homestead, workstead
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
-Linux distribution - Homestead, Workstead
+Linux distributions - homestead, workstead
 
 
-common types
+common distributions
 [
 Linux - Web editor
 example homestead : Linux - Web
@@ -29,7 +29,7 @@ example workstead : Linux - Gentoo
 
 Linux - Engineer
 example homestead : Linux - Torvalds
-example workstead : Linux - ?
+example workstead : Linux - xEngineer
 
 
 Linux - Cloud runner
@@ -38,9 +38,9 @@ example workstead : Linux - googleRunner, microsoftRunner, amazonRunner
 ]
 
 
-other types
+other distributions
 [
-Linux - Financial analyzer workstation
+Linux - Financial analyzer
 example homestead : Linux - analyzeFinance
 example workstead : Linux - xAnalyzerF?
 
