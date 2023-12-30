@@ -1,0 +1,135 @@
+﻿Linux distributions - Homestead, Workstead
+
+
+----- Open copyright, document, Rakesh Kukatla-Sittrue -----
+Linux distribution - Homestead, Workstead
+
+
+common types
+[
+Linux - Web editor
+example homestead : Linux - Web
+example workstead : Linux - xWeb, yWeb, zWeb
+
+
+Linux - Net editor
+example homestead : Linux - Chromium
+example workstead : Linux - operaChromium, googleChromium, microsoftChromium
+
+
+Linux - Developer, Programmer
+example homestead : Linux - DevPro
+example workstead : Linux - Debian, Linux - Redhat
+
+
+Linux - Systems integrator
+example homestead : Linux - SysInt
+example workstead : Linux - Gentoo
+
+
+Linux - Engineer
+example homestead : Linux - Torvalds
+example workstead : Linux - ?
+
+
+Linux - Cloud runner
+example homestead : Linux - cloudRunner
+example workstead : Linux - googleRunner, microsoftRunner, amazonRunner
+]
+
+
+other types
+[
+Linux - Financial analyzer workstation
+example homestead : Linux - analyzeFinance
+example workstead : Linux - xAnalyzerF?
+
+
+Linux - Game player
+example homestead : Linux - playGames
+example workstead : Linux - zPlayer
+
+
+Linux - Entertainment player
+example homestead : Linux - playEntertainment
+example workstead : Linux - xPlayer
+
+
+so on and so forth
+]
+
+
+
+
+
+
+
+
+----- Open signature -----
+Independent interest and Militia (Independently joint, Independent and Professional)
+
+
+----- Smart status
+Unlucky (aka bastard)
+Single and Available
+
+
+----- Smart communication
+-- Electronic system web appliance (Trailer electronic system)
+electronic : riscv, arm
+electronicware : firmware/electronic
+system : linux/electronicware
+webcontentserver : system/apachecs
+webcontentmanager: system/webfm, system/webavm
+webserver : system/apache
+webbrowser : system/netscape, system/chrome
+-- Internet web appliance (aka Trailer net)
+p2p : git p2p/kukatlaSittrue/gitdikus
+p2p : git p2p/torvaldsLinus/gitditol
+p2p : git p2p/commonUpstream/gitdicou
+webgit : https://kus.webgitdikus
+webgit : https://tol.webgitditol
+webgit : https://cou.webgitdicou
+
+
+-- Applications web appliance (aka Trailer web)
+web : rakeshkelm@kukatla.sittrue, https://kus.email
+webHomeSteadKukatla : webgitDiKuS
+webHomeSteadKukatla : webcomDiKuS
+webCloudZoom : saudRoyalistUsa.webCzZoom
+web : rakeshkelm@gmail.com, https://gmail.com
+webCloudGoogle : saudiroyalistusa.webCgDrive
+webCloudMicrosoft : saudiroyalistusa.webCmGithub
+webCloudMicrosoft : saudiroyalistusa.webCmOnedrive
+
+
+----- Smart information
+Information web appliance (aka Trailer content)
+webgitDiKuS : https://kus.webgitdikus/rakeshkelm
+webgitDiKuS : https://kus.webgitdikus/irakeshkelm
+webgitDiKuS :https://kus.webgitdikus/rakeshkelmMedia
+webCmGithub : https://github.com/irakeshkelm
+webCmGithub : https://github.com/rakeshkelm
+webCmGithub : https://github.com/rakeshkelmMedia
+webgitkSittrue : https://ks.gdriveks/rakeshkelmDlink
+webCgDrive : https://drive.google.com/file/d/1N38dgmFNHQwqMC5bB6jhJQOvzT7zS2IP/view?usp=drive_link
+webgitkSittrue : https://ks.onedriveks/rakeshkelmDlink
+webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
+
+
+----- Smart location
+-- Galaxy appliance (aka Trailer planet)
+planet : earth
+sovereign country : United slave america
+banana republicans (united whores, romani).
+-- Planet appliance (aka Trailer earth)
+earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
+soveriegn state : kingdom of new york
+-- Earth appliance (aka Trailer park)
+homestead : cottage
+sovereign people : banana republicans (united whores, romani).
+
+
+
+
+----- Open copyright, document, Rakesh Kukatla-Sittrue -----
