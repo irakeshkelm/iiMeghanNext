@@ -1,52 +1,8 @@
-Open copyright
+﻿Open signature - Rakesh Kukatla-Sittrue
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
-Open copyright
-
-
-outlined
-[
-Independent interest
-and
-Militia
------Independently joint
-Independent
-and
-Professional
-]
-
-
-explained
-[
-It is, your
-to, use
-as, you choose
-]
-
-
-nada selling (aka free aka royalist aka socialist aka communist)
-[
-open copyright: consumer homestead
-damages: nada
-closed copyright: consumer commercial
-damages: maximum, upto the contracted amount
-]
-
-
-selling appliance (aka capitalist)
-[
-open copyright: consumer homestead
-damages: maximum, upto the contracted amount
-closed copyright: consumer commercial
-damages: maximum, upto the damage amount
-]
-
-
-
-
-
-
+Open signature - Rakesh Kukatla-Sittrue
 
 
 ----- Open signature -----
@@ -68,18 +24,38 @@ webcontentmanager: system/webfm, system/webavm
 webserver : system/apache
 webbrowser : system/netscape, system/chrome
 -- Internet web appliance (aka Trailer net)
+p2p : git p2p/kukatlaSittrue/gitdikus
+p2p : git p2p/torvaldsLinus/gitditol
 p2p : git p2p/commonUpstream/gitdicou
+webgit : https://kus.webgitdikus
+webgit : https://tol.webgitditol
 webgit : https://cou.webgitdicou
+
+
 -- Applications web appliance (aka Trailer web)
-web : commonupstream@common.upstream, https://cou.email
-webHomeSteadUpstream : webgitDiCoU
-webHomeSteadUpstream : webcomDiCoU
-webHomeSteadUpstream : webstoDiCoU
+web : rakeshkelm@kukatla.sittrue, https://kus.email
+webHomeSteadKukatla : webgitDiKuS
+webHomeSteadKukatla : webcomDiKuS
+webCloudZoom : saudRoyalistUsa.webCzZoom
+web : rakeshkelm@gmail.com, https://gmail.com
+webCloudGoogle : saudiroyalistusa.webCgDrive
+webCloudMicrosoft : saudiroyalistusa.webCmGithub
+webCloudMicrosoft : saudiroyalistusa.webCmOnedrive
+
 
 ----- Smart information
 Information web appliance (aka Trailer content)
-webgitcUpstream : https://cu.webgitdicou/commonUpstream
-webstorcUpstream : https://cu.gdrivecou/commonUpstreamDlink
+webgitDiKuS : https://kus.webgitdikus/rakeshkelm
+webgitDiKuS : https://kus.webgitdikus/irakeshkelm
+webgitDiKuS :https://kus.webgitdikus/rakeshkelmMedia
+webCmGithub : https://github.com/irakeshkelm
+webCmGithub : https://github.com/rakeshkelm
+webCmGithub : https://github.com/rakeshkelmMedia
+webgitkSittrue : https://ks.gdriveks/rakeshkelmDlink
+webCgDrive : https://drive.google.com/file/d/1N38dgmFNHQwqMC5bB6jhJQOvzT7zS2IP/view?usp=drive_link
+webgitkSittrue : https://ks.onedriveks/rakeshkelmDlink
+webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
+
 
 ----- Smart location
 -- Galaxy appliance (aka Trailer planet)
@@ -89,8 +65,8 @@ sovereign country : United slave america
 earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
 sovereign state : kingdom of new york
 -- Earth appliance (aka Trailer park)
-homestead : web
-sovereign webperson : Common Upstream (Planetarian, American).
+homestead : cottage
+sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
 sovereign people : banana republicans (united whores, romani).
 person = per-son
 people = pe-op-le
