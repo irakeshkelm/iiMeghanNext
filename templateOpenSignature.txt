@@ -1,0 +1,54 @@
+Template - Open signature
+
+
+----- Open copyright, document, Rakesh Kukatla-Sittrue -----
+Template - Open signature 
+
+
+----- Open signature -----
+Independent interest and Militia (Independently joint, Independent and Professional)
+
+
+----- Smart status
+Unlucky (aka bastard)
+Single and Available
+
+
+----- Smart communication
+-- Electronic system web appliance (Trailer electronic system)
+electronic : riscv, arm
+electronicware : firmware/electronic
+system : linux/electronicware
+webcontentserver : system/apachecs
+webcontentmanager: system/webfm, system/webavm
+webserver : system/apache
+webbrowser : system/netscape, system/chrome
+-- Internet web appliance (aka Trailer net)
+p2p : git p2p/commonUpstream/gitdicou
+webgit : https://cou.webgitdicou
+-- Applications web appliance (aka Trailer web)
+web : commonupstream@common.upstream, https://cou.email
+webHomeSteadUpstream : webgitDiCoU
+webHomeSteadUpstream : webcomDiCoU
+webHomeSteadUpstream : webstoDiCoU
+
+----- Smart information
+Information web appliance (aka Trailer content)
+webgitcUpstream : https://cu.webgitdicou/commonUpstream
+webstorcUpstream : https://cu.gdrivecou/commonUpstreamDlink
+
+----- Smart location
+-- Galaxy appliance (aka Trailer planet)
+planet : earth
+sovereign country : name of country
+-- Planet appliance (aka Trailer earth)
+earth : homestead - address in state
+sovereign state : name of state
+-- Earth appliance (aka Trailer park)
+homestead : web
+sovereign webperson : Common Upstream (Planetarian, American).
+sovereign people : name of people
+person = per-son
+people = pe-op-le
+
+----- Open copyright, document, Rakesh Kukatla-Sittrue -----

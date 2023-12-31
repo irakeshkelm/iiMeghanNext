@@ -1,60 +1,52 @@
-﻿Volunteer organization - service to individuals (aka capitalist)
+﻿Homestead web notebooks and web appliances - with open source and open copyright web server, web frameworks, web applications and web content
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
-Volunteer organization - service to individuals (aka capitalist)
+Homestead web notebooks and web appliances - with open source and open copyright web servers, web frameworks, web applications and web content
 
 
-volunteer organization (aka capitalist)
+
+
+Homestead web notebooks (aka clients aka front)
 [
-high standard:
-owned by volunteer owner
-run by volunteers only
-service to individuals
-pass through organization
-self service (aka open, nada conditions)
-daily, multiple times a day
-registered with state
-tax exempt status
+Chromium forks (aka web notebook) with integrated web shell, web editor, web file manager (de minimis aka the minimum) and/or web content (images, audio, video) editor, web content (images, audio, video) manager
 ]
 
 
-nada volunteer organization (aka funds aka them hot girls)
+Homestead web appliances (aka web framework/server and web database aka back)
 [
-other:
-nada high standard (any of the following)
-nada volunteer owner
-nada run by volunteers only
-nada pass through
-nada self service (aka closed, yada conditions)
-nada daily, nada multiple times a day
-nada registered with state
-nada tax exempt status
-yada registered with state
-yada tax exempt status
-
-
-funds - best of worst to worst of worst (aka them hot girls)
-
-
-atom fund : banks currency (aka communist aka them hot girls)
-service to community
-example, foodbanks - community owned/affiliated
-
-
-atom fund : charity currency (aka socialist aka them beautiful hot girls)
-service to the lord
-eample, charities - religious organization owned/affiliated
-
-
-atom fund : social (aka kitten) currency (aka royalist them ugly kitten hot girls)
-service to the king
-example, social (aka kitten fund) - kittens owned/affiliated
-
-
-atom fund : foundation currency (aka royalist them ugly hot girls)
-service to the king
-example, foundation - corporation owned/affiliated
+-----open source and open copyright web applications, with nosql db:
+email app
+audio/video app
+notes app
+doc's app
+git app
+calendar app
+contacts app
+Lens - text, image, audio, video (aka ai model)
+Navigation app
+media manager app - images, audio, videos (storage apps)
+file manager app (storage apps)
+search app
+maps app
+news app
+wikipedia app
+transcriber app (aka ai model)
+translator app (aka ai model)
+other apps
+spreadsheet app
+presentation app
+-----open source and open copyright web content - text, localized images, audios, videos with nosql db:
+search content
+wikipedia content
+news content
+maps content - localized images, audio, videos
+git content
+markets content
+other
+reference content (IRS tax, State incorporation, Owners, ...)
+-----automatic apps and content updates
+like tplink appliance
 ]
 
 

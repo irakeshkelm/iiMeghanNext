@@ -2,7 +2,7 @@
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
-Web interfaces - open
+Web - open interfaces
 
 
 default - html, hypertext markup language (aka capitalist)
@@ -14,14 +14,16 @@ simple
 ]
 
 
-other
+nada html (aka closed aka them hot girls)
 [
+other:
+nada high standard (any of the following)
 nada open source (yada closed objects)
 nada open copyright
 nada simple
 
 
-web interfaces - best of worst to worst of worst (aka them hot girls)
+interfaces - best of worst to worst of worst (aka them hot girls)
 
 
 interface : css currency (closed cascading style sheets aka communist)
@@ -36,11 +38,11 @@ example, script - javascript interpreter, actionscript interpreter, applescript 
 
 interface : objects currency (closed objects aka Royalist)
 nada webobject compiler (aka nada open compiler aka nada Capitalist)
-example, object - gnu c compiler, sun java compiler, google go compiler, mozilla-? rust-? compiler, microsoft c# compiler, apple objective-c compiler(aka them ugly hot girls)
+example, object - mozilla-? rust-? compiler, google go compiler, google kotlin compiler, gnu c compiler, sun java compiler, microsoft c# compiler, apple objective-c compiler (aka them ugly hot girls)
 
 
 gnu = gnu is not unix (aka gnu is compiler aka Royalist)
-current = go, rust-? (aka Royalist aka nada improvement)
+current = kotlin, go, rust-? (aka Royalist aka nada improvement)
 
 
 Information from:
@@ -111,13 +113,17 @@ webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
 -- Galaxy appliance (aka Trailer planet)
 planet : earth
 sovereign country : United slave america
-banana republicans (united whores, romani).
 -- Planet appliance (aka Trailer earth)
 earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
-soveriegn state : kingdom of new york
+sovereign state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
-sovereign people : banana republicans (united whores, romani).
+sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign people : banana republicans - whore belles (United whores, romani).
+United whore belles = rust, dust
+romani belle = bible
+person = per-son
+people = pe-op-le
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----

@@ -1,60 +1,35 @@
-﻿Volunteer organization - service to individuals (aka capitalist)
+﻿Homestead network appliances - with open source and open copyright network frameworks, nework servers, network apps and network content
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
-Volunteer organization - service to individuals (aka capitalist)
+Homestead network appliances - with open source and open copyright network frameworks, network servers, network apps and network content
 
 
-volunteer organization (aka capitalist)
+Homestead network appliances (aka network aka front)
 [
-high standard:
-owned by volunteer owner
-run by volunteers only
-service to individuals
-pass through organization
-self service (aka open, nada conditions)
-daily, multiple times a day
-registered with state
-tax exempt status
+Wave and fibre optics
+Homestead area network (HAN)
+Inter homestead area network (IHAN)
+Wave
+Planetary homestead area network (PHAN)
+Inter planetary homestead area network (IPHAN)
 ]
 
 
-nada volunteer organization (aka funds aka them hot girls)
+Homestead network apps (aka network framework/server/service/daemon and network database aka back)
 [
-other:
-nada high standard (any of the following)
-nada volunteer owner
-nada run by volunteers only
-nada pass through
-nada self service (aka closed, yada conditions)
-nada daily, nada multiple times a day
-nada registered with state
-nada tax exempt status
-yada registered with state
-yada tax exempt status
-
-
-funds - best of worst to worst of worst (aka them hot girls)
-
-
-atom fund : banks currency (aka communist aka them hot girls)
-service to community
-example, foodbanks - community owned/affiliated
-
-
-atom fund : charity currency (aka socialist aka them beautiful hot girls)
-service to the lord
-eample, charities - religious organization owned/affiliated
-
-
-atom fund : social (aka kitten) currency (aka royalist them ugly kitten hot girls)
-service to the king
-example, social (aka kitten fund) - kittens owned/affiliated
-
-
-atom fund : foundation currency (aka royalist them ugly hot girls)
-service to the king
-example, foundation - corporation owned/affiliated
+-----open source and open copyright network app's, with nosql db:
+HAN app
+IHAN app
+PHAN app
+IPHAN app
+-----open source and open copyright homestead network content - text, with nosql db:
+DNS content
+other
+reference content (registration records, routing records, other)
+-----automatic apps and content updates
+like alibaba appliance
+like tplink appliance
 ]
 
 

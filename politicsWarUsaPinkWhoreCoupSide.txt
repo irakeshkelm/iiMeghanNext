@@ -1,6 +1,10 @@
 ﻿Politics and War - Usa, Pink whore - Coup side
 
 
+----- Open copyright, document, Rakesh Kukatla-Sittrue -----
+Politics and War - Usa, Pink whore - Coup side
+
+
 Politics Usa (aka pink whore aka coup side)
 [
 Planetarian - Founder Class Planet backup - Rakesh Kukatla,
@@ -156,19 +160,73 @@ colorless = co-lo-red-less
 
 
 
------Open copyright-----
-Independent interest and Militia (aka Independently joint aka Independent and Professional)
------Smart status
+----- Open signature -----
+Independent interest and Militia (Independently joint, Independent and Professional)
+
+
+----- Smart status
 Unlucky (aka bastard)
 Single and Available
------Smart communication
-Internet (aka Trailer net)
-git : aka fool
-p2p : git rakeshkelm
-web : github.usa.saudiroyalist/irakeshkelm
-web : github.usa.saudiroyalist/rakeshkelm
------Smart location
-America (aka Trailer park)
-Address : 7 Elm Street, Exurban New York-Binghamton, Kingdom of NY 13905
-location : Usa - Banana republican's (aka United whore's, aka Romani)
-Usa = United slave america
+
+
+----- Smart communication
+-- Electronic system web appliance (Trailer electronic system)
+electronic : riscv, arm
+electronicware : firmware/electronic
+system : linux/electronicware
+webcontentserver : system/apachecs
+webcontentmanager: system/webfm, system/webavm
+webserver : system/apache
+webbrowser : system/netscape, system/chrome
+-- Internet web appliance (aka Trailer net)
+p2p : git p2p/kukatlaSittrue/gitdikus
+p2p : git p2p/torvaldsLinus/gitditol
+p2p : git p2p/commonUpstream/gitdicou
+webgit : https://kus.webgitdikus
+webgit : https://tol.webgitditol
+webgit : https://cou.webgitdicou
+
+
+-- Applications web appliance (aka Trailer web)
+web : rakeshkelm@kukatla.sittrue, https://kus.email
+webHomeSteadKukatla : webgitDiKuS
+webHomeSteadKukatla : webcomDiKuS
+webCloudZoom : saudRoyalistUsa.webCzZoom
+web : rakeshkelm@gmail.com, https://gmail.com
+webCloudGoogle : saudiroyalistusa.webCgDrive
+webCloudMicrosoft : saudiroyalistusa.webCmGithub
+webCloudMicrosoft : saudiroyalistusa.webCmOnedrive
+
+
+----- Smart information
+Information web appliance (aka Trailer content)
+webgitDiKuS : https://kus.webgitdikus/rakeshkelm
+webgitDiKuS : https://kus.webgitdikus/irakeshkelm
+webgitDiKuS :https://kus.webgitdikus/rakeshkelmMedia
+webCmGithub : https://github.com/irakeshkelm
+webCmGithub : https://github.com/rakeshkelm
+webCmGithub : https://github.com/rakeshkelmMedia
+webgitkSittrue : https://ks.gdriveks/rakeshkelmDlink
+webCgDrive : https://drive.google.com/file/d/1N38dgmFNHQwqMC5bB6jhJQOvzT7zS2IP/view?usp=drive_link
+webgitkSittrue : https://ks.onedriveks/rakeshkelmDlink
+webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
+
+
+----- Smart location
+-- Galaxy appliance (aka Trailer planet)
+planet : earth
+sovereign country : United slave america
+-- Planet appliance (aka Trailer earth)
+earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
+sovereign state : kingdom of new york
+-- Earth appliance (aka Trailer park)
+homestead : cottage
+sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign people : banana republicans - whore belles (United whores, romani).
+United whore belles = rust, dust
+romani belle = bible
+person = per-son
+people = pe-op-le
+
+
+----- Open copyright, document, Rakesh Kukatla-Sittrue -----

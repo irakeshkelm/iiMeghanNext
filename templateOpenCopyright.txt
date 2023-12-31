@@ -2,7 +2,7 @@
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
-Template - Open copyright
+Open copyright
 
 
 outlined
@@ -14,6 +14,8 @@ Militia
 Independent
 and
 Professional
+------
+service to individual
 ]
 
 
@@ -48,6 +50,7 @@ damages: maximum, upto the damage amount
 ----- closed copyright : outlined (aka fudge statement)
 fudge copyright
 fudge license
+nada service to individual
 
 
 closed copyright (aka fudging statement)
@@ -59,23 +62,28 @@ then
 ignore closed copyright (aka fudging statement)
 and
 put your open copyright (aka True statement)
+service to individual (aka True yourself)
 ]
 
 
 ----- closed copyright : explained (fudging statement)
 fudge copyright : Best of worst to worst of worst (aka them hot girls)
+fudge license : Best of worst to worst of worst (aka them hot girls)
 
 
 fudge copyright : Apache currency (aka them hot girls, aka communist)
+service to community
 example, Apache license, Apache license 1.0
 
 
 fudge copyright : MIT currency, BSD currency (aka them ugly kitten hot girls, aka Royalist)
+service to king
 example, MIT license
 example, BSD license, BSD-3 license
 
 
 fudge copyright : GPL currency (aka them ugly hot girls, aka Royalist)
+service to king
 example, GPL license, GPLv3 license
 
 
@@ -84,8 +92,6 @@ BSD = Berkeley systems division
 GPL = GNU public license
 GNU = GNU is not unix
 ]
-
-
 
 
 
