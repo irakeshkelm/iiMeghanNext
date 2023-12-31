@@ -84,14 +84,14 @@ webstorcUpstream : https://cu.gdrivecou/commonUpstreamDlink
 ----- Smart location
 -- Galaxy appliance (aka Trailer planet)
 planet : earth
-sovereign country : United slave america
+sovereign country : name of country
 -- Planet appliance (aka Trailer earth)
-earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
-sovereign state : kingdom of new york
+earth : homestead - address in state
+sovereign state : name of state
 -- Earth appliance (aka Trailer park)
 homestead : web
 sovereign webperson : Common Upstream (Planetarian, American).
-sovereign people : banana republicans (united whores, romani).
+sovereign people : name of people
 person = per-son
 people = pe-op-le
 
