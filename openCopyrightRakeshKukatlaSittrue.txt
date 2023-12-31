@@ -1,8 +1,8 @@
-﻿Open copyright
+﻿Open copyright - Rakesh Kukatla-Sittrue
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
-Open copyright
+Open copyright - Rakesh Kukatla-Sittrue
 
 
 outlined
@@ -15,6 +15,8 @@ Independent
 and
 Professional
 ]
+
+
 
 
 explained
@@ -40,6 +42,47 @@ open copyright: consumer homestead
 damages: maximum, upto the contracted amount
 closed copyright: consumer commercial
 damages: maximum, upto the damage amount
+]
+
+
+----- closed copyright : outlined (aka fudge statement)
+fudge copyright
+fudge license
+
+
+closed copyright (aka fudging statement)
+[
+open source
+and
+available on web (aka publicly)
+then
+ignore closed copyright (aka fudging statement)
+and
+put your open copyright (aka True statement)
+]
+
+
+----- closed copyright : explained (fudging statement)
+fudge copyright : Best of worst to worst of worst (aka them hot girls)
+
+
+fudge copyright : Apache currency (aka them hot girls, aka communist)
+example, Apache license, Apache license 1.0
+
+
+fudge copyright : MIT currency, BSD currency (aka them ugly kitten hot girls, aka Royalist)
+example, MIT license
+example, BSD license, BSD-3 license
+
+
+fudge copyright : GPL currency (aka them ugly hot girls, aka Royalist)
+example, GPL license, GPLv3 license
+
+
+MIT = Mssachusetts institute of technology
+BSD = Berkeley systems division
+GPL = GNU public license
+GNU = GNU is not unix
 ]
 
 
@@ -107,11 +150,11 @@ planet : earth
 sovereign country : United slave america
 -- Planet appliance (aka Trailer earth)
 earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
-sovereign state : kingdom of new york
+soveriegn state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
 sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
-sovereign people : banana republicans (United whores, romani).
+sovereign people : banana republicans (united whores, romani).
 person = per-son
 people = pe-op-le
 

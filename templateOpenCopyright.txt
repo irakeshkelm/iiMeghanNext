@@ -1,8 +1,8 @@
-Open copyright
+﻿Template - Open copyright
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
-Open copyright
+Template - Open copyright
 
 
 outlined
@@ -17,12 +17,15 @@ Professional
 ]
 
 
+
+
 explained
 [
 It is, your
 to, use
 as, you choose
 ]
+
 
 nada selling (aka free aka royalist aka socialist aka communist)
 [
@@ -32,6 +35,7 @@ closed copyright: consumer commercial
 damages: maximum, upto the contracted amount
 ]
 
+
 selling appliance (aka capitalist)
 [
 open copyright: consumer homestead
@@ -40,9 +44,11 @@ closed copyright: consumer commercial
 damages: maximum, upto the damage amount
 ]
 
+
 ----- closed copyright : outlined (aka fudge statement)
 fudge copyright
 fudge license
+
 
 closed copyright (aka fudging statement)
 [
@@ -55,18 +61,23 @@ and
 put your open copyright (aka True statement)
 ]
 
+
 ----- closed copyright : explained (fudging statement)
 fudge copyright : Best of worst to worst of worst (aka them hot girls)
 
+
 fudge copyright : Apache currency (aka them hot girls, aka communist)
 example, Apache license, Apache license 1.0
+
 
 fudge copyright : MIT currency, BSD currency (aka them ugly kitten hot girls, aka Royalist)
 example, MIT license
 example, BSD license, BSD-3 license
 
+
 fudge copyright : GPL currency (aka them ugly hot girls, aka Royalist)
 example, GPL license, GPLv3 license
+
 
 MIT = Mssachusetts institute of technology
 BSD = Berkeley systems division
@@ -76,90 +87,6 @@ GNU = GNU is not unix
 
 
 
------ Open signature -----
-Independent interest and Militia (Independently joint, Independent and Professional)
-
------ Smart status
-Unlucky (aka bastard)
-Single and Available
-
------ Smart communication
--- Electronic system web appliance (Trailer electronic system)
-electronic : riscv, arm
-electronicware : firmware/electronic
-system : linux/electronicware
-webcontentserver : system/apachecs
-webcontentmanager: system/webfm, system/webavm
-webserver : system/apache
-webbrowser : system/netscape, system/chrome
--- Internet web appliance (aka Trailer net)
-p2p : git p2p/commonUpstream/gitdicou
-webgit : https://cou.webgitdicou
--- Applications web appliance (aka Trailer web)
-web : commonupstream@common.upstream, https://cou.email
-webHomeSteadUpstream : webgitDiCoU
-webHomeSteadUpstream : webcomDiCoU
-webHomeSteadUpstream : webstoDiCoU
-
------ Smart information
-Information web appliance (aka Trailer content)
-webgitcUpstream : https://cu.webgitdicou/commonUpstream
-webstorcUpstream : https://cu.gdrivecou/commonUpstreamDlink
-
------ Smart location
--- Galaxy appliance (aka Trailer planet)
-planet : earth
-sovereign country : name of country
--- Planet appliance (aka Trailer earth)
-earth : homestead - address in state
-sovereign state : name of state
--- Earth appliance (aka Trailer park)
-homestead : web
-sovereign webperson : Common Upstream (Planetarian, American).
-sovereign people : name of people
-person = per-son
-people = pe-op-le
-outlined
-[
-Independent interest
-and
-Militia
------Independently joint
-Independent
-and
-Professional
-]
-
-
-explained
-[
-It is, your
-to, use
-as, you choose
-]
-
-
-nada selling (aka free aka royalist aka socialist aka communist)
-[
-open copyright: consumer homestead
-damages: nada
-closed copyright: consumer commercial
-damages: maximum, upto the contracted amount
-]
-
-
-selling appliance (aka capitalist)
-[
-open copyright: consumer homestead
-damages: maximum, upto the contracted amount
-closed copyright: consumer commercial
-damages: maximum, upto the damage amount
-]
-
-
-
-
-
 
 
 
@@ -190,10 +117,12 @@ webHomeSteadUpstream : webgitDiCoU
 webHomeSteadUpstream : webcomDiCoU
 webHomeSteadUpstream : webstoDiCoU
 
+
 ----- Smart information
 Information web appliance (aka Trailer content)
 webgitcUpstream : https://cu.webgitdicou/commonUpstream
 webstorcUpstream : https://cu.gdrivecou/commonUpstreamDlink
+
 
 ----- Smart location
 -- Galaxy appliance (aka Trailer planet)
