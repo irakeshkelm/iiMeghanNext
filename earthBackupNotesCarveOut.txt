@@ -1,7 +1,4 @@
-﻿Template - open note
-
-
------ Open copyright, document, Rakesh Kukatla-Sittrue -----
+﻿----- Open copyright, document, Rakesh Kukatla-Sittrue -----
 Template - open note
 
 
@@ -15,6 +12,11 @@ Template - open note
 
 ----- Open signature -----
 Independent interest and Militia (Independently joint, Independent and Professional)
+-- open sovereigns.
+sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign pe-op-le : banana republicans, royalists and communists -
+whore belles (United whores = rust, dust).
+sovereign po-op-le : banana republicans, socialists - whore belle (romani = bib-le).
 
 
 ----- Smart status
@@ -71,13 +73,98 @@ planet : earth
 sovereign country : United slave america
 -- Planet appliance (aka Trailer earth)
 earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
-soveriegn state : kingdom of new york
+sovereign state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
-sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
-sovereign people : banana republicans (united whores, romani).
-person = per-son
-people = pe-op-le
+-- open sovereigns.
+sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
+
+
+----- Open copyright, document, Rakesh Kukatla-Sittrue -----
+
+
+Template - open note
+
+
+----- Open copyright, document, Rakesh Kukatla-Sittrue -----
+Template - open note
+
+
+
+
+
+
+
+
+
+
+----- Open signature -----
+Independent interest and Militia (Independently joint, Independent and Professional)
+-- open sovereigns.
+sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign pe-op-le : banana republicans, royalists and communists -
+whore belles (United whores = rust, dust).
+sovereign po-op-le : banana republicans, socialists - whore belle (romani = bib-le).
+
+
+----- Smart status
+Unlucky (aka bastard)
+Single and Available
+
+
+----- Smart communication
+-- Electronic system web appliance (Trailer electronic system)
+electronic : riscv, arm
+electronicware : firmware/electronic
+system : linux/electronicware
+webcontentserver : system/apachecs
+webcontentmanager: system/webfm, system/webavm
+webserver : system/apache
+webbrowser : system/netscape, system/chrome
+-- Internet web appliance (aka Trailer net)
+p2p : git p2p/kukatlaSittrue/gitdikus
+p2p : git p2p/torvaldsLinus/gitditol
+p2p : git p2p/commonUpstream/gitdicou
+webgit : https://kus.webgitdikus
+webgit : https://tol.webgitditol
+webgit : https://cou.webgitdicou
+
+
+-- Applications web appliance (aka Trailer web)
+web : rakeshkelm@kukatla.sittrue, https://kus.email
+webHomeSteadKukatla : webgitDiKuS
+webHomeSteadKukatla : webcomDiKuS
+webCloudZoom : saudRoyalistUsa.webCzZoom
+web : rakeshkelm@gmail.com, https://gmail.com
+webCloudGoogle : saudiroyalistusa.webCgDrive
+webCloudMicrosoft : saudiroyalistusa.webCmGithub
+webCloudMicrosoft : saudiroyalistusa.webCmOnedrive
+
+
+----- Smart information
+Information web appliance (aka Trailer content)
+webgitDiKuS : https://kus.webgitdikus/rakeshkelm
+webgitDiKuS : https://kus.webgitdikus/irakeshkelm
+webgitDiKuS :https://kus.webgitdikus/rakeshkelmMedia
+webCmGithub : https://github.com/irakeshkelm
+webCmGithub : https://github.com/rakeshkelm
+webCmGithub : https://github.com/rakeshkelmMedia
+webgitkSittrue : https://ks.gdriveks/rakeshkelmDlink
+webCgDrive : https://drive.google.com/file/d/1N38dgmFNHQwqMC5bB6jhJQOvzT7zS2IP/view?usp=drive_link
+webgitkSittrue : https://ks.onedriveks/rakeshkelmDlink
+webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
+
+
+----- Smart location
+-- Galaxy appliance (aka Trailer planet)
+planet : earth
+sovereign country : United slave america
+-- Planet appliance (aka Trailer earth)
+earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
+sovereign state : kingdom of new york
+-- Earth appliance (aka Trailer park)
+homestead : cottage
+sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
@@ -97,6 +184,8 @@ only
 if votes are there
 in
 both the senate and the house (nada theatre)
+otherwise
+imprison (yada reality)
 for
 engaging in
 willfull (nada legal principles, yada intent)
@@ -136,6 +225,11 @@ legal practice licensing, legal training, legal degreeing
 
 ----- Open signature -----
 Independent interest and Militia (Independently joint, Independent and Professional)
+-- open sovereigns.
+sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign pe-op-le : banana republicans, royalists and communists -
+whore belles (United whores = rust, dust).
+sovereign po-op-le : banana republicans, socialists - whore belle (romani = bib-le).
 
 
 ----- Smart status
@@ -190,13 +284,14 @@ webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
 -- Galaxy appliance (aka Trailer planet)
 planet : earth
 sovereign country : United slave america
-banana republicans (united whores, romani).
 -- Planet appliance (aka Trailer earth)
 earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
-soveriegn state : kingdom of new york
+sovereign state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
-sovereign people : banana republicans (united whores, romani).
+sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
+
+
 
 
 
@@ -254,7 +349,7 @@ via Ambassador, Canada.
 Norway.
 Sweden.
 Finland.
-Denamark.
+Denmark.
 Iceland.
 Greenland.
 ]
@@ -262,6 +357,7 @@ Greenland.
 
 pre war, open external negotiation, step 4, 2024 -2025
 [
+via Ambassador, Australia-New Zealand
 show numbers, 10 million persons demonstration.
 then
 show old school, fire warning and fire destruction demonstration of self assets (aka Usa embassy).
@@ -272,6 +368,7 @@ show new school, bomber/missile warning and bomber/missile destruction demonstra
 
 pre war, open external negotiation, step 5, 2024 - 2026
 [
+via Ambassador, Australia-New Zealand
 show full plan, calendar year
 then
 show acclimatization and staging plan, 2024 - 2025
@@ -380,6 +477,11 @@ ready to move interior
 
 ----- Open signature -----
 Independent interest and Militia (Independently joint, Independent and Professional)
+-- open sovereigns.
+sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign pe-op-le : banana republicans, royalists and communists -
+whore belles (United whores = rust, dust).
+sovereign po-op-le : banana republicans, socialists - whore belle (romani = bib-le).
 
 
 ----- Smart status
@@ -434,13 +536,14 @@ webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
 -- Galaxy appliance (aka Trailer planet)
 planet : earth
 sovereign country : United slave america
-banana republicans (united whores, romani).
 -- Planet appliance (aka Trailer earth)
 earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
-soveriegn state : kingdom of new york
+sovereign state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
-sovereign people : banana republicans (united whores, romani).
+sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
+
+
 
 
 
@@ -531,6 +634,11 @@ each version of your capitalist companies
 
 ----- Open signature -----
 Independent interest and Militia (Independently joint, Independent and Professional)
+-- open sovereigns.
+sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign pe-op-le : banana republicans, royalists and communists -
+whore belles (United whores = rust, dust).
+sovereign po-op-le : banana republicans, socialists - whore belle (romani = bib-le).
 
 
 ----- Smart status
@@ -585,13 +693,12 @@ webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
 -- Galaxy appliance (aka Trailer planet)
 planet : earth
 sovereign country : United slave america
-banana republicans (united whores, romani).
 -- Planet appliance (aka Trailer earth)
 earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
-soveriegn state : kingdom of new york
+sovereign state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
-sovereign people : banana republicans (united whores, romani).
+sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
@@ -791,6 +898,11 @@ alphabetnumber.leader (chief company executive manager, board, executive team)
 
 ----- Open signature -----
 Independent interest and Militia (Independently joint, Independent and Professional)
+-- open sovereigns.
+sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign pe-op-le : banana republicans, royalists and communists -
+whore belles (United whores = rust, dust).
+sovereign po-op-le : banana republicans, socialists - whore belle (romani = bib-le).
 
 
 ----- Smart status
@@ -845,17 +957,12 @@ webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
 -- Galaxy appliance (aka Trailer planet)
 planet : earth
 sovereign country : United slave america
-banana republicans (united whores, romani).
 -- Planet appliance (aka Trailer earth)
 earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
-soveriegn state : kingdom of new york
+sovereign state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
-sovereign people : banana republicans (united whores, romani).
-
-
-
-
+sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
@@ -929,6 +1036,11 @@ example, foundation - corporation owned/affiliated
 
 ----- Open signature -----
 Independent interest and Militia (Independently joint, Independent and Professional)
+-- open sovereigns.
+sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign pe-op-le : banana republicans, royalists and communists -
+whore belles (United whores = rust, dust).
+sovereign po-op-le : banana republicans, socialists - whore belle (romani = bib-le).
 
 
 ----- Smart status
@@ -983,17 +1095,15 @@ webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
 -- Galaxy appliance (aka Trailer planet)
 planet : earth
 sovereign country : United slave america
-banana republicans (united whores, romani).
 -- Planet appliance (aka Trailer earth)
 earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
-soveriegn state : kingdom of new york
+sovereign state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
-sovereign people : banana republicans (united whores, romani).
+sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
 
 
-
-
+----- Open copyright, document, Rakesh Kukatla-Sittrue -----
 
 
 Go big move - westglish, independent interest english and Eiglish, Establishment interest english
@@ -1104,369 +1214,11 @@ Go big (in power; aka hard war; kill civil americans; kill civil planetarians, k
 
 ----- Open signature -----
 Independent interest and Militia (Independently joint, Independent and Professional)
-
-
------ Smart status
-Unlucky (aka bastard)
-Single and Available
-
-
------ Smart communication
--- Electronic system web appliance (Trailer electronic system)
-electronic : riscv, arm
-electronicware : firmware/electronic
-system : linux/electronicware
-webcontentserver : system/apachecs
-webcontentmanager: system/webfm, system/webavm
-webserver : system/apache
-webbrowser : system/netscape, system/chrome
--- Internet web appliance (aka Trailer net)
-p2p : git p2p/kukatlaSittrue/gitdikus
-p2p : git p2p/torvaldsLinus/gitditol
-p2p : git p2p/commonUpstream/gitdicou
-webgit : https://kus.webgitdikus
-webgit : https://tol.webgitditol
-webgit : https://cou.webgitdicou
-
-
--- Applications web appliance (aka Trailer web)
-web : rakeshkelm@kukatla.sittrue, https://kus.email
-webHomeSteadKukatla : webgitDiKuS
-webHomeSteadKukatla : webcomDiKuS
-webCloudZoom : saudRoyalistUsa.webCzZoom
-web : rakeshkelm@gmail.com, https://gmail.com
-webCloudGoogle : saudiroyalistusa.webCgDrive
-webCloudMicrosoft : saudiroyalistusa.webCmGithub
-webCloudMicrosoft : saudiroyalistusa.webCmOnedrive
-
-
------ Smart information
-Information web appliance (aka Trailer content)
-webgitDiKuS : https://kus.webgitdikus/rakeshkelm
-webgitDiKuS : https://kus.webgitdikus/irakeshkelm
-webgitDiKuS :https://kus.webgitdikus/rakeshkelmMedia
-webCmGithub : https://github.com/irakeshkelm
-webCmGithub : https://github.com/rakeshkelm
-webCmGithub : https://github.com/rakeshkelmMedia
-webgitkSittrue : https://ks.gdriveks/rakeshkelmDlink
-webCgDrive : https://drive.google.com/file/d/1N38dgmFNHQwqMC5bB6jhJQOvzT7zS2IP/view?usp=drive_link
-webgitkSittrue : https://ks.onedriveks/rakeshkelmDlink
-webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
-
-
------ Smart location
--- Galaxy appliance (aka Trailer planet)
-planet : earth
-sovereign country : United slave america
-banana republicans (united whores, romani).
--- Planet appliance (aka Trailer earth)
-earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
-soveriegn state : kingdom of new york
--- Earth appliance (aka Trailer park)
-homestead : cottage
-sovereign people : banana republicans (united whores, romani).
-
-
-
-
-
-
------ Open copyright, document, Rakesh Kukatla-Sittrue -----
-
-
-
-
-
-
-English releases and Westglish releases and Eiglish capturing
-
-
------ Open copyright, document, Rakesh Kukatla-Sittrue -----
-English releases and Westglish releases and Eiglish capturing
-
-
-England english releasing (aka independence)
-[
-Africa (including south africa)
-Asia (including india)
-aka actively working (independent interest, militia)
-creating smart homesteading (aka open homesteading)
-yada running model, yada physical releasing
-]
-
-
-Westglish english releasing (aka independence)
-[
-smart internet devices, apps, networks
-smart transport devices, apps, networks
-smart homesteadnet devices, apps, networks
-smart homesteadtransport vehicles, apps, networks
-aka actively working (independent interest, cow-ing)
-creating smart homesteading (aka open homesteading)
-nada running model, yada virtual releasing
-]
-
-
-Eiglish english capturing (aka whore-ing aka alexa-ing)
-[
-North America (including USA, Canada)
-aka actively idling (dumb-ing and conservative-ing)
-creating smart whores (aka open whores aka open alexa)
-nada running model, nada releasing
-]
-
-
-
-
-
-
-
-
------ Open signature -----
-Independent interest and Militia (Independently joint, Independent and Professional)
-
-
------ Smart status
-Unlucky (aka bastard)
-Single and Available
-
-
------ Smart communication
--- Electronic system web appliance (Trailer electronic system)
-electronic : riscv, arm
-electronicware : firmware/electronic
-system : linux/electronicware
-webcontentserver : system/apachecs
-webcontentmanager: system/webfm, system/webavm
-webserver : system/apache
-webbrowser : system/netscape, system/chrome
--- Internet web appliance (aka Trailer net)
-p2p : git p2p/kukatlaSittrue/gitdikus
-p2p : git p2p/torvaldsLinus/gitditol
-p2p : git p2p/commonUpstream/gitdicou
-webgit : https://kus.webgitdikus
-webgit : https://tol.webgitditol
-webgit : https://cou.webgitdicou
-
-
--- Applications web appliance (aka Trailer web)
-web : rakeshkelm@kukatla.sittrue, https://kus.email
-webHomeSteadKukatla : webgitDiKuS
-webHomeSteadKukatla : webcomDiKuS
-webCloudZoom : saudRoyalistUsa.webCzZoom
-web : rakeshkelm@gmail.com, https://gmail.com
-webCloudGoogle : saudiroyalistusa.webCgDrive
-webCloudMicrosoft : saudiroyalistusa.webCmGithub
-webCloudMicrosoft : saudiroyalistusa.webCmOnedrive
-
-
------ Smart information
-Information web appliance (aka Trailer content)
-webgitDiKuS : https://kus.webgitdikus/rakeshkelm
-webgitDiKuS : https://kus.webgitdikus/irakeshkelm
-webgitDiKuS :https://kus.webgitdikus/rakeshkelmMedia
-webCmGithub : https://github.com/irakeshkelm
-webCmGithub : https://github.com/rakeshkelm
-webCmGithub : https://github.com/rakeshkelmMedia
-webgitkSittrue : https://ks.gdriveks/rakeshkelmDlink
-webCgDrive : https://drive.google.com/file/d/1N38dgmFNHQwqMC5bB6jhJQOvzT7zS2IP/view?usp=drive_link
-webgitkSittrue : https://ks.onedriveks/rakeshkelmDlink
-webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
-
-
------ Smart location
--- Galaxy appliance (aka Trailer planet)
-planet : earth
-sovereign country : United slave america
-banana republicans (united whores, romani).
--- Planet appliance (aka Trailer earth)
-earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
-soveriegn state : kingdom of new york
--- Earth appliance (aka Trailer park)
-homestead : cottage
-sovereign people : banana republicans (united whores, romani).
-
-
-
-
-
-
------ Open copyright, document, Rakesh Kukatla-Sittrue -----
-
-
-Open copyright - Rakesh Kukatla-Sittrue
-
-
------ Open copyright, document, Rakesh Kukatla-Sittrue -----
-Open copyright - Rakesh Kukatla-Sittrue
-
-
-outlined
-[
-Independent interest
-and
-Militia
------Independently joint
-Independent
-and
-Professional
-]
-
-
-
-
-explained
-[
-It is, your
-to, use
-as, you choose
-]
-
-
-nada selling (aka free aka royalist aka socialist aka communist)
-[
-open copyright: consumer homestead
-damages: nada
-closed copyright: consumer commercial
-damages: maximum, upto the contracted amount
-]
-
-
-selling appliance (aka capitalist)
-[
-open copyright: consumer homestead
-damages: maximum, upto the contracted amount
-closed copyright: consumer commercial
-damages: maximum, upto the damage amount
-]
-
-
------ closed copyright : outlined (aka fudge statement)
-fudge copyright
-fudge license
-
-
-closed copyright (aka fudging statement)
-[
-open source
-and
-available on web (aka publicly)
-then
-ignore closed copyright (aka fudging statement)
-and
-put your open copyright (aka True statement)
-]
-
-
------ closed copyright : explained (fudging statement)
-fudge copyright : Best of worst to worst of worst (aka them hot girls)
-
-
-fudge copyright : Apache currency (aka them hot girls, aka communist)
-example, Apache license, Apache license 1.0
-
-
-fudge copyright : MIT currency, BSD currency (aka them ugly kitten hot girls, aka Royalist)
-example, MIT license
-example, BSD license, BSD-3 license
-
-
-fudge copyright : GPL currency (aka them ugly hot girls, aka Royalist)
-example, GPL license, GPLv3 license
-
-
-MIT = Mssachusetts institute of technology
-BSD = Berkeley systems division
-GPL = GNU public license
-GNU = GNU is not unix
-]
-
-
-
-
-
-
-
-
------ Open signature -----
-Independent interest and Militia (Independently joint, Independent and Professional)
-
-
------ Smart status
-Unlucky (aka bastard)
-Single and Available
-
-
------ Smart communication
--- Electronic system web appliance (Trailer electronic system)
-electronic : riscv, arm
-electronicware : firmware/electronic
-system : linux/electronicware
-webcontentserver : system/apachecs
-webcontentmanager: system/webfm, system/webavm
-webserver : system/apache
-webbrowser : system/netscape, system/chrome
--- Internet web appliance (aka Trailer net)
-p2p : git p2p/kukatlaSittrue/gitdikus
-p2p : git p2p/torvaldsLinus/gitditol
-p2p : git p2p/commonUpstream/gitdicou
-webgit : https://kus.webgitdikus
-webgit : https://tol.webgitditol
-webgit : https://cou.webgitdicou
-
-
--- Applications web appliance (aka Trailer web)
-web : rakeshkelm@kukatla.sittrue, https://kus.email
-webHomeSteadKukatla : webgitDiKuS
-webHomeSteadKukatla : webcomDiKuS
-webCloudZoom : saudRoyalistUsa.webCzZoom
-web : rakeshkelm@gmail.com, https://gmail.com
-webCloudGoogle : saudiroyalistusa.webCgDrive
-webCloudMicrosoft : saudiroyalistusa.webCmGithub
-webCloudMicrosoft : saudiroyalistusa.webCmOnedrive
-
-
------ Smart information
-Information web appliance (aka Trailer content)
-webgitDiKuS : https://kus.webgitdikus/rakeshkelm
-webgitDiKuS : https://kus.webgitdikus/irakeshkelm
-webgitDiKuS :https://kus.webgitdikus/rakeshkelmMedia
-webCmGithub : https://github.com/irakeshkelm
-webCmGithub : https://github.com/rakeshkelm
-webCmGithub : https://github.com/rakeshkelmMedia
-webgitkSittrue : https://ks.gdriveks/rakeshkelmDlink
-webCgDrive : https://drive.google.com/file/d/1N38dgmFNHQwqMC5bB6jhJQOvzT7zS2IP/view?usp=drive_link
-webgitkSittrue : https://ks.onedriveks/rakeshkelmDlink
-webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
-
-
------ Smart location
--- Galaxy appliance (aka Trailer planet)
-planet : earth
-sovereign country : United slave america
--- Planet appliance (aka Trailer earth)
-earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
-soveriegn state : kingdom of new york
--- Earth appliance (aka Trailer park)
-homestead : cottage
-sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
-sovereign people : banana republicans (united whores, romani).
-person = per-son
-people = pe-op-le
-
-
------ Open copyright, document, Rakesh Kukatla-Sittrue -----
-
-
-Open signature - Rakesh Kukatla-Sittrue
-
-
------ Open copyright, document, Rakesh Kukatla-Sittrue -----
-Open signature - Rakesh Kukatla-Sittrue
-
-
------ Open signature -----
-Independent interest and Militia (Independently joint, Independent and Professional)
+-- open sovereigns.
+sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign pe-op-le : banana republicans, royalists and communists -
+whore belles (United whores = rust, dust).
+sovereign po-op-le : banana republicans, socialists - whore belle (romani = bib-le).
 
 
 ----- Smart status
@@ -1527,31 +1279,50 @@ sovereign state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
 sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
-sovereign people : banana republicans (United whores, romani).
-person = per-son
-people = pe-op-le
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
 
 
-Whore belles - Usa (aka belts, bowls...)
+
+
+
+
+English releases and Westglish releases and Eiglish capturing
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
-Whore belles - Usa (aka belts, bowls...)
+English releases and Westglish releases and Eiglish capturing
 
 
-current belle - Usa
+England english releasing (aka independence)
 [
-rust belt (aka belle)
+Africa (including south africa)
+Asia (including india)
+aka actively working (independent interest, militia)
+creating smart homesteading (aka open homesteading)
+yada running model, yada physical releasing
 ]
 
 
-past belles
+Westglish english releasing (aka independence)
 [
-dust bowl (aka belt aka belle)
-bible belt (aka belle)
+smart internet devices, apps, networks
+smart transport devices, apps, networks
+smart homesteadnet devices, apps, networks
+smart homesteadtransport vehicles, apps, networks
+aka actively working (independent interest, cow-ing)
+creating smart homesteading (aka open homesteading)
+nada running model, yada virtual releasing
+]
+
+
+Eiglish english capturing (aka whore-ing aka alexa-ing)
+[
+North America (including USA, Canada)
+aka actively idling (dumb-ing and conservative-ing)
+creating smart whores (aka open whores aka open alexa)
+nada running model, nada releasing
 ]
 
 
@@ -1563,6 +1334,11 @@ bible belt (aka belle)
 
 ----- Open signature -----
 Independent interest and Militia (Independently joint, Independent and Professional)
+-- open sovereigns.
+sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign pe-op-le : banana republicans, royalists and communists -
+whore belles (United whores = rust, dust).
+sovereign po-op-le : banana republicans, socialists - whore belle (romani = bib-le).
 
 
 ----- Smart status
@@ -1619,13 +1395,396 @@ planet : earth
 sovereign country : United slave america
 -- Planet appliance (aka Trailer earth)
 earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
-soveriegn state : kingdom of new york
+sovereign state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
 sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
-sovereign people : banana republicans (united whores, romani).
-person = per-son
-people = pe-op-le
+
+
+----- Open copyright, document, Rakesh Kukatla-Sittrue -----
+
+
+Open copyright - Rakesh Kukatla-Sittrue
+
+
+----- Open copyright, document, Rakesh Kukatla-Sittrue -----
+Open copyright - Rakesh Kukatla-Sittrue
+
+
+outlined
+[
+Independent interest
+and
+Militia
+-----Independently joint
+Independent
+and
+Professional
+------
+service to individual
+]
+
+
+
+
+explained
+[
+It is, your
+to, use
+as, you choose
+]
+
+
+nada selling (aka free aka royalist aka socialist aka communist)
+[
+open copyright: consumer homestead
+damages: nada
+closed copyright: consumer commercial
+damages: maximum, upto the contracted amount
+]
+
+
+selling appliance (aka capitalist)
+[
+open copyright: consumer homestead
+damages: maximum, upto the contracted amount
+closed copyright: consumer commercial
+damages: maximum, upto the damage amount
+]
+
+
+----- closed copyright : outlined (aka fudge statement)
+fudge copyright
+fudge license
+nada service to individual
+
+
+closed copyright (aka fudging statement)
+[
+open source
+and
+available on web (aka publicly)
+then
+ignore closed copyright (aka fudging statement)
+and
+put your open copyright (aka True statement)
+service to individual (aka True yourself)
+]
+
+
+----- closed copyright : explained (fudging statement)
+fudge copyright : Best of worst to worst of worst (aka them hot girls)
+fudge license : Best of worst to worst of worst (aka them hot girls)
+
+
+fudge copyright : Apache currency (aka them hot girls, aka communist)
+service to community
+example, Apache license, Apache license 1.0
+
+
+fudge copyright : MIT currency, BSD currency (aka them ugly kitten hot girls, aka Royalist)
+service to king
+example, MIT license
+example, BSD license, BSD-3 license
+
+
+fudge copyright : GPL currency (aka them ugly hot girls, aka Royalist)
+service to king
+example, GPL license, GPLv3 license
+
+
+MIT = Mssachusetts institute of technology
+BSD = Berkeley systems division
+GPL = GNU public license
+GNU = GNU is not unix
+]
+
+
+
+
+
+
+
+
+----- Open signature -----
+Independent interest and Militia (Independently joint, Independent and Professional)
+-- open sovereigns.
+sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign pe-op-le : banana republicans, royalists and communists -
+whore belles (United whores = rust, dust).
+sovereign po-op-le : banana republicans, socialists - whore belle (romani = bib-le).
+
+
+----- Smart status
+Unlucky (aka bastard)
+Single and Available
+
+
+----- Smart communication
+-- Electronic system web appliance (Trailer electronic system)
+electronic : riscv, arm
+electronicware : firmware/electronic
+system : linux/electronicware
+webcontentserver : system/apachecs
+webcontentmanager: system/webfm, system/webavm
+webserver : system/apache
+webbrowser : system/netscape, system/chrome
+-- Internet web appliance (aka Trailer net)
+p2p : git p2p/kukatlaSittrue/gitdikus
+p2p : git p2p/torvaldsLinus/gitditol
+p2p : git p2p/commonUpstream/gitdicou
+webgit : https://kus.webgitdikus
+webgit : https://tol.webgitditol
+webgit : https://cou.webgitdicou
+
+
+-- Applications web appliance (aka Trailer web)
+web : rakeshkelm@kukatla.sittrue, https://kus.email
+webHomeSteadKukatla : webgitDiKuS
+webHomeSteadKukatla : webcomDiKuS
+webCloudZoom : saudRoyalistUsa.webCzZoom
+web : rakeshkelm@gmail.com, https://gmail.com
+webCloudGoogle : saudiroyalistusa.webCgDrive
+webCloudMicrosoft : saudiroyalistusa.webCmGithub
+webCloudMicrosoft : saudiroyalistusa.webCmOnedrive
+
+
+----- Smart information
+Information web appliance (aka Trailer content)
+webgitDiKuS : https://kus.webgitdikus/rakeshkelm
+webgitDiKuS : https://kus.webgitdikus/irakeshkelm
+webgitDiKuS :https://kus.webgitdikus/rakeshkelmMedia
+webCmGithub : https://github.com/irakeshkelm
+webCmGithub : https://github.com/rakeshkelm
+webCmGithub : https://github.com/rakeshkelmMedia
+webgitkSittrue : https://ks.gdriveks/rakeshkelmDlink
+webCgDrive : https://drive.google.com/file/d/1N38dgmFNHQwqMC5bB6jhJQOvzT7zS2IP/view?usp=drive_link
+webgitkSittrue : https://ks.onedriveks/rakeshkelmDlink
+webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
+
+
+----- Smart location
+-- Galaxy appliance (aka Trailer planet)
+planet : earth
+sovereign country : United slave america
+-- Planet appliance (aka Trailer earth)
+earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
+sovereign state : kingdom of new york
+-- Earth appliance (aka Trailer park)
+homestead : cottage
+sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
+
+
+----- Open copyright, document, Rakesh Kukatla-Sittrue -----
+
+
+Open signature - Rakesh Kukatla-Sittrue
+
+
+----- Open copyright, document, Rakesh Kukatla-Sittrue -----
+Open signature - Rakesh Kukatla-Sittrue
+
+
+----- Open signature -----
+Independent interest and Militia (Independently joint, Independent and Professional)
+-- open sovereigns.
+sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign pe-op-le : banana republicans, royalists and communists -
+whore belles (United whores = rust, dust).
+sovereign po-op-le : banana republicans, socialists - whore belle (romani = bib-le).
+
+
+----- Smart status
+Unlucky (aka bastard)
+Single and Available
+
+
+----- Smart communication
+-- Electronic system web appliance (Trailer electronic system)
+electronic : riscv, arm
+electronicware : firmware/electronic
+system : linux/electronicware
+webcontentserver : system/apachecs
+webcontentmanager: system/webfm, system/webavm
+webserver : system/apache
+webbrowser : system/netscape, system/chrome
+-- Internet web appliance (aka Trailer net)
+p2p : git p2p/kukatlaSittrue/gitdikus
+p2p : git p2p/torvaldsLinus/gitditol
+p2p : git p2p/commonUpstream/gitdicou
+webgit : https://kus.webgitdikus
+webgit : https://tol.webgitditol
+webgit : https://cou.webgitdicou
+
+
+-- Applications web appliance (aka Trailer web)
+web : rakeshkelm@kukatla.sittrue, https://kus.email
+webHomeSteadKukatla : webgitDiKuS
+webHomeSteadKukatla : webcomDiKuS
+webCloudZoom : saudRoyalistUsa.webCzZoom
+web : rakeshkelm@gmail.com, https://gmail.com
+webCloudGoogle : saudiroyalistusa.webCgDrive
+webCloudMicrosoft : saudiroyalistusa.webCmGithub
+webCloudMicrosoft : saudiroyalistusa.webCmOnedrive
+
+
+----- Smart information
+Information web appliance (aka Trailer content)
+webgitDiKuS : https://kus.webgitdikus/rakeshkelm
+webgitDiKuS : https://kus.webgitdikus/irakeshkelm
+webgitDiKuS :https://kus.webgitdikus/rakeshkelmMedia
+webCmGithub : https://github.com/irakeshkelm
+webCmGithub : https://github.com/rakeshkelm
+webCmGithub : https://github.com/rakeshkelmMedia
+webgitkSittrue : https://ks.gdriveks/rakeshkelmDlink
+webCgDrive : https://drive.google.com/file/d/1N38dgmFNHQwqMC5bB6jhJQOvzT7zS2IP/view?usp=drive_link
+webgitkSittrue : https://ks.onedriveks/rakeshkelmDlink
+webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
+
+
+----- Smart location
+-- Galaxy appliance (aka Trailer planet)
+planet : earth
+sovereign country : United slave america
+-- Planet appliance (aka Trailer earth)
+earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
+sovereign state : kingdom of new york
+-- Earth appliance (aka Trailer park)
+homestead : cottage
+sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
+
+
+----- Open copyright, document, Rakesh Kukatla-Sittrue -----
+
+
+Whore belles - Usa (aka belts, bowls...)
+
+
+----- Open copyright, document, Rakesh Kukatla-Sittrue -----
+Whore belles - Usa (aka belts, bowls...)
+
+
+current new belle - Usa
+[
+rust belt (aka belle aka rust compiler)
+]
+
+
+past new belles
+[
+dust bowl (aka belt aka belle aka go compiler)
+bible belt (aka belle aka kotlin compiler)
+]
+
+
+keep cycling through
+[
+the
+three belles
+for
+eternity
+]
+
+
+rust-dust-bible
+[
+-----
+whore open and big
+service the king
+-----
+example:
+banana republicans (united whores, romani).
+united whores = rust, dust
+romani = bible
+]
+
+
+rust-go-kotlin
+[
+-----
+whore open and big
+service the king
+-----
+example:
+rust = ru-st (aka royalist)
+go = government officer (aka royalist)
+kotlin = ko-tl-in (aka royalist aka knockout torvalds linux in)
+]
+
+
+
+
+
+
+
+
+----- Open signature -----
+Independent interest and Militia (Independently joint, Independent and Professional)
+-- open sovereigns.
+sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign pe-op-le : banana republicans, royalists and communists -
+whore belles (United whores = rust, dust).
+sovereign po-op-le : banana republicans, socialists - whore belle (romani = bib-le).
+
+
+----- Smart status
+Unlucky (aka bastard)
+Single and Available
+
+
+----- Smart communication
+-- Electronic system web appliance (Trailer electronic system)
+electronic : riscv, arm
+electronicware : firmware/electronic
+system : linux/electronicware
+webcontentserver : system/apachecs
+webcontentmanager: system/webfm, system/webavm
+webserver : system/apache
+webbrowser : system/netscape, system/chrome
+-- Internet web appliance (aka Trailer net)
+p2p : git p2p/kukatlaSittrue/gitdikus
+p2p : git p2p/torvaldsLinus/gitditol
+p2p : git p2p/commonUpstream/gitdicou
+webgit : https://kus.webgitdikus
+webgit : https://tol.webgitditol
+webgit : https://cou.webgitdicou
+
+
+-- Applications web appliance (aka Trailer web)
+web : rakeshkelm@kukatla.sittrue, https://kus.email
+webHomeSteadKukatla : webgitDiKuS
+webHomeSteadKukatla : webcomDiKuS
+webCloudZoom : saudRoyalistUsa.webCzZoom
+web : rakeshkelm@gmail.com, https://gmail.com
+webCloudGoogle : saudiroyalistusa.webCgDrive
+webCloudMicrosoft : saudiroyalistusa.webCmGithub
+webCloudMicrosoft : saudiroyalistusa.webCmOnedrive
+
+
+----- Smart information
+Information web appliance (aka Trailer content)
+webgitDiKuS : https://kus.webgitdikus/rakeshkelm
+webgitDiKuS : https://kus.webgitdikus/irakeshkelm
+webgitDiKuS :https://kus.webgitdikus/rakeshkelmMedia
+webCmGithub : https://github.com/irakeshkelm
+webCmGithub : https://github.com/rakeshkelm
+webCmGithub : https://github.com/rakeshkelmMedia
+webgitkSittrue : https://ks.gdriveks/rakeshkelmDlink
+webCgDrive : https://drive.google.com/file/d/1N38dgmFNHQwqMC5bB6jhJQOvzT7zS2IP/view?usp=drive_link
+webgitkSittrue : https://ks.onedriveks/rakeshkelmDlink
+webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
+
+
+----- Smart location
+-- Galaxy appliance (aka Trailer planet)
+planet : earth
+sovereign country : United slave america
+-- Planet appliance (aka Trailer earth)
+earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
+sovereign state : kingdom of new york
+-- Earth appliance (aka Trailer park)
+homestead : cottage
+sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
@@ -1694,6 +1853,11 @@ Architecture OsDistributorware
 
 ----- Open signature -----
 Independent interest and Militia (Independently joint, Independent and Professional)
+-- open sovereigns.
+sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign pe-op-le : banana republicans, royalists and communists -
+whore belles (United whores = rust, dust).
+sovereign po-op-le : banana republicans, socialists - whore belle (romani = bib-le).
 
 
 ----- Smart status
@@ -1754,11 +1918,6 @@ sovereign state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
 sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
-sovereign people : banana republicans (United whores, romani).
-person = per-son
-people = pe-op-le
-
-
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
@@ -1813,7 +1972,7 @@ other distributions
 [
 Linux - Financial analyzer
 example homestead : Linux - analyzeFinance
-example workstead : Linux - xAnalyzerF?
+example workstead : Linux - yAnalyzerF?
 
 
 Linux - Game player
@@ -1838,6 +1997,11 @@ so on and so forth
 
 ----- Open signature -----
 Independent interest and Militia (Independently joint, Independent and Professional)
+-- open sovereigns.
+sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign pe-op-le : banana republicans, royalists and communists -
+whore belles (United whores = rust, dust).
+sovereign po-op-le : banana republicans, socialists - whore belle (romani = bib-le).
 
 
 ----- Smart status
@@ -1892,15 +2056,12 @@ webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
 -- Galaxy appliance (aka Trailer planet)
 planet : earth
 sovereign country : United slave america
-banana republicans (united whores, romani).
 -- Planet appliance (aka Trailer earth)
 earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
-soveriegn state : kingdom of new york
+sovereign state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
-sovereign people : banana republicans (united whores, romani).
-
-
+sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
@@ -1946,11 +2107,12 @@ example, script - javascript interpreter, actionscript interpreter, applescript 
 
 interface : objects currency (closed objects aka Royalist)
 nada webobject compiler (aka nada open compiler aka nada Capitalist)
-example, object - gnu c compiler, sun java compiler, google go compiler, mozilla-? rust-? compiler, microsoft c# compiler, apple objective-c compiler(aka them ugly hot girls)
+example, object - mozilla-? rust-? compiler, google go compiler, google kotlin compiler, gnu c compiler, sun java compiler, microsoft c# compiler, apple objective-c compiler (aka them ugly hot girls)
 
 
 gnu = gnu is not unix (aka gnu is compiler aka Royalist)
-current = go, rust-? (aka Royalist aka nada improvement)
+java = ja-va
+current = kotlin, go, rust-? (aka Royalist aka nada improvement)
 
 
 Information from:
@@ -1967,6 +2129,11 @@ public sources = Internet
 
 ----- Open signature -----
 Independent interest and Militia (Independently joint, Independent and Professional)
+-- open sovereigns.
+sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign pe-op-le : banana republicans, royalists and communists -
+whore belles (United whores = rust, dust).
+sovereign po-op-le : banana republicans, socialists - whore belle (romani = bib-le).
 
 
 ----- Smart status
@@ -2021,19 +2188,18 @@ webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
 -- Galaxy appliance (aka Trailer planet)
 planet : earth
 sovereign country : United slave america
-banana republicans (united whores, romani).
 -- Planet appliance (aka Trailer earth)
 earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
-soveriegn state : kingdom of new york
+sovereign state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
-sovereign people : banana republicans (united whores, romani).
+sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
 
 
-Homestead web notebooks and web appliances - with open source and open copyright web servers/frameworks, web applications and web content
+Homestead web notebooks and web appliances - with open source and open copyright web server, web frameworks, web applications and web content
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
@@ -2093,6 +2259,11 @@ like tplink appliance
 
 ----- Open signature -----
 Independent interest and Militia (Independently joint, Independent and Professional)
+-- open sovereigns.
+sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign pe-op-le : banana republicans, royalists and communists -
+whore belles (United whores = rust, dust).
+sovereign po-op-le : banana republicans, socialists - whore belle (romani = bib-le).
 
 
 ----- Smart status
@@ -2145,23 +2316,24 @@ webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
 
 ----- Smart location
 -- Galaxy appliance (aka Trailer planet)
-planet : earth - United slave america
-sovereign : banana republicans (united whores, romani).
+planet : earth
+sovereign country : United slave america
 -- Planet appliance (aka Trailer earth)
 earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
-soveriegn kingdom : new york
+sovereign state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
+sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
 
 
-Homestead network appliances - with open source and open copyright network frameworks, network apps and network content
+Homestead network appliances - with open source and open copyright network frameworks, nework servers, network apps and network content
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
-Homestead network appliances - with open source and open copyright network frameworks, network apps and network content
+Homestead network appliances - with open source and open copyright network frameworks, network servers, network apps and network content
 
 
 Homestead network appliances (aka network aka front)
@@ -2200,6 +2372,11 @@ like tplink appliance
 
 ----- Open signature -----
 Independent interest and Militia (Independently joint, Independent and Professional)
+-- open sovereigns.
+sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign pe-op-le : banana republicans, royalists and communists -
+whore belles (United whores = rust, dust).
+sovereign po-op-le : banana republicans, socialists - whore belle (romani = bib-le).
 
 
 ----- Smart status
@@ -2252,13 +2429,14 @@ webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
 
 ----- Smart location
 -- Galaxy appliance (aka Trailer planet)
-planet : earth - United slave america
-sovereign : banana republicans (united whores, romani).
+planet : earth
+sovereign country : United slave america
 -- Planet appliance (aka Trailer earth)
 earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
-soveriegn kingdom : new york
+sovereign state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
+sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
@@ -2281,7 +2459,7 @@ Linux is incorporated into many device software distribution's
 Linux is used by individual's around the planet (aka Planetarian)
 
 
-Vice president (aka naturalized whore)
+Vice president (aka naturalized whores whore)
 Venkatesh Harinarayan, Founder Junglee
 yada condominium, yada flat
 Junglee is incorporated into Amazon web service's
@@ -2332,6 +2510,21 @@ aka go flats
 ]
 
 
+structure explanation
+[
+whore = releasing own work under others copyright
+example, releasing Linux as GPL fudge copyright
+
+
+whores whore = sold own company to a whore company
+example, sold Junglee to Amazon (aka whore)
+
+
+GPL = GNU public license (aka fudge license, aka fudge copyright)
+GNU = GNU is not unix (aka GNU is compiler)
+]
+
+
 information from
 [
 private sources (Rakesh Kukatla)
@@ -2347,6 +2540,11 @@ public sources (aka internet)
 
 ----- Open signature -----
 Independent interest and Militia (Independently joint, Independent and Professional)
+-- open sovereigns.
+sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign pe-op-le : banana republicans, royalists and communists -
+whore belles (United whores = rust, dust).
+sovereign po-op-le : banana republicans, socialists - whore belle (romani = bib-le).
 
 
 ----- Smart status
@@ -2399,13 +2597,14 @@ webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
 
 ----- Smart location
 -- Galaxy appliance (aka Trailer planet)
-planet : earth - United slave america
-sovereign : banana republicans (united whores, romani).
+planet : earth
+sovereign country : United slave america
 -- Planet appliance (aka Trailer earth)
 earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
-soveriegn kingdom : new york
+sovereign state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
+sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
@@ -2421,7 +2620,7 @@ Open endorsement Usa 2024, Congressional leaders (aka write-in)
 open endorsement Usa 2024, Write-in, yada Independent side, nada coup side
 [
 Senate Leader (aka born as whore)
-Lawrence Page, Founder Google.
+Lawrence Page, Founder Alphabet, Founder Google.
 Google search is available via web and also incorporated into many device software distributions
 Google search is used by individual's around the planet (aka Planetarian)
 
@@ -2481,6 +2680,17 @@ aka go flats
 ]
 
 
+structure explanation
+[
+holding company = holding back information (aka current) and held back information (aka in the past)
+example, Alphabet holding company
+
+
+foundation = held back information (aka in the past) and holding back information (aka current)
+example, Gates foundation
+]
+
+
 information from
 [
 private sources (Rakesh Kukatla)
@@ -2496,6 +2706,11 @@ public sources (aka internet)
 
 ----- Open signature -----
 Independent interest and Militia (Independently joint, Independent and Professional)
+-- open sovereigns.
+sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign pe-op-le : banana republicans, royalists and communists -
+whore belles (United whores = rust, dust).
+sovereign po-op-le : banana republicans, socialists - whore belle (romani = bib-le).
 
 
 ----- Smart status
@@ -2548,13 +2763,14 @@ webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
 
 ----- Smart location
 -- Galaxy appliance (aka Trailer planet)
-planet : earth - United slave america
-sovereign : banana republicans (united whores, romani).
+planet : earth
+sovereign country : United slave america
 -- Planet appliance (aka Trailer earth)
 earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
-soveriegn kingdom : new york
+sovereign state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
+sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
@@ -2724,6 +2940,11 @@ colorless = co-lo-red-less
 
 ----- Open signature -----
 Independent interest and Militia (Independently joint, Independent and Professional)
+-- open sovereigns.
+sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign pe-op-le : banana republicans, royalists and communists -
+whore belles (United whores = rust, dust).
+sovereign po-op-le : banana republicans, socialists - whore belle (romani = bib-le).
 
 
 ----- Smart status
@@ -2776,13 +2997,14 @@ webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
 
 ----- Smart location
 -- Galaxy appliance (aka Trailer planet)
-planet : earth - United slave america
-sovereign : banana republicans (united whores, romani).
+planet : earth
+sovereign country : United slave america
 -- Planet appliance (aka Trailer earth)
 earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
-soveriegn kingdom : new york
+sovereign state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
+sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
@@ -2822,6 +3044,8 @@ to listening
 however,
 Nada negotiation
 on "Core interest"
+and
+on "Core skills"
 ]
 
 
@@ -2874,6 +3098,11 @@ aka Colony (Colonial America)
 
 ----- Open signature -----
 Independent interest and Militia (Independently joint, Independent and Professional)
+-- open sovereigns.
+sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign pe-op-le : banana republicans, royalists and communists -
+whore belles (United whores = rust, dust).
+sovereign po-op-le : banana republicans, socialists - whore belle (romani = bib-le).
 
 
 ----- Smart status
@@ -2926,23 +3155,24 @@ webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
 
 ----- Smart location
 -- Galaxy appliance (aka Trailer planet)
-planet : earth - United slave america
-sovereign : banana republicans (united whores, romani).
+planet : earth
+sovereign country : United slave america
 -- Planet appliance (aka Trailer earth)
 earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
-soveriegn kingdom : new york
+sovereign state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
+sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
 
 
-Ottawa - Ambassadors - 2023 - with car - to - carve out (aka c out)
+Ottawa - Ambassadors - 2023 - with car, to - carve out (aka c out)
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
-Ottawa - Ambassadors - 2023 - with car - to - carve out (aka c out)
+Ottawa - Ambassadors - 2023 - with car, to - carve out (aka c out)
 
 
 Play with
@@ -3096,6 +3326,11 @@ Assistant in residence
 
 ----- Open signature -----
 Independent interest and Militia (Independently joint, Independent and Professional)
+-- open sovereigns.
+sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign pe-op-le : banana republicans, royalists and communists -
+whore belles (United whores = rust, dust).
+sovereign po-op-le : banana republicans, socialists - whore belle (romani = bib-le).
 
 
 ----- Smart status
@@ -3148,13 +3383,14 @@ webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
 
 ----- Smart location
 -- Galaxy appliance (aka Trailer planet)
-planet : earth - United slave america
-sovereign : banana republicans (united whores, romani).
+planet : earth
+sovereign country : United slave america
 -- Planet appliance (aka Trailer earth)
 earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
-soveriegn kingdom : new york
+sovereign state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
+sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
@@ -3486,6 +3722,11 @@ non consensual intercourse (aka living second/minute by second/minute).
 
 ----- Open signature -----
 Independent interest and Militia (Independently joint, Independent and Professional)
+-- open sovereigns.
+sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign pe-op-le : banana republicans, royalists and communists -
+whore belles (United whores = rust, dust).
+sovereign po-op-le : banana republicans, socialists - whore belle (romani = bib-le).
 
 
 ----- Smart status
@@ -3540,13 +3781,12 @@ webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
 -- Galaxy appliance (aka Trailer planet)
 planet : earth
 sovereign country : United slave america
-banana republicans (united whores, romani).
 -- Planet appliance (aka Trailer earth)
 earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
-soveriegn state : kingdom of new york
+sovereign state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
-sovereign persons : banana republicans (united whores, romani).
+sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
@@ -3602,6 +3842,11 @@ New Australia (aka damage minimization)
 
 ----- Open signature -----
 Independent interest and Militia (Independently joint, Independent and Professional)
+-- open sovereigns.
+sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign pe-op-le : banana republicans, royalists and communists -
+whore belles (United whores = rust, dust).
+sovereign po-op-le : banana republicans, socialists - whore belle (romani = bib-le).
 
 
 ----- Smart status
@@ -3654,23 +3899,24 @@ webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
 
 ----- Smart location
 -- Galaxy appliance (aka Trailer planet)
-planet : earth - United slave america
-sovereign : banana republicans (united whores, romani).
+planet : earth
+sovereign country : United slave america
 -- Planet appliance (aka Trailer earth)
 earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
-soveriegn kingdom : new york
+sovereign state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
+sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
 
 
-Juice girl (aka NY, NY aka geneticists - females aka slaves) - exit plan (aka unstoppable domains)
+Juice girl (aka NY, NY; aka geneticists - females; aka slaves) - exit plan (aka unstoppable domains)
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
-Juice girl (aka NY, NY aka geneticists - females aka slaves) - exit plan (aka unstoppable domains)
+Juice girl (aka NY, NY; aka geneticists - females; aka slaves) - exit plan (aka unstoppable domains)
 
 
 if
@@ -3741,6 +3987,11 @@ aka More gun (stand lie)
 
 ----- Open signature -----
 Independent interest and Militia (Independently joint, Independent and Professional)
+-- open sovereigns.
+sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign pe-op-le : banana republicans, royalists and communists -
+whore belles (United whores = rust, dust).
+sovereign po-op-le : banana republicans, socialists - whore belle (romani = bib-le).
 
 
 ----- Smart status
@@ -3793,23 +4044,24 @@ webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
 
 ----- Smart location
 -- Galaxy appliance (aka Trailer planet)
-planet : earth - United slave america
-sovereign : banana republicans (united whores, romani).
+planet : earth
+sovereign country : United slave america
 -- Planet appliance (aka Trailer earth)
 earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
-soveriegn kingdom : new york
+sovereign state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
+sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
 
 
-Pecking order - Geneticist's - Female's
+Pecking order, Geneticist's - Female's
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
-Pecking order - Geneticist's - Female's
+Pecking order, Geneticist's - Female's
 
 
 Run her (aka Geneticist's - Female's) with a clear position (aka Solicitor general)
@@ -3907,6 +4159,11 @@ nada genetics - female's, i-exit
 
 ----- Open signature -----
 Independent interest and Militia (Independently joint, Independent and Professional)
+-- open sovereigns.
+sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign pe-op-le : banana republicans, royalists and communists -
+whore belles (United whores = rust, dust).
+sovereign po-op-le : banana republicans, socialists - whore belle (romani = bib-le).
 
 
 ----- Smart status
@@ -3959,28 +4216,27 @@ webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
 
 ----- Smart location
 -- Galaxy appliance (aka Trailer planet)
-planet : earth - United slave america
-sovereign : banana republicans (united whores, romani).
+planet : earth
+sovereign country : United slave america
 -- Planet appliance (aka Trailer earth)
 earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
-soveriegn kingdom : new york
+sovereign state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
-
-
-
-
------ Open copyright, document, Rakesh Kukatla-Sittrue -----
-
-
-Template - open endorsement 2024 Presidential election Usa (aka write-in)
+sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
-Template - open endorsement 2024 Presidential election Usa (aka write-in)
 
 
-Write-in template 2024 - USA
+Template - open endorsement 2024 Presidential election, Usa (aka write-in)
+
+
+----- Open copyright, document, Rakesh Kukatla-Sittrue -----
+Template - open endorsement 2024 Presidential election, Usa (aka write-in)
+
+
+Write-in template presidential 2024, Usa
 [
 President (aka naturalized whore)
 P, (aka Planetarian aka expand and update)
@@ -4056,26 +4312,32 @@ webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
 
 ----- Smart location
 -- Galaxy appliance (aka Trailer planet)
-planet : earth - United slave america
-sovereign : banana republicans (united whores, romani).
+planet : earth
+sovereign country : United slave america
 -- Planet appliance (aka Trailer earth)
 earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
-soveriegn kingdom : new york
+sovereign state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
+sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign people : banana republicans - whore belles (United whores, romani).
+United whore belles = rust, dust
+romani belle = bible
+person = per-son
+people = pe-op-le
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
 
 
-Template - open endorsement any Political election - Usa (aka write-in)
+Template - open endorsement any Political election, Usa (aka write-in)
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
-Template - open endorsement any Political election - Usa (aka write-in)
+Template - open endorsement any Political election, Usa (aka write-in)
 
 
-Write-in template - any - USA
+Write-in template - any, USA
 [
 -----
 yay le, male and young (aka Planetarian and American)
@@ -4160,23 +4422,29 @@ webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
 
 ----- Smart location
 -- Galaxy appliance (aka Trailer planet)
-planet : earth - United slave america
-sovereign : banana republicans (united whores, romani).
+planet : earth
+sovereign country : United slave america
 -- Planet appliance (aka Trailer earth)
 earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
-soveriegn kingdom : new york
+sovereign state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
+sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign people : banana republicans - whore belles (United whores, romani).
+United whore belles = rust, dust
+romani belle = bible
+person = per-son
+people = pe-op-le
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
 
 
-Template - open endorsement President/Prime minister/Chancellor/Leader election - World (aka write-in)
+Template - open endorsement President/Prime minister/Chancellor/Paramount Leader election, World (aka write-in)
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
-Template - open endorsement President/Prime minister/Chancellor/Leader election - World (aka write-in)
+Template - open endorsement President/Prime minister/Chancellor/Paramount Leader election, World (aka write-in)
 
 
 Write-in template - world
@@ -4255,26 +4523,32 @@ webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
 
 ----- Smart location
 -- Galaxy appliance (aka Trailer planet)
-planet : earth - United slave america
-sovereign : banana republicans (united whores, romani).
+planet : earth
+sovereign country : United slave america
 -- Planet appliance (aka Trailer earth)
 earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
-soveriegn kingdom : new york
+sovereign state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
+sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign people : banana republicans - whore belles (United whores, romani).
+United whore belles = rust, dust
+romani belle = bible
+person = per-son
+people = pe-op-le
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
 
 
-Template - open endorsement any Political election - World (aka write-in)
+Template - open endorsement any Political election, World (aka write-in)
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
-Template - open endorsement any Political election - World (aka write-in)
+Template - open endorsement any Political election, World (aka write-in)
 
 
-Write-in template - any - world
+Write-in template - any, world
 [
 -----
 yay le male and young (aka Planetarian and American)
@@ -4359,23 +4633,29 @@ webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
 
 ----- Smart location
 -- Galaxy appliance (aka Trailer planet)
-planet : earth - United slave america
-sovereign : banana republicans (united whores, romani).
+planet : earth
+sovereign country : United slave america
 -- Planet appliance (aka Trailer earth)
 earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
-soveriegn kingdom : new york
+sovereign state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
+sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign people : banana republicans - whore belles (United whores, romani).
+United whore belles = rust, dust
+romani belle = bible
+person = per-son
+people = pe-op-le
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
 
 
-Pecking order - Conservative (aka elephant aka le enfant) venture capital firm's
+Pecking order - Conservative (aka elephant; aka le enfant) venture capital firm's
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
-Pecking order - Conservative (aka elephant aka le enfant) venture capital firm's
+Pecking order - Conservative (aka elephant; aka le enfant) venture capital firm's
 
 
 Conservative venture capital firm's (aka the-funded)
@@ -4721,11 +5001,11 @@ homestead : cottage
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
 
 
-Pecking order Establishment Interest! (aka EI) States - USA
+Pecking order, Establishment Interest! (aka EI) States - USA
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
-Pecking order Establishment Interest! (aka EI) States - USA
+Pecking order, Establishment Interest! (aka EI) States - USA
 
 
  ----- Pecking order EI outlined
@@ -12845,6 +13125,284 @@ homestead : cottage
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
 
 
+Lourdes Hospital - Emergency department, around 12312023 (aka nada treatment)
+
+
+----- Open copyright, document, Rakesh Kukatla-Sittrue -----
+Lourdes Hospital - Emergency department, around 12312023 (aka nada treatment)
+
+
+web: healthcare.ascension.org
+Lourdes Hospital
+169 Riverside Dr,
+Binghamton, NY 13905
+(607) 798-5111
+
+
+around 123123 (around 010024)
+Marissa and Susu - Check in
+[
+Catholic Charities - Chenango street
+gave information
+request care manager and case manager, urgent eye examination and other
+request follow up via email
+escalate issue to superiors - supervisor and Marissa
+gives information
+collects personal and other data
+]
+
+
+around 123123 (around 010024)
+Christina Costley - Financial counselor
+[
+Lourdes main hospital - Riverside drive
+gave information
+Request via email, urgent medical care transportation
+]
+
+
+around 123123 (around 010024)
+Lourdes Orthopedics and PT - Check in
+[
+Lourdes Orthopedics and physical therapy - Pennsylvania Avenue
+gave information
+request urgent Orthopedic and physical therapy examination
+gives information
+service unavailable
+]
+
+
+around 123123 (around 010124)
+John Leistner, MD - Check in
+[
+Lourdes primary care - Robinson Street
+gave information
+Request via email, urgent medical care transportation
+]
+
+
+around 123123 (around 010124)
+Post atom injury - Head and Whole body near and outside the Bodega on Clinton street
+
+
+Lourdes Hospital ED
+[
+Unable to get there on own or via neighbor
+Unable to give information:
+I was exposed to Cops (aka Poor lice) near and outside the Bodega on Clinton street
+injury - on head and body, Intermittent numbness and pain
+]
+
+
+
+
+
+
+
+
+----- Open signature -----
+Independent interest and Militia (Independently joint, Independent and Professional)
+
+
+----- Smart status
+Unlucky (aka bastard)
+Single and Available
+
+
+----- Smart communication
+-- Electronic system web appliance (Trailer electronic system)
+electronic : riscv, arm
+electronicware : firmware/electronic
+system : linux/electronicware
+webcontentserver : system/apachecs
+webcontentmanager: system/webfm, system/webavm
+webserver : system/apache
+webbrowser : system/netscape, system/chrome
+-- Internet web appliance (aka Trailer net)
+p2p : git p2p/kukatlaSittrue/gitdikus
+p2p : git p2p/torvaldsLinus/gitditol
+p2p : git p2p/commonUpstream/gitdicou
+webgit : https://kus.webgitdikus
+webgit : https://tol.webgitditol
+webgit : https://cou.webgitdicou
+-- Applications web appliance (aka Trailer web)
+web : rakeshkelm@kukatla.sittrue, https://kus.email
+webHomeSteadKukatla : webgitDiKuS
+webHomeSteadKukatla : webcomDiKuS
+webCloudZoom : saudRoyalistUsa.webCzZoom
+web : rakeshkelm@gmail.com, https://gmail.com
+webCloudGoogle : saudiroyalistusa.webCgDrive
+webCloudMicrosoft : saudiroyalistusa.webCmGithub
+webCloudMicrosoft : saudiroyalistusa.webCmOnedrive
+
+
+----- Smart information
+Information web appliance (aka Trailer content)
+webgitDiKuS : https://kus.webgitdikus/rakeshkelm
+webgitDiKuS : https://kus.webgitdikus/irakeshkelm
+webgitDiKuS :https://kus.webgitdikus/rakeshkelmMedia
+webCmGithub : https://github.com/irakeshkelm
+webCmGithub : https://github.com/rakeshkelm
+webCmGithub : https://github.com/rakeshkelmMedia
+webgitkSittrue : https://ks.gdriveks/rakeshkelmDlink
+webCgDrive : https://drive.google.com/file/d/1N38dgmFNHQwqMC5bB6jhJQOvzT7zS2IP/view?usp=drive_link
+webgitkSittrue : https://ks.onedriveks/rakeshkelmDlink
+webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
+
+
+----- Smart location
+-- Galaxy appliance (aka Trailer planet)
+planet : earth - United slave america
+sovereign : banana republicans (united whores, romani).
+-- Planet appliance (aka Trailer earth)
+earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
+soveriegn kingdom : new york
+-- Earth appliance (aka Trailer park)
+homestead : cottage
+
+
+
+
+----- Open copyright, document, Rakesh Kukatla-Sittrue -----
+
+
+
+
+
+
+----- Open signature -----
+Independent interest and Militia (Independently joint, Independent and Professional)
+
+
+----- Smart status
+Unlucky (aka bastard)
+Single and Available
+
+
+----- Smart communication
+-- Electronic system web appliance (Trailer electronic system)
+electronic : riscv, arm
+electronicware : firmware/electronic
+system : linux/electronicware
+webcontentserver : system/apachecs
+webcontentmanager: system/webfm, system/webavm
+webserver : system/apache
+webbrowser : system/netscape, system/chrome
+-- Internet web appliance (aka Trailer net)
+p2p : git p2p/kukatlaSittrue/gitdikus
+p2p : git p2p/torvaldsLinus/gitditol
+p2p : git p2p/commonUpstream/gitdicou
+webgit : https://kus.webgitdikus
+webgit : https://tol.webgitditol
+webgit : https://cou.webgitdicou
+
+
+-- Applications web appliance (aka Trailer web)
+web : rakeshkelm@kukatla.sittrue, https://kus.email
+webHomeSteadKukatla : webgitDiKuS
+webHomeSteadKukatla : webcomDiKuS
+webCloudZoom : saudRoyalistUsa.webCzZoom
+web : rakeshkelm@gmail.com, https://gmail.com
+webCloudGoogle : saudiroyalistusa.webCgDrive
+webCloudMicrosoft : saudiroyalistusa.webCmGithub
+webCloudMicrosoft : saudiroyalistusa.webCmOnedrive
+
+
+----- Smart information
+Information web appliance (aka Trailer content)
+webgitDiKuS : https://kus.webgitdikus/rakeshkelm
+webgitDiKuS : https://kus.webgitdikus/irakeshkelm
+webgitDiKuS :https://kus.webgitdikus/rakeshkelmMedia
+webCmGithub : https://github.com/irakeshkelm
+webCmGithub : https://github.com/rakeshkelm
+webCmGithub : https://github.com/rakeshkelmMedia
+webgitkSittrue : https://ks.gdriveks/rakeshkelmDlink
+webCgDrive : https://drive.google.com/file/d/1N38dgmFNHQwqMC5bB6jhJQOvzT7zS2IP/view?usp=drive_link
+webgitkSittrue : https://ks.onedriveks/rakeshkelmDlink
+webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
+
+
+----- Smart location
+-- Galaxy appliance (aka Trailer planet)
+planet : earth
+sovereign country : United slave america
+-- Planet appliance (aka Trailer earth)
+earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
+sovereign state : kingdom of new york
+-- Earth appliance (aka Trailer park)
+homestead : cottage
+sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign people : banana republicans, royalists and communists - whore belles (United whores).
+sovereign poople : banana republicans, socialists - whore belle (romani).
+United whore belles = rust, dust
+romani belle = bib-le
+person = per-son
+people = pe-op-le
+poople = po-op-le
+
+
+----- Open copyright, document, Rakesh Kukatla-Sittrue -----
+
+
+Template - Open signature
+
+
+----- Open copyright, document, Rakesh Kukatla-Sittrue -----
+Template - Open signature
+
+
+----- Open signature -----
+Independent interest and Militia (Independently joint, Independent and Professional)
+
+
+----- Smart status
+Unlucky (aka bastard)
+Single and Available
+
+
+----- Smart communication
+-- Electronic system web appliance (Trailer electronic system)
+electronic : riscv, arm
+electronicware : firmware/electronic
+system : linux/electronicware
+webcontentserver : system/apachecs
+webcontentmanager: system/webfm, system/webavm
+webserver : system/apache
+webbrowser : system/netscape, system/chrome
+-- Internet web appliance (aka Trailer net)
+p2p : git p2p/commonUpstream/gitdicou
+webgit : https://cou.webgitdicou
+-- Applications web appliance (aka Trailer web)
+web : commonupstream@common.upstream, https://cou.email
+webHomeSteadUpstream : webgitDiCoU
+webHomeSteadUpstream : webcomDiCoU
+webHomeSteadUpstream : webstoDiCoU
+
+
+----- Smart information
+Information web appliance (aka Trailer content)
+webgitcUpstream : https://cu.webgitdicou/commonUpstream
+webstorcUpstream : https://cu.gdrivecou/commonUpstreamDlink
+
+
+----- Smart location
+-- Galaxy appliance (aka Trailer planet)
+planet : earth
+sovereign country : name of country
+-- Planet appliance (aka Trailer earth)
+earth : homestead - address in state
+sovereign state : name of state
+-- Earth appliance (aka Trailer park)
+homestead : web
+sovereign webperson : Common Upstream (Planetarian, American).
+sovereign people : name of people
+person = per-son
+people = pe-op-le
+
+
+----- Open copyright, document, Rakesh Kukatla-Sittrue -----
+
+
 Web - open frameworks/daemons/servers/services
 
 
@@ -13267,6 +13825,8 @@ Militia
 Independent
 and
 Professional
+------
+service to individual
 ]
 
 
@@ -13301,6 +13861,7 @@ damages: maximum, upto the damage amount
 ----- closed copyright : outlined (aka fudge statement)
 fudge copyright
 fudge license
+nada service to individual
 
 
 closed copyright (aka fudging statement)
@@ -13312,23 +13873,28 @@ then
 ignore closed copyright (aka fudging statement)
 and
 put your open copyright (aka True statement)
+service to individual (aka True yourself)
 ]
 
 
 ----- closed copyright : explained (fudging statement)
 fudge copyright : Best of worst to worst of worst (aka them hot girls)
+fudge license : Best of worst to worst of worst (aka them hot girls)
 
 
 fudge copyright : Apache currency (aka them hot girls, aka communist)
+service to community
 example, Apache license, Apache license 1.0
 
 
 fudge copyright : MIT currency, BSD currency (aka them ugly kitten hot girls, aka Royalist)
+service to king
 example, MIT license
 example, BSD license, BSD-3 license
 
 
 fudge copyright : GPL currency (aka them ugly hot girls, aka Royalist)
+service to king
 example, GPL license, GPLv3 license
 
 
@@ -13337,8 +13903,6 @@ BSD = Berkeley systems division
 GPL = GNU public license
 GNU = GNU is not unix
 ]
-
-
 
 
 

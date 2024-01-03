@@ -1,56 +1,10 @@
-﻿Architecture firmware (aka RiscvFirmware, ArmFirmware, x86Firmware)
+﻿Template - open note
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
-Architecture firmware (aka RiscvFirmware, ArmFirmware, x86Firmware)
+Template - open note
 
 
-Architecture firmware
-[
-from hardware firm's
-simple, modern
-and
-open source, open copyright
-and
-capable of running
-Architecture OsContainerware
-Architecture OsDistributorware
-Architecture VirtualMachineware (aka yada euroware, nada greenware)
-]
-
-
-Architecture OsContainerware (aka RiscvOsContainerware, ArmOsContainerware, x86OsContainerware aka private hardware)
-[
-simple, modern
-and
-open source, open copyright
-and
-capable of running
-container's - server, app's, client-browser and other
-]
-
-
-Architecture OsDistributorware (aka RiscvOsDistributorware, ArmOsDistributorware, x86OsDistributorware aka ArchOsKubernetesware aka shared hardware aka redundancy)
-[
-simple, modern
-and
-open source, open copyright
-and
-capable of running
-OsContainerware, container's - os, server, client-browser, other)
-]
-
-
-Architecture VirtualMachineware (aka RiscvVirtualMachineware, ArmVirtualMachineware, x86VirtualMachineware aka ArchVirtualMachineware aka shared hardware aka redundancy)
-[
-simple, modern
-and
-open source, open copyright
-and
-capable of running
-Architecture OsContainerware
-Architecture OsDistributorware
-]
 
 
 
@@ -125,7 +79,7 @@ earth : homestead - seven elm street, exurban new york-binghamton, one three nin
 sovereign state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
-sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
