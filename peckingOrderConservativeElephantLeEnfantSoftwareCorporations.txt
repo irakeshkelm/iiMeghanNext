@@ -1,6 +1,10 @@
 ﻿Pecking order - Conservative (aka elephant aka le enfant) software corporation's
 
 
+----- Open copyright, document, Rakesh Kukatla-Sittrue -----
+Pecking order - Conservative (aka elephant aka le enfant) software corporation's
+
+
 Founders, Homestead
 [
 for,
@@ -9,6 +13,7 @@ then,
 Open electronical design product release, open source and open copyright
 
 
+high standard = 0 years.
 Best of the Worst = 15 years.
 Worst of the Worst = 20 years.
 ]
@@ -80,6 +85,7 @@ letter's explained
 ARM = Advanced RISC Machine
 RISC = Reduced Instruction Set Computer
 XNJ, NSJ, OSJ = Triple Colored
+mm = Mad Money
 XJ, SJ, ON = Double Colored
 One letter = Single Colored
 N = Niggered Colored aka Class less class
@@ -113,19 +119,79 @@ yada logical reasoning formula
 
 
 
------Open copyright-----
-Independent interest and Militia (aka Independently joint aka Independent and Professional)
------Smart status
+----- Open signature -----
+Independent interest and Militia (Independently joint, Independent and Professional)
+-- open sovereigns.
+sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign pe-op-le : banana republicans, royalists and communists -
+whore belles (United whores = rust, dust), VIP.
+sovereign po-op-le : banana republicans, socialists - whore belle (romani = bib-le), VVIP.
+VIP = Very important people.
+VVIP = Very very important poople.
+
+
+----- Smart status
 Unlucky (aka bastard)
 Single and Available
------Smart communication
-Internet (aka Trailer net)
-git : aka fool
-p2p : git rakeshkelm
-web : github.usa.saudiroyalist/irakeshkelm/iirakeshkukatla
-web : github.usa.saudiroyalist/rakeshkelm/ideasonthemove
------Smart location
-America (aka Trailer park)
-Address : 7 Elm Street, Exurban New York-Binghamton, Kingdom of NY 13905
-location : USA - Banana republican's (aka United whore's, aka Romani)
-USA = United slave america
+
+
+----- Smart communication
+-- Electronic system web appliance (Trailer electronic system)
+electronic : riscv, arm
+electronicware : firmware/electronic
+system : linux/electronicware
+webcontentserver : system/apachecs
+webcontentmanager: system/webfm, system/webavm
+webserver : system/apache
+webbrowser : system/netscape, system/chrome
+-- Internet web appliance (aka Trailer net)
+p2p : git p2p/kukatlaSittrue/gitdikus
+p2p : git p2p/torvaldsLinus/gitditol
+p2p : git p2p/commonUpstream/gitdicou
+webgit : https://kus.webgitdikus
+webgit : https://tol.webgitditol
+webgit : https://cou.webgitdicou
+
+
+-- Applications web appliance (aka Trailer web)
+web : rakeshkelm@kukatla.sittrue, https://kus.email
+webHomeSteadKukatla : webgitDiKuS
+webHomeSteadKukatla : webcomDiKuS
+webCloudZoom : saudRoyalistUsa.webCzZoom
+web : rakeshkelm@gmail.com, https://gmail.com
+webCloudGoogle : saudiroyalistusa.webCgDrive
+webCloudMicrosoft : saudiroyalistusa.webCmGithub
+webCloudMicrosoft : saudiroyalistusa.webCmOnedrive
+
+
+----- Smart information
+Information web appliance (aka Trailer content)
+webgitDiKuS : https://kus.webgitdikus/rakeshkelm
+webgitDiKuS : https://kus.webgitdikus/irakeshkelm
+webgitDiKuS :https://kus.webgitdikus/rakeshkelmMedia
+webCmGithub : https://github.com/irakeshkelm
+webCmGithub : https://github.com/rakeshkelm
+webCmGithub : https://github.com/rakeshkelmMedia
+webgitkSittrue : https://ks.gdriveks/rakeshkelmDlink
+webCgDrive : https://drive.google.com/file/d/1N38dgmFNHQwqMC5bB6jhJQOvzT7zS2IP/view?usp=drive_link
+webgitkSittrue : https://ks.onedriveks/rakeshkelmDlink
+webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
+
+
+----- Smart location
+-- Galaxy appliance (aka Trailer planet)
+planet : earth
+sovereign country : United slave america
+-- Planet appliance (aka Trailer earth)
+earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
+sovereign state : kingdom of new york
+-- Earth appliance (aka Trailer park)
+homestead : cottage
+sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
+
+
+
+
+
+
+----- Open copyright, document, Rakesh Kukatla-Sittrue -----

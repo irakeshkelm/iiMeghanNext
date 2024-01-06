@@ -27,23 +27,25 @@ interfaces - best of worst to worst of worst (aka them hot girls)
 
 
 interface : css currency (closed cascading style sheets aka communist)
-nada webcss layouter (aka nada open layouter aka nada Capitalist)
-example, css - googlecss layouter, microsoftcss layouter, applecss layouter (aka them hot girls)
+nada webcss layouter (aka nada open layouter aka nada Capitalist; aka Rockefeller method aka monopoly method)
+example : css - googlecss layouter, microsoftcss layouter, applecss layouter (aka them hot girls). Web disclosures and web regulations apply.
 
 
 interface : scripts currency (closed interpreters aka Socialist)
-nada webscript interpreter (aka nada open interpreter aka nada Capitalist)
-example, script - javascript interpreter, actionscript interpreter, applescript interpreter (aka them ugly kitten hot girls)
+nada webscript interpreter (aka nada open interpreter aka nada Capitalist; aka VVIP aka Rockefeller method aka monopoly method)
+example : script - javascript interpreter, actionscript interpreter, applescript interpreter (aka them ugly kitten hot girls). Web disclosures and web regulations apply.
 
 
 interface : objects currency (closed objects aka Royalist)
-nada webobject compiler (aka nada open compiler aka nada Capitalist)
-example, object - mozilla-? rust-? compiler, google go compiler, google kotlin compiler, gnu c compiler, sun java compiler, microsoft c# compiler, apple objective-c compiler (aka them ugly hot girls)
+nada webobject compiler (aka nada open compiler aka nada Capitalist; aka VVIP aka Rockefeller method aka monopoly method)
+example : object - mozilla-? rust-? compiler, google go compiler, google kotlin compiler, gnu c compiler, sun java compiler, microsoft c# compiler, apple objective-c compiler (aka them ugly hot girls). Web disclosures and web regulations apply.
 
 
 gnu = gnu is not unix (aka gnu is compiler aka Royalist)
 java = ja-va
 current = kotlin, go, rust-? (aka Royalist aka nada improvement)
+VIP = Very imortant pe-op-le
+VVIP = Very Very important po-op-le
 
 
 Information from:
