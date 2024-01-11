@@ -10,7 +10,7 @@ default - html, hypertext markup language (aka capitalist)
 high standard
 open source
 open copyright
-simple
+simple (cookie free - nada dope)
 ]
 
 

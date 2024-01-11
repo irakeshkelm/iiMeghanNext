@@ -1,71 +1,16 @@
-﻿Linux distributions - homestead, workstead
+﻿Information engineers - home and world
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
-Linux distributions - homestead, workstead
+Information engineers
 
 
-common distributions
+try
 [
-Linux - Web editor
-example homestead : Linux - Web
-example workstead : Linux - xWeb, yWeb, zWeb
-
-
-Linux - Smart Device
-example homestead : Linux - Device
-example workstead : Linux - Android, Harmony, OneUI
-
-
-Linux - Net editor
-example homestead : Linux - Chromium
-example workstead : Linux - operaChromium, googleChromium, microsoftChromium
-
-
-Linux - Developer, Programmer
-example homestead : Linux - DevPro
-example workstead : Linux - Debian, Linux - Redhat
-
-
-Linux - Systems integrator
-example homestead : Linux - SysInt
-example workstead : Linux - Gentoo
-
-
-Linux - Engineer
-example homestead : Linux - Torvalds
-example workstead : Linux - xEngineer
-
-
-Linux - Container runner
-example homestead : Linux - Container
-example workstead : Linux - Docker
-
-
-Linux - Cloud runner
-example homestead : Linux - cloudRunner
-example workstead : Linux - googleRunner, microsoftRunner, amazonRunner
-]
-
-
-other distributions
-[
-Linux - Financial analyzer
-example homestead : Linux - analyzeFinance
-example workstead : Linux - yAnalyzerF?
-
-
-Linux - Game player
-example homestead : Linux - playGames
-example workstead : Linux - zPlayer
-
-
-Linux - Entertainment player
-example homestead : Linux - playEntertainment
-example workstead : Linux - xPlayer
-
-
-so on and so forth
+process at home, first (aka copy the chinese)
+before aspiring
+for
+leadership positions, in world (aka nada wedge, aka nada whore)
 ]
 
 
@@ -143,7 +88,7 @@ earth : homestead - seven elm street, exurban new york-binghamton, one three nin
 sovereign state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
-sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
