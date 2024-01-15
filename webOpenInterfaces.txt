@@ -7,6 +7,7 @@ Web - open interfaces
 
 default - html, hypertext markup language (aka capitalist)
 [
+truth-in-acting
 high standard
 open source
 open copyright
@@ -51,6 +52,20 @@ VVIP = Very Very important po-op-le
 Information from:
 private sources = Rakesh Kukatla-Sittrue
 public sources = Internet
+]
+
+
+information from
+[
+private sources (Rakesh Kukatla-Sittrue)
+private sources (Didier Fernandes aka French girl - Elsa)
+private sources (Old cowgirl - aka CIA, William J. Burns)
+public sources (aka internet)
+
+
+Old = Liability holder for any and all Wave hits/attacks
+CIA = Central intelligence agency
+public sources (aka internet)
 ]
 
 
