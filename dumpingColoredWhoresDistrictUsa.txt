@@ -55,6 +55,7 @@ Location = near Wolf trap, Museum
 
 CIA = Central intelligence agency
 Elsa = Establishment land south africa
+Gemma = Massachusetts gem
 ]
 
 

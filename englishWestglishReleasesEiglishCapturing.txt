@@ -42,6 +42,7 @@ information from
 [
 private sources (Rakesh Kukatla-Sittrue)
 private sources (Didier Fernandes aka French girl - Elsa)
+private sources (David Lobron aka English girl - Gemma)
 private sources (Old cowgirl - aka CIA, Director - William J. Burns)
 public sources (aka internet)
 
@@ -54,6 +55,7 @@ Location = near Wolf trap, Museum
 
 CIA = Central intelligence agency
 Elsa = Establishment land south africa
+Gemma = Massachusetts gem
 ]
 
 
