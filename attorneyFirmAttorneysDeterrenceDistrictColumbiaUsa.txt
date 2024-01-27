@@ -41,7 +41,7 @@ Patrick Fitzgerald, US attorney, Illinois, Usa
 Patrick Fitzgerald, Special Prosecutor, DC, Usa
 
 
-alexa owner : Rod Blagojevich
+alexa owner : Rod Blagojevich (served out sentence)
 alexa worker : Patrick Fitzgerald
 alexa = a-le-x-a = a le-x a
 ]
@@ -61,7 +61,7 @@ Carl Bernstein, Reporter, Washington Post, DC, Usa
 
 
 alexa owner : Bob Woodward, Carl Bernstein
-alexa worker : Richard Nixon
+alexa worker : Richard Nixon (Received a self pardon)
 alexa = a-le-x-a = a le-x a
 ]
 
@@ -82,6 +82,7 @@ Location = near Wolf trap, Museum
 
 
 CIA = Central intelligence agency
+aka = also known as (in Government language)
 Elsa = Establishment land south africa
 Gemma = Massachusetts gem
 ]
