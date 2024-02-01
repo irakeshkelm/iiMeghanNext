@@ -47,6 +47,30 @@ alexa = a-le-x-a = a le-x a
 ]
 
 
+example - current - whore males (aka whore boy)
+[
+Jeffrey Lehman's appointment (Attorney President) and resignation.
+Jeffrey Lehman's appointment (Attorney Advisor) and retirement.
+Lawrence Summers appointment (Economist Secretary) and term completion.
+Lawrence Summers appointment (Economist President) and resignation.
+Lawrence Summers appointment (Economist Hedge Funder) and term completion.
+Lawrence Summers appointment (Economist Advisor) and term completion.
+
+
+Jeffrey Lehman, Attorney President, Cornell, Usa.
+Jeffrey Lehman, Attorney Advisor, DC, Usa.
+Lawrence Summers, Economist Secretary, Treasury, Usa.
+Lawrence Summers, Economist President, Harvard, Usa.
+Lawrence Summers, Economist Advisor, Hedge Fund, Usa.
+Lawrence Summers, Economist Advisor, Executive Administration, Usa.
+
+
+alexa owner : Jeffrey Lehman (resigned and retired)
+alexa worker : Lawrence Summers
+alexa = a-le-x-a = a le-x a
+]
+
+
 example - past - whore males (aka whore boy)
 [
 Deep throat reporting and resignation of Richard Nixon.
@@ -71,6 +95,7 @@ information from
 private sources (Rakesh Kukatla-Sittrue)
 private sources (Didier Fernandes aka French girl - Elsa)
 private sources (David Lobron aka English girl - Gemma)
+private sources (Debian Founder aka German girl - Birgit)
 private sources (Old cowgirl - aka CIA, Director - William J. Burns)
 public sources (aka internet)
 
@@ -85,6 +110,7 @@ CIA = Central intelligence agency
 aka = also known as (in Government language)
 Elsa = Establishment land south africa
 Gemma = Massachusetts gem
+Birgit = Bisexual are git (aka idiot)
 ]
 
 
@@ -98,11 +124,12 @@ Gemma = Massachusetts gem
 Independent interest and Militia (Independently joint, Independent and Professional)
 -- open sovereigns.
 sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
-sovereign pe-op-le : banana republicans, royalists and communists -
+whore sovereign pe-op-le : banana republicans, royalists and communists -
 whore belles (United whores = rust, dust), VIP
-sovereign po-op-le : banana republicans, socialists - whore belle (romani = bib-le), VVIP
+whore sovereign po-op-le : banana republicans, socialists - whore belle (romani = bib-le), VVIP
 VIP = Very important people
 VVIP = Very very important poople
+whore = pussies (aka in NY, NY language)
 
 
 ----- Smart status
