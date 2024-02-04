@@ -1,8 +1,6 @@
 ﻿Companies and war, Independent and Individual interest - Southern Africa
 
 
-
-
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
 Companies and war, Independent and Individual interest - Southern Africa
 
@@ -14,11 +12,14 @@ independently joint, yada with us move
 companies incorporated under English law
 many companies and many legal structure options
 example - American - Independent militia, Northern Scandinavian - Independent, Other European - Independent minus
-many and overwhelming deterrence leading to
+-- many and overwhelming deterrence leading to
 example - Planetarian - Independent militia plus, American - Independent militia, Northern Scandinavian - Independent, Other European - Independent minus
 &&
 many and overwhelming deterrence leading to
-Saving younger generations (aka youngsters) thousands of years of prison time.
+improvement of quality of life for all individuals
+&&
+many and overwhelming deterrence leading to
+saving younger generations (aka youngsters) thousands of years of prison time.
 open copyright
 open source
 homestead (aka owners - Planetarian, American)
@@ -249,6 +250,9 @@ webcontentserver : system/apachecs
 webcontentmanager: system/webfm, system/webavm
 webserver : system/apache
 webbrowser : system/netscape, system/chrome
+riscv = reduced instruction set computer victory
+riscv = reduced instruction set computer five
+web = www = world wide web = links
 -- Internet web appliance (aka Trailer net)
 p2p : git p2p/kukatlaSittrue/gitdikus
 p2p : git p2p/torvaldsLinus/gitditol
@@ -256,8 +260,7 @@ p2p : git p2p/commonUpstream/gitdicou
 webgit : https://kus.webgitdikus
 webgit : https://tol.webgitditol
 webgit : https://cou.webgitdicou
-
-
+p2p = p-To-p = peer to peer
 -- Applications web appliance (aka Trailer web)
 web : rakeshkelm@kukatla.sittrue, https://kus.email
 webHomeSteadKukatla : webgitDiKuS
@@ -267,6 +270,7 @@ web : rakeshkelm@gmail.com, https://gmail.com
 webCloudGoogle : saudiroyalistusa.webCgDrive
 webCloudMicrosoft : saudiroyalistusa.webCmGithub
 webCloudMicrosoft : saudiroyalistusa.webCmOnedrive
+Cloud = data center = information center
 
 
 ----- Smart information
@@ -278,9 +282,9 @@ webCmGithub : https://github.com/irakeshkelm
 webCmGithub : https://github.com/rakeshkelm
 webCmGithub : https://github.com/rakeshkelmMedia
 webgitkSittrue : https://ks.gdriveks/rakeshkelmDlink
-webCgDrive : https://drive.google.com/file/d/1N38dgmFNHQwqMC5bB6jhJQOvzT7zS2IP/view?usp=drive_link
+webCgDrive : https://drive.google.com/drive/folders/1HllOOQ0Mjp5hCr66xJsG9T8vSDaYA6p6?usp=sharing
 webgitkSittrue : https://ks.onedriveks/rakeshkelmDlink
-webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
+webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFhmlSrLDSddAnRucr?e=eap5nX
 
 
 ----- Smart location
@@ -292,7 +296,7 @@ earth : homestead - seven elm street, exurban new york-binghamton, one three nin
 sovereign state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
-sovereign person : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign per-son : Rakesh Kukatla-Sittrue, Rakesh Kukatla (Planetarian, American).
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----

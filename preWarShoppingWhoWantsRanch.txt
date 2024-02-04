@@ -5,7 +5,7 @@
 Pre war shopping - Who wants a Ranch?
 
 
-Individual - Persons
+Individual - girl and boy
 [
 Individuals, Independent interest and Militia
 Individuals, Founder class Planet backup and Founder class Usa
@@ -55,7 +55,7 @@ then - allow, rakesh kukatla-sittrue
 [
 to, go shopping
 for,
-land - scandinvaian
+land - scandinavian
 land - southern african
 ]
 
@@ -229,6 +229,7 @@ webserver : system/apache
 webbrowser : system/netscape, system/chrome
 riscv = reduced instruction set computer victory
 riscv = reduced instruction set computer five
+web = www = world wide web = links
 -- Internet web appliance (aka Trailer net)
 p2p : git p2p/kukatlaSittrue/gitdikus
 p2p : git p2p/torvaldsLinus/gitditol
