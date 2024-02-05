@@ -43,6 +43,8 @@ males only
 damage minimization in a "manic way" - war = improvement for winners only = win lose.
 
 
+
+
 ----- nada wolfram system (aka existential crisis for Israel, nada Truth-in-ghetto system, yada Truth-in-acting system)
 Sergey Brin, so much for facebook, VIP
 Mark Pincus, such a gamer, VVIP
@@ -89,9 +91,16 @@ example slave and janitor - including Barrack Obama, Donald Trump, Joseph Biden
 -- Independent males
 go homesteads
 go houses
--- Whore males (aka coloreds)
+-- Whore males (aka females)
 go condominiums
-go flats
+go flats (aka english condominiums/row condominiums)
+-- Class less males (aka slmales)
+go apartments (aka american flats/sky scrapers)
+
+
+females = f-e-males = finance e (aka grade) males.
+slmales = sl-males = slave males.
+slave males = bought and/or sold males.
 
 
 ----- Truth-in-acting
@@ -104,12 +113,13 @@ Wear whore male clothes (aka skirts, dresses) only
 ]
 
 
-information from
+information from - open sources
 [
 private sources (Rakesh Kukatla-Sittrue)
 private sources (Didier Fernandes aka French girl - Elsa)
 private sources (David Lobron aka English girl - Gemma)
-private sources (Old cowgirl - aka CIA, Director - William J. Burns and other)
+private sources (Debian Founder aka German girl - Birgit)
+private sources (Old cowgirl - aka CIA, Director - William J. Burns)
 public sources (aka internet)
 
 
@@ -123,6 +133,12 @@ CIA = Central intelligence agency
 aka = also known as (in Government language)
 Elsa = Establishment land south africa
 Gemma = Massachusetts gem
+Birgit = Bisexual are git (aka idiot)
+
+
+java = ja-va
+ja = jack ass (aka in NY, NY language)
+va = VA = virginia
 ]
 
 
@@ -158,6 +174,9 @@ webcontentserver : system/apachecs
 webcontentmanager: system/webfm, system/webavm
 webserver : system/apache
 webbrowser : system/netscape, system/chrome
+riscv = reduced instruction set computer victory
+riscv = reduced instruction set computer five
+web = www = world wide web = links
 -- Internet web appliance (aka Trailer net)
 p2p : git p2p/kukatlaSittrue/gitdikus
 p2p : git p2p/torvaldsLinus/gitditol
@@ -165,8 +184,7 @@ p2p : git p2p/commonUpstream/gitdicou
 webgit : https://kus.webgitdikus
 webgit : https://tol.webgitditol
 webgit : https://cou.webgitdicou
-
-
+p2p = p-To-p = peer to peer = independents
 -- Applications web appliance (aka Trailer web)
 web : rakeshkelm@kukatla.sittrue, https://kus.email
 webHomeSteadKukatla : webgitDiKuS
@@ -176,6 +194,7 @@ web : rakeshkelm@gmail.com, https://gmail.com
 webCloudGoogle : saudiroyalistusa.webCgDrive
 webCloudMicrosoft : saudiroyalistusa.webCmGithub
 webCloudMicrosoft : saudiroyalistusa.webCmOnedrive
+Cloud = data center = information center = skyscraper
 
 
 ----- Smart information
@@ -187,9 +206,10 @@ webCmGithub : https://github.com/irakeshkelm
 webCmGithub : https://github.com/rakeshkelm
 webCmGithub : https://github.com/rakeshkelmMedia
 webgitkSittrue : https://ks.gdriveks/rakeshkelmDlink
-webCgDrive : https://drive.google.com/file/d/1N38dgmFNHQwqMC5bB6jhJQOvzT7zS2IP/view?usp=drive_link
+webCgDrive : https://drive.google.com/drive/folders/1HllOOQ0Mjp5hCr66xJsG9T8vSDaYA6p6?usp=sharing
 webgitkSittrue : https://ks.onedriveks/rakeshkelmDlink
-webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFaHqpQjIAFl6Hv00?e=qvDXO8
+webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFhmlSrLDSddAnRucr?e=eap5nX
+github = Cloud = data center = skyscraper = idiot hub
 
 
 ----- Smart location
@@ -201,7 +221,7 @@ earth : homestead - seven elm street, exurban new york-binghamton, one three nin
 sovereign state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
-sovereign per-son : Rakesh Kukatla-Sittrue (Planetarian, American).
+sovereign per-son : Rakesh Kukatla-Sittrue, Rakesh Kukatla (Planetarian, American).
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
