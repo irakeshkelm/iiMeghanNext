@@ -13,15 +13,40 @@ Upper class
 Middle class
 Lower class
 Class less
+
+
+smooth = clearing (aka De Lot technical language)
+De Lot = De-loit-te (aka deloitte.com)
 ]
 
 
+information from - open sources
+[
+private sources (Rakesh Kukatla-Sittrue)
+private sources (Didier Fernandes aka French girl - Elsa)
+private sources (David Lobron aka English girl - Gemma)
+private sources (Debian Founder aka German girl - Birgit)
+private sources (Old cowgirl - aka CIA, Director - William J. Burns)
+public sources (aka internet)
 
 
+Old = Liability holder for any and all Wave hits/attacks
+Safe harbor = Mclane, TX (aka jack ass to defence to mom-old cowgirl)
+Safe harbor receiver(s) = CIA, Director (William J. Burns and others)
+Location = near Wolf trap, Museum
 
 
+CIA = Central intelligence agency
+aka = also known as (in Government language)
+Elsa = Establishment land south africa
+Gemma = Massachusetts gem
+Birgit = Bisexual are git (aka idiot)
 
 
+java = ja-va
+ja = jack ass (aka in NY, NY language)
+va = VA = virginia
+]
 
 
 
@@ -66,7 +91,7 @@ p2p : git p2p/commonUpstream/gitdicou
 webgit : https://kus.webgitdikus
 webgit : https://tol.webgitditol
 webgit : https://cou.webgitdicou
-p2p = p-To-p = peer to peer
+p2p = p-To-p = peer to peer = independents
 -- Applications web appliance (aka Trailer web)
 web : rakeshkelm@kukatla.sittrue, https://kus.email
 webHomeSteadKukatla : webgitDiKuS
@@ -76,7 +101,7 @@ web : rakeshkelm@gmail.com, https://gmail.com
 webCloudGoogle : saudiroyalistusa.webCgDrive
 webCloudMicrosoft : saudiroyalistusa.webCmGithub
 webCloudMicrosoft : saudiroyalistusa.webCmOnedrive
-Cloud = data center = information center
+Cloud = data center = information center = skyscraper
 
 
 ----- Smart information
@@ -91,6 +116,7 @@ webgitkSittrue : https://ks.gdriveks/rakeshkelmDlink
 webCgDrive : https://drive.google.com/drive/folders/1HllOOQ0Mjp5hCr66xJsG9T8vSDaYA6p6?usp=sharing
 webgitkSittrue : https://ks.onedriveks/rakeshkelmDlink
 webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFhmlSrLDSddAnRucr?e=eap5nX
+github = Cloud = data center = skyscraper = idiot hub
 
 
 ----- Smart location
