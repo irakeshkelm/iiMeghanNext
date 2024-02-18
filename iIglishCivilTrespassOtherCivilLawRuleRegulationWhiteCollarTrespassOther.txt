@@ -36,7 +36,7 @@ examples
 common civil example:
 corporation civil (aka civil law, civil rule, civil regulation) trespass and other - including accounting, financing and other
 common corporation example:
-Banks (investment, commercial, consumer), Financial institutional investors (private equity groups, hedge funds, sovereign wealth funds, retirement funds) and other.
+Banks (investment, commercial, consumer, reserve), Financial institutional investors (private equity groups, hedge funds, sovereign wealth funds, retirement funds) and other.
 common bank example:
 Ben Bernanke, Academic and George Bush Junior - 43rd President Reserve bank Chairman, Dc, Usa
 Hank Paulson, Goldman Sachs and George Bush Junior - 43rd President Treasury Secretary, Dc, Usa
@@ -44,9 +44,10 @@ Neal Kashkari, Goldman Sachs and George Bush Junior - 43rd President Treasury Ad
 
 
 owner = Rakesh Kukatla-Sittrue
-alexa fry owner = Ben Bernanke
-alexa fry worker = Hank Paulson
+alexa fry owner = Hank Paulson
 alexa fry worker = Neal Kashkari
+alexa worker = Ben Bernanke
+alexa = a-le-x-a = a lex a
 
 
 common civil example:
@@ -60,10 +61,8 @@ Ca = california.
 
 
 owner = Rakesh Kukatla-Sittrue
-alexa fry owner = Ed Lee
 alexa fry worker = Dennis Herera
-
-
+alexa worker = Ed Lee
 alexa = a-le-x-a = a lex a
 ]
 
