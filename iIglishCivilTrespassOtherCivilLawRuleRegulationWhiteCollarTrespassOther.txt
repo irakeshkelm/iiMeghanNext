@@ -36,10 +36,11 @@ examples
 common civil example:
 corporation civil (aka civil law, civil rule, civil regulation) trespass and other - including accounting, financing and other
 common corporation example:
-Banks (investment, commercial, consumer, reserve). 
-Financial institutional investors (venture capital funds, private equity funds, hedge funds, sovereign wealth funds, retirement funds) 
-and 
-Other.
+Banks (investment, commercial, consumer, reserve)
+and
+Financial institutional investors (venture capital funds, private equity funds, hedge funds, sovereign wealth funds, retirement funds)
+and
+other.
 common bank example:
 Ben Bernanke, Academic and George Bush Junior - 43rd President Reserve bank Chairman, Dc, Usa
 Hank Paulson, Goldman Sachs and George Bush Junior - 43rd President Treasury Secretary, Dc, Usa
@@ -57,17 +58,35 @@ common civil example:
 Municipal (city, town, county, state and federal) civil (aka civil law, civil rule, civil regulation) trespass and other - including traffic, family and other
 common municipal example:
 In power individuals,
-attorney (attorney politicians, attorneys, attorney judges),
-ambassadors 
-and 
+attorney (attorney politicians, attorneys, attorney judges)
+and
+ambassadors
+and
 other.
+
+
+attorneys such as :
+solicitor (advisor) judicial civil attorney (legal trials and law settlements)
+and
+justice (advisor) judicial civil attorney (legal trials and financial settlements)
+and
+executive (advisor) municipal civil attorney (legal transactional settlements)
+
+
+judicial = judiciary = aka city, town, county, state and federal
+justice = judiciary = aka city, town, county, state and federal
+municipal = executive = aka city, town, county, state and federal
+
+
 common in power example:
+Theodore Olson, George Bush Junior - 43rd President Solicitor judicial attorney, Dc, Usa
+Dennis Herera, municipal executive attorney, San Francisco, Ca, Usa
 Ed Lee, City Mayor, San Francisco, Ca, Usa
-Dennis Herera, City Attorney, San Francisco, Ca, Usa
 Ca = california.
 
 
 owner = Rakesh Kukatla-Sittrue
+alexa fry owner = Theodore Olson
 alexa fry worker = Dennis Herera
 alexa worker = Edwin Lee
 alexa = a-le-x-a = a lex a
