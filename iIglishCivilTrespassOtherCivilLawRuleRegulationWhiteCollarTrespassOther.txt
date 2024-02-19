@@ -36,7 +36,10 @@ examples
 common civil example:
 corporation civil (aka civil law, civil rule, civil regulation) trespass and other - including accounting, financing and other
 common corporation example:
-Banks (investment, commercial, consumer, reserve), Financial institutional investors (private equity groups, hedge funds, sovereign wealth funds, retirement funds) and other.
+Banks (investment, commercial, consumer, reserve). 
+Financial institutional investors (venture capital funds, private equity funds, hedge funds, sovereign wealth funds, retirement funds) 
+and 
+Other.
 common bank example:
 Ben Bernanke, Academic and George Bush Junior - 43rd President Reserve bank Chairman, Dc, Usa
 Hank Paulson, Goldman Sachs and George Bush Junior - 43rd President Treasury Secretary, Dc, Usa
@@ -53,7 +56,11 @@ alexa = a-le-x-a = a lex a
 common civil example:
 Municipal (city, town, county, state and federal) civil (aka civil law, civil rule, civil regulation) trespass and other - including traffic, family and other
 common municipal example:
-In power individuals (attorney politicians, attorneys, attorney judges), ambassadors and other.
+In power individuals,
+attorney (attorney politicians, attorneys, attorney judges),
+ambassadors 
+and 
+other.
 common in power example:
 Ed Lee, City Mayor, San Francisco, Ca, Usa
 Dennis Herera, City Attorney, San Francisco, Ca, Usa
@@ -62,7 +69,7 @@ Ca = california.
 
 owner = Rakesh Kukatla-Sittrue
 alexa fry worker = Dennis Herera
-alexa worker = Ed Lee
+alexa worker = Edwin Lee
 alexa = a-le-x-a = a lex a
 ]
 
