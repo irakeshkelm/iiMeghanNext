@@ -1,0 +1,323 @@
+﻿Iiglish Sell your (aka capitalist) services (aka appliances), trades (aka appliances) from your (aka capitalism) companies
+
+
+----- Open copyright, document, Rakesh Kukatla-Sittrue -----
+Iiglish Sell your (aka capitalist) services (aka appliances), trades (aka appliances) from your (aka capitalism) companies
+
+
+always sell
+[
+----- your (capitalist) services as an appliance (aka earthing or grounding)
+for
+example writing service
+example music service
+example image service
+example voice service
+example video service
+so on and so forth
+
+
+----- your (capitalist) trades as an appliance (aka earthing or grounding)
+for
+example writing trade
+example music trade
+example image trade
+example voice trade
+example video trade
+so on and so forth
+
+
+----- your (capitalist) services (aka appliances) and your trades (aka appliances)
+from
+your companies (aka capitalism aka earthing or grounding)
+]
+
+
+example:
+web services (aka appliances), web trades (aka appliances) and web companies (aka capitalism)
+[
+----- start visit yelp (aka visit me) -----
+-- services template (aka appliances)
+visit.appliance (visitor me)
+visit.service (visitor me)
+visit.applianceservice.company (visitor me)
+visit.division.company (visitor me)
+visit.company (visitor me)
+so on and so forth
+-- services example
+visit.google (visitor me)
+
+
+-- trades template (aka appliances)
+visit.company.holding (visitor me)
+visit.holding.trading (visitor me)
+visit.trading.sovereign (visitor me)
+so on and so forth
+-- trades example
+visit.alphabet (visitor me)
+----- end visit yelp (aka visit me): -----
+
+
+----- start customer yelp (aka customer me) -----
+-- services template (aka appliances)
+customer.appliance (customer me)
+customer.service (customer me)
+customer.applianceservice.company (customer me)
+customer.division.company (customer me)
+customer.company (customer me)
+so on and so forth
+-- example template
+customer.google (customer me)
+
+
+-- trades template (aka appliances)
+customer.company.holding (customer me)
+customer.holding.trading (customer me)
+customer.trading.sovereign (customer me)
+so on and so forth
+-- trades example (aka appliances)
+customer.alphabet (customer me)
+----- end customer yelp (aka customer me) -----
+
+
+----- start client yelp (aka client me) -----
+-- services template (aka appliances)
+client.appliance (clienter me)
+client.service (clienter me)
+client.applianceservice.company (clienter me)
+client.division.company (clienter me)
+client.company (clienter me)
+so on and so forth
+-- example template
+client.google (clienter me)
+
+
+-- trades template (aka appliances)
+client.company.holding (clienter me)
+client.holding.trading (clienter me)
+client.trading.sovereign (clienter me)
+so on and so forth
+-- trades example (aka appliances)
+client.alphabet (clienter me)
+----- end client yelp (aka client me): -----
+
+
+----- start visit services (aka appliancer me) -----
+ ----- appliance template (aka appliancer me):
+company.appliances (built in house appliance service aka appliancer me)
+company.service (built in house service aka appliancer me)
+company.mergedappliance.whatservice (merged appliance aka appliancer me)
+company.acquiredappliance.whatservice (acquired appliance aka appliancer me)
+so on and so forth
+----- appliance example (aka appliancer me)
+google.appliances (search, ai, chromebook appliance aka appliancer me)
+google.youtube.video (acquired service aka video aka apliancer me)
+google.grandcentral.voice (merged service aka voice aka appliancer me)
+
+
+----- Appliance company template
+company.appliance (tac, the appliance company, provide appliance and services).
+company.relation (cacrm, relate for appliance company - to visitors, clients, investors, government, media).
+company.finance (cacif, finance for company - from individuals investors, financial institution investors).
+company.leader (cacem, lead for company - with board, executive team).
+company.com (tac, provide services, products)
+so on and so forth
+cacse = chief appliance company services engineer
+cacrm = chief appliance company relations manager
+cacif = chief appliance company investments financier
+cacem = chief appliance company executives manager
+----- Appliance company example
+google.com (the owning appliance company, own appliances and services)
+google.relation (investors, clients, customers, visitors, government, media)
+google.finance (individual investors, financial institutions investors)
+google.leader (chief executive appliance company manager, board, executive team)
+----- end visit services (aka appliancer me) -----
+
+
+----- start client trades (aka appliancer me) -----
+----- holding company template
+holding.company (thc, the holding company, hold the - companies)
+holding.relation (chrm, relate for holding company - to investors, government, media)
+holding.finance (chif, aka finance for holding company - from individuals investors, financial institution investors)
+holding.leader (chem, aka lead for holding company with - board members, executive team)
+chcrm = chief holding company relations manager
+chcif = chief holding company investments financier
+chcem = chief holding company executives manager
+----- holding company example
+alphabet.com (the owning holding company, owns companies and trades companies)
+alphabet.relation (investors, clients, visitors, government, media)
+alphabet.finance (individual investors, financial institutions investors)
+alphabet.leader (chief company executive manager, board, executive team)
+
+
+----- trading company template
+trading.holding (ttc, the trading company - trades holding company)
+trading.relation (ctrm, relate for trading company - to investors, government, media)
+trading.finance (ctif, finance for trading company - from individual investors, financial institution investors)
+trading.leader (ctem, lead for trading company - with board, executive team)
+ctcrm = chief trading company relations manager
+ctcif = chief trading company investments financier
+ctcem = chief trading company executives manager
+----- trading company example
+number.com (the owning trade company, owns trades, trades companies)
+number.relation (investors, clients, visitors, government, media)
+number.finance (individual investors, financial institutions investors)
+number.leader (chief company executive manager, board, executive team)
+
+
+----- sovereign company template
+sovereign.owning (tsc, the sovereign company - owns sovereigns, owns trades
+sovereign.relation (csrm, relate for sovereign company - to investors, government, media)
+sovereign.finance (csif, finance for sovereign company - from individuals investors, financial institution investors)
+sovereign.leader (csem, lead for sovereign company - with board, executive team)
+cscrm = chief sovereign company relations manager
+cscif = chief sovereign company investments financier
+cscem = chief sovereign company executives manager
+----- sovereign company example
+alphabetnumber.com (the sovereign owning company, owns sovereigns, owns holding trades, owns trading trades)
+alphabetnumber.relation (investors, clients, visitors, government, media)
+alphabetnumber.finance (individual investors, financial institutions investors)
+alphabetnumber.leader (chief company executive manager, board, executive team)
+----- end client trades (aka servicer me) -----
+
+
+]
+
+
+
+
+
+
+
+
+Iiglish - Independent interest English, Core and Self
+[
+open capitalism - in the front
+and
+open capitalism - in the back
+
+
+yada open power improvement - independent militia plus
+yada compete on practice, nada about withholding information and/or fudging information:
+yada intelligence, nada tribal intelligence - banana republic
+
+
+have intelligence (engage in legal kills)
+legal - precision kills (create deterrence), keep society - Usa and World functioning
+]
+
+
+information from - open sources
+[
+private sources (Rakesh Kukatla-Sittrue)
+private sources (Didier Fernandes aka French girl - Elsa)
+private sources (David Lobron aka English girl - Gemma)
+private sources (Debian Founder aka German girl - Birgit)
+private sources (Old cowgirl - aka CIA, Director - William J. Burns)
+public sources (aka internet)
+
+
+Old = Liability holder for any and all Wave hits/attacks
+Safe harbor = Mclane, TX (aka jack ass to defence to mom-old cowgirl)
+Safe harbor receiver(s) = CIA, Director (William J. Burns and others)
+Location = near Wolf trap, Museum
+
+
+CIA = Central intelligence agency
+aka = also known as (in Government language)
+Elsa = Establishment land south africa
+Gemma = Massachusetts gem
+Birgit = Bisexual are git (aka idiot)
+
+
+java = ja-va
+ja = jack ass (aka in NY, NY language)
+va = VA = virginia
+]
+
+
+
+
+
+
+
+
+----- Open signature -----
+Independent interest and Militia (Capitalism - Independently joint, Independent and Professional)
+-- open sovereigns.
+sovereign per-son : Rakesh Kukatla-Sittrue, Rakesh Kukatla (Planetarian, American).
+whore sovereign pe-op-le : banana republicans, royalists and communists -
+whore belles (United whores = rust, dust), VIP
+whore sovereign po-op-le : banana republicans, socialists - whore belle (romani = bib-le), VVIP
+VIP = Very important people
+VVIP = Very very important poople
+whore = pussies (aka in NY, NY language)
+
+
+----- Smart status
+Unlucky (aka bastard)
+Single and Available
+
+
+----- Smart communication
+-- Electronic system web appliance (Trailer electronic system)
+electronic : riscv, arm
+electronicware : firmware/electronic
+system : linux/electronicware
+webcontentserver : system/apachecs
+webcontentmanager: system/webfm, system/webavm
+webserver : system/apache
+webbrowser : system/netscape, system/chrome
+riscv = reduced instruction set computer victory
+riscv = reduced instruction set computer five
+web = www = world wide web = links
+-- Internet web appliance (aka Trailer net)
+p2p : git p2p/kukatlaSittrue/gitdikus
+p2p : git p2p/torvaldsLinus/gitditol
+p2p : git p2p/commonUpstream/gitdicou
+webgit : https://kus.webgitdikus
+webgit : https://tol.webgitditol
+webgit : https://cou.webgitdicou
+p2p = p-To-p = peer to peer = independents
+-- Applications web appliance (aka Trailer web)
+web : rakeshkelm@kukatla.sittrue, https://kus.email
+webHomeSteadKukatla : webgitDiKuS
+webHomeSteadKukatla : webcomDiKuS
+webCloudZoom : saudRoyalistUsa.webCzZoom
+web : rakeshkelm@gmail.com, https://gmail.com
+webCloudGoogle : saudiroyalistusa.webCgDrive
+webCloudMicrosoft : saudiroyalistusa.webCmGithub
+webCloudMicrosoft : saudiroyalistusa.webCmOnedrive
+Cloud = data center = information center = skyscraper
+
+
+----- Smart information
+Information web appliance (aka Trailer content)
+webgitDiKuS : https://kus.webgitdikus/rakeshkelm
+webgitDiKuS : https://kus.webgitdikus/irakeshkelm
+webgitDiKuS :https://kus.webgitdikus/rakeshkelmMedia
+webCmGithub : https://github.com/irakeshkelm
+webCmGithub : https://github.com/rakeshkelm
+webCmGithub : https://github.com/rakeshkelmMedia
+webgitkSittrue : https://ks.gdriveks/rakeshkelmDlink
+webCgDrive : https://drive.google.com/drive/folders/1HllOOQ0Mjp5hCr66xJsG9T8vSDaYA6p6?usp=sharing
+webgitkSittrue : https://ks.onedriveks/rakeshkelmDlink
+webCmOnedrive : https://1drv.ms/f/s!AshGjCtVNMSFhmlSrLDSddAnRucr?e=eap5nX
+github = Cloud = data center = skyscraper = idiot hub
+gdrive = Cloud = data center = skyscraper = sir
+onedrive = Cloud = data center = skyscraper = one sir
+
+
+----- Smart location
+-- Galaxy appliance (aka Trailer planet)
+planet : earth
+sovereign country : United slave america
+-- Planet appliance (aka Trailer earth)
+earth : homestead - seven elm street, exurban new york-binghamton, one three nine zero five
+sovereign state : kingdom of new york
+-- Earth appliance (aka Trailer park)
+homestead : cottage
+sovereign per-son : Rakesh Kukatla-Sittrue, Rakesh Kukatla (Planetarian, American).
+
+
+----- Open copyright, document, Rakesh Kukatla-Sittrue -----
