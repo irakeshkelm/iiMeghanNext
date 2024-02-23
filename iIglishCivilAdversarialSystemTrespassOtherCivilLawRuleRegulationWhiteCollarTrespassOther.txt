@@ -38,10 +38,38 @@ transferring the risk to (aka fuc-king) international reserve banks
 
 
 if,
-unable to, transfer risk
+unable to, transfer risk to banks
 try,
-attorney (legal trials) settlements at law
+attorney (legal trials) settlements at law :
+suc-king up the risk you (aka state judiciary) assumed
+and/or
+transferring the risk to (aka fuc-king) other state judiciary
+transferring the risk to (aka fuc-king) the federal judiciary
+transferring the risk to (aka fuc-king) international judiciary
+
+
+if,
+unable to, transfer risk to attorneys (legal trials)
+try,
+ambassadors (advisors) settlements at land :
+suc-king up the risk you (aka state ambassador) assumed
+and/or
+transferring the risk to (aka fuc-king) other state ambassadors
+transferring the risk to (aka fuc-king) the federal ambassador
+transferring the risk to (aka fuc-king) international ambassadors
 ]
+
+
+if,
+unable to, transfer risk to ambassadors (advisors)
+try,
+transferring the risk to (aka fuc-king) a country and/or a region
+by declaring - war
+and
+winning - war :
+land
+and/or
+legal structure - Reserve bank, Judiciary, militia
 
 
 examples
