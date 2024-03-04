@@ -89,10 +89,10 @@ Neal Kashkari, Goldman Sachs and George Bush Junior - 43rd President Treasury Ad
 Ben Bernanke, Academic and George Bush Junior - 43rd President Reserve bank Chairman, Dc, Usa
 
 
-owner = Rakesh Kukatla-Sittrue
-alexa fry owner = Hank Paulson
-alexa fry worker = Neal Kashkari
-alexa worker = Ben Bernanke
+owner = Rakesh Kukatla-Sittrue, Capitalist
+alexa fry owner = Hank Paulson, Swamp capitalist
+alexa fry worker = Neal Kashkari, Swamp capitalist
+alexa worker = Ben Bernanke, Swamp capitalist
 alexa = a-le-x-a = a lex a
 
 
@@ -122,15 +122,15 @@ municipal = executive = aka city, town, county, state and federal
 
 common in power attorney example:
 Theodore Olson, George Bush Junior - 43rd President Solicitor judicial attorney, Dc, Usa
-Dennis Herera, municipal executive attorney, San Francisco, Ca, Usa
+Dennis Herera, Municipal executive attorney, San Francisco, Ca, Usa
 Ed Lee, City Mayor, San Francisco, Ca, Usa
 Ca = california.
 
 
-owner = Rakesh Kukatla-Sittrue
-alexa fry owner = Theodore Olson
-alexa fry worker = Dennis Herera
-alexa worker = Edwin Lee
+owner = Rakesh Kukatla-Sittrue, Militia
+alexa fry owner = Theodore Olson, Ex Swamp Attorney
+alexa fry worker = Dennis Herera, Swamp Attorney
+alexa worker = Edwin Lee, Swamp municipal executive
 alexa = a-le-x-a = a lex a
 ]
 

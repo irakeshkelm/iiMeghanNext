@@ -47,10 +47,10 @@ John Ashcroft, George Bush Junior - 43rd President Attorney General, DC, Usa
 
 
 alexa owner : Jeffrey Skilling (served out sentence)
-alexa fry owner : Kenneth Lay (natural death)
-alexa fry owner : Andersen consulting Managing Partner (merger and acquisition)
-alexa fry worker : Andersen consulting Enron engagement partner (merger and acquisition)
-alexa worker : John Ashcroft
+alexa fry owner : Kenneth Lay (natural death), Ex Swamp managing executive
+alexa fry owner : Andersen consulting Managing Partner (merger and acquisition), Swamp managing executive
+alexa fry worker : Andersen consulting Enron engagement partner (merger and acquisition), Swamp executive
+alexa worker : John Ashcroft. Swamp municipal managing attorney
 alexa = a-le-x-a = a le-x a
 CEO = chief executive officer
 ]
@@ -71,7 +71,7 @@ Patrick Fitzgerald, Special Prosecutor, DC, Usa
 
 
 alexa owner : Rod Blagojevich (served out sentence)
-alexa worker : Patrick Fitzgerald
+alexa worker : Patrick Fitzgerald, Swamp municipal attorney
 alexa = a-le-x-a = a le-x a
 ]
 
@@ -95,8 +95,10 @@ Lawrence Summers, Economist Advisor, Executive Administration, Usa.
 
 
 Jeff fry : Juice f-e-male going from e (aka grade) to f (aka grade) - banana republic
-alexa fry owner : Jeffrey Lehman (resigned and retired)
-alexa worker : Lawrence Summers
+
+
+alexa fry owner : Jeffrey Lehman (resigned and retired), Ex Swamp municipal managing executive
+alexa worker : Lawrence Summers, Swamp municipal executive
 alexa = a-le-x-a = a le-x a
 f-e-male = finance e (aka grade) male
 ]
@@ -116,7 +118,7 @@ Carl Bernstein, Reporter, Washington Post, DC, Usa
 
 
 alexa owner : Bob Woodward, Carl Bernstein
-alexa worker : Richard Nixon (Received a self pardon)
+alexa worker : Richard Nixon (Received a self pardon), Ex Swamp municipal managing executive
 alexa = a-le-x-a = a le-x a
 ]
 
