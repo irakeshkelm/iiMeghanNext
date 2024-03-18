@@ -1,71 +1,60 @@
-﻿Iiglish Linux distributions - homestead, workstead
+﻿Iiglish Web - open interfaces, links, information engineering
 
 
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
-Iiglish Linux distributions - homestead, workstead
+Iiglish Web - open interfaces, links, information engineering
 
 
-common distributions
+default - html, hypertext markup language (aka capitalist)
 [
-Linux - Web editor
-example homestead : Linux - Web
-example workstead : Linux - xWeb, yWeb, zWeb
-
-
-Linux - Smart Device
-example homestead : Linux - Device
-example workstead : Linux - Android, Harmony, OneUI
-
-
-Linux - Net editor
-example homestead : Linux - Chromium
-example workstead : Linux - operaChromium, googleChromium, microsoftChromium
-
-
-Linux - Developer, Programmer
-example homestead : Linux - DevPro
-example workstead : Linux - Debian, Linux - Redhat
-
-
-Linux - Systems integrator
-example homestead : Linux - SysInt
-example workstead : Linux - Gentoo
-
-
-Linux - Engineer
-example homestead : Linux - Torvalds
-example workstead : Linux - xEngineer
-
-
-Linux - Container runner
-example homestead : Linux - Container
-example workstead : Linux - Docker
-
-
-Linux - Cloud runner
-example homestead : Linux - cloudRunner
-example workstead : Linux - googleRunner, microsoftRunner, amazonRunner
+truth-in-acting
+high standard
+open source
+open copyright
+simple (cookie free - nada dope)
+links
+server/service homestead location
+yada information engineering
 ]
 
 
-other distributions
+nada html (aka closed aka them hot girls)
 [
-Linux - Financial analyzer
-example homestead : Linux - analyzeFinance
-example workstead : Linux - yAnalyzerF?
+other:
+on own or get suckered into it
+nada high standard (any of the following)
+nada open source (yada closed objects)
+nada open copyright
+nada simple
+nada links
+nada server/service workstead location
+nada information engineering, yada copy/paste
 
 
-Linux - Game player
-example homestead : Linux - playGames
-example workstead : Linux - zPlayer
+interfaces - best of worst to worst of worst (aka them hot girls)
 
 
-Linux - Entertainment player
-example homestead : Linux - playEntertainment
-example workstead : Linux - xPlayer
+interface : css currency (closed cascading style sheets aka communist)
+nada webcss layouter (aka nada open layouter aka nada Capitalist; aka Rockefeller method aka monopoly method)
+example : css - googlecss layouter, microsoftcss layouter, applecss layouter (aka them hot girls). Web disclosures and web regulations apply.
 
 
-so on and so forth
+interface : scripts currency (closed interpreters aka Socialist)
+nada webscript interpreter (aka nada open interpreter aka nada Capitalist; aka VVIP aka Rockefeller method aka monopoly method)
+example : script - javascript interpreter, actionscript interpreter, applescript interpreter (aka them ugly kitten hot girls). Web disclosures and web regulations apply.
+
+
+interface : objects currency (closed objects aka Royalist)
+nada webobject compiler (aka nada open compiler aka nada Capitalist; aka VVIP aka Rockefeller method aka monopoly method)
+example : object - mozilla-? rust-? compiler, google go compiler, google kotlin compiler, gnu c compiler, sun java compiler, microsoft c# compiler, apple objective-c compiler (aka them ugly hot girls). Web disclosures and web regulations apply.
+
+
+gnu = gnu is not unix (aka gnu is compiler - GNC aka Royalist,)
+java = ja-va (aka ja to md to txt)
+current = kotlin, go, rust-? (aka Royalist aka nada improvement)
+VIP = Very imortant pe-op-le
+VVIP = Very Very important po-op-le
+whore = pussies (aka in NY, NY language)
 ]
 
 
