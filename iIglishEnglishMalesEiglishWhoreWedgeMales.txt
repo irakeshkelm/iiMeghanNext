@@ -46,14 +46,15 @@ mor-mon = utah = u-ta-h = u-ta(ta)-(jewis)h = u-mormon-english-jewish = umenh
 
 
 jewish = pure germanic
+irish = pure english
 variants = lower on the benchmark is better
 
 
 jewish (pure germanic)
+irish (pure english)
 spangh (spanish-english-jewish)
-irih (irish-english-jewish)
 umenh (mormon-new english-jewish)
-sengh (southern-english-jewish)
+sengh (southern/scottish-english-jewish)
 tatah (indian-english-jewish)
 
 
