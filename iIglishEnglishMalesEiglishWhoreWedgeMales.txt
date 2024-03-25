@@ -51,6 +51,7 @@ variants = lower on the benchmark is better
 
 jewish (pure germanic)
 spangh (spanish-english-jewish)
+irih (irish-english-jewish)
 umenh (mormon-new english-jewish)
 sengh (southern-english-jewish)
 tatah (indian-english-jewish)
