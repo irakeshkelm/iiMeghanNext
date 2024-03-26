@@ -26,6 +26,29 @@ examples pecking order :
 males such as american militia and other
 males such as scandinavians and other
 males such as asians and other
+
+
+american militia = pure male
+variants = higher on the benchmark is better
+
+
+males pecking order :
+american militia
+scandinavians
+english
+english asians
+english africans
+germanic europeans
+germanic africans
+slavic europeans
+communist europeans
+communist asians
+communist africans
+religious asians
+religious africans
+catholic europeans
+catholic latins
+catholic africans
 ]
 
 
@@ -45,19 +68,6 @@ Mormon males
 mor-mon = utah = u-ta-h = u-ta(ta)-(jewis)h = u-mormon-english-jewish = umenh
 
 
-jewish = pure germanic
-irish = pure english
-variants = lower on the benchmark is better
-
-
-jewish (pure germanic)
-irish (pure english)
-spangh (spanish-english-jewish)
-umenh (mormon-new english-jewish)
-sengh (southern/scottish-english-jewish)
-tatah (indian-english-jewish)
-
-
 Other reference :
 neal = kashkari (aka Goldman Sacs language)
 Kashkari = swamp cash = swamphamton.
@@ -70,6 +80,20 @@ examples - pecking order :
 females such as jewish and other
 losers such as spanish and other
 slaves such as blacks and other
+
+
+jewish-females pecking order :
+jewish = pure germanic
+irish = pure english
+variants = lower on the benchmark is better
+
+
+jewish (pure germanic)
+irish (pure english)
+spangh (spanish-english-jewish)
+umenh (mormon-new english-jewish)
+sengh (southern/scottish-english-jewish)
+tatah (indian-english-jewish)
 ]
 
 
