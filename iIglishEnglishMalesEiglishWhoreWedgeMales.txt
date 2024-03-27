@@ -45,13 +45,14 @@ variants = derivative male
 
 males pecking order :
 higher on the benchmark is better
+
+
 american militia
 other :
 scandinavians
 english
 english asians
 english africans
-germanic africans
 variants :
 slavic europeans
 germanic europeans
@@ -101,6 +102,8 @@ slaves such as blacks and other
 
 jewish-females pecking order :
 lower on the benchmark is better
+
+
 jewish = pure germanic
 irish = pure english
 variants = derivatives
