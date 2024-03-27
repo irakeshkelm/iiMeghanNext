@@ -39,16 +39,20 @@ males such as asians and other
 
 
 american militia = pure male
-variants = higher on the benchmark is better
+other = male
+variants = derivative male
 
 
 males pecking order :
+higher on the benchmark is better
 american militia
+other :
 scandinavians
 english
 english asians
 english africans
 germanic africans
+variants :
 slavic europeans
 germanic europeans
 communist europeans
@@ -96,9 +100,10 @@ slaves such as blacks and other
 
 
 jewish-females pecking order :
+lower on the benchmark is better
 jewish = pure germanic
 irish = pure english
-variants = lower on the benchmark is better
+variants = derivatives
 
 
 jewish (pure germanic)
