@@ -43,8 +43,8 @@ other(s)
 
 
 Artists and Open engineers :
-Linus Torvalds (aka linux git)
-Elon Musk (aka Pay pal - Star X)
+Linus Torvalds (aka git linux)
+Elon Musk (aka Star X - Pay pal)
 Lawrence Page (aka Ask Larry - Go ogle)
 other(s)
 
