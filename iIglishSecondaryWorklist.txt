@@ -9,11 +9,11 @@ Iiglish Secondary Worklist
 
 [
 040324
-Web apps with Web ui having web character and web feel. (Alwaleed Saud - Target user and Lawrence Page - Target engineer)
+Web (aka www) apps with Web (aka www) ui having web (aka www) character and web (aka www) feel. (Alwaleed Saud - Target user and Lawrence Page - Target engineer)
 
 
 040124
-smart web prompt (for ui and other) with software (editors and other) to execute user commands. smart web prompt available on demand or always available.
+smart web (aka www) prompt (for ui and other) with software (editors and other) to execute user commands. smart web (aka www) prompt available on demand or always available.
 
 
 022224
@@ -62,7 +62,7 @@ open capitalism - in the back
 
 
 yada open power improvement - independent militia plus
-nada become someone's X-Axe, yada Mayday
+nada become someone's X-Axe
 yada compete on practice, nada about withholding information and/or fudging information:
 yada intelligence, nada tribal intelligence - banana republic
 
